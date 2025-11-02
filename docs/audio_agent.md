@@ -1,4 +1,9 @@
 # Audio Agents
+
+- [Audio Agents](#audio-agents)
+	- [Audio Agents](#audio-agents-1)
+
+
 ## Audio Agents
 - **MOSS-Speech: Towards True Speech-to-Speech Models Without Text Guidance**, `arXiv, 2510.00499`, [arxiv](http://arxiv.org/abs/2510.00499v2), [pdf](http://arxiv.org/pdf/2510.00499v2.pdf), cication: [**-1**](None) 
 

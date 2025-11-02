@@ -1,4 +1,13 @@
 # LLM Reasoning
+
+- [LLM Reasoning](#llm-reasoning)
+	- [LLM Reasoning](#llm-reasoning-1)
+	- [Reinforcement Learning](#reinforcement-learning)
+	- [Test Time Scaling](#test-time-scaling)
+	- [Latent Reasoning](#latent-reasoning)
+
+
+
 ## LLM Reasoning
 - **R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth
   and Depth?**, `arXiv, 2510.08189`, [arxiv](http://arxiv.org/abs/2510.08189v2), [pdf](http://arxiv.org/pdf/2510.08189v2.pdf), cication: [**-1**](None) 
@@ -11,6 +20,7 @@
   for LLMs**, `arXiv, 2510.11696`, [arxiv](http://arxiv.org/abs/2510.11696v1), [pdf](http://arxiv.org/pdf/2510.11696v1.pdf), cication: [**-1**](None) 
 
 	 *Wei Huang, Yi Ge, Shuai Yang, ..., Song Han, Yukang Chen*
+
 ## Reinforcement Learning
 - **Supervised Reinforcement Learning: From Expert Trajectories to Step-wise
   Reasoning**, `arXiv, 2510.25992`, [arxiv](http://arxiv.org/abs/2510.25992v1), [pdf](http://arxiv.org/pdf/2510.25992v1.pdf), cication: [**-1**](None) 
@@ -40,6 +50,8 @@
   Language Models**, `arXiv, 2509.19803`, [arxiv](http://arxiv.org/abs/2509.19803v1), [pdf](http://arxiv.org/pdf/2509.19803v1.pdf), cication: [**-1**](None) 
 
 	 *Guochao Jiang, Wenfeng Feng, Guofeng Quan, ..., Guohua Liu, Hao Wang*
+
+
 ## Test Time Scaling
 - [Recursive Language Models](https://alexzhang13.github.io/blog/2025/rlm/) 
 
@@ -51,6 +63,8 @@
   Self-Consistency for LLM Reasoning**, `arXiv, 2510.15444`, [arxiv](http://arxiv.org/abs/2510.15444v1), [pdf](http://arxiv.org/pdf/2510.15444v1.pdf), cication: [**-1**](None) 
 
 	 *Zhi Zhou, Yuhao Tan, Zenan Li, ..., Yu-Feng Li, Xiaoxing Ma*
+
+
 ## Latent Reasoning
 - 🌟 **Scaling Latent Reasoning via Looped Language Models**, `arXiv, 2510.25741`, [arxiv](http://arxiv.org/abs/2510.25741v1), [pdf](http://arxiv.org/pdf/2510.25741v1.pdf), cication: [**-1**](None) 
 

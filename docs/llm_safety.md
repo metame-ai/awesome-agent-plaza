@@ -1,4 +1,9 @@
 # LLM Safety
+
+- [LLM Safety](#llm-safety)
+  - [LLM Safety](#llm-safety-1)
+
+
 ## LLM Safety
 - 🌟 [Introducing gpt-oss-safeguard](https://openai.com/index/introducing-gpt-oss-safeguard/) 
 - **Poisoning Attacks on LLMs Require a Near-constant Number of Poison

@@ -1,5 +1,19 @@
 # GUI Agents
 
+- [GUI Agents](#gui-agents)
+	- [Survey](#survey)
+	- [Mobile Use Agents](#mobile-use-agents)
+	- [Computer Use Agents](#computer-use-agents)
+	- [Web Agents](#web-agents)
+	- [Tool Use](#tool-use)
+	- [Data](#data)
+	- [GUI Agents](#gui-agents-1)
+	- [Evaluation](#evaluation)
+	- [Toolkits](#toolkits)
+	- [Grounding](#grounding)
+	- [Product](#product)
+
+
 ## Survey
 
 
@@ -24,9 +38,6 @@
 
 
 
-## Product
-- [Devin now has full computer use capabilities and can share screen recordings.](https://x.com/cognition/status/1983983151157563762)  𝕏
-- [**computer-use-preview**](https://github.com/google-gemini/computer-use-preview) - google-gemini ![Star](https://img.shields.io/github/stars/google-gemini/computer-use-preview.svg?style=social&label=Star)
 ## Tool Use
 - **A Case for Declarative LLM-friendly Interfaces for Improved Efficiency
   of Computer-Use Agents**, `arXiv, 2510.04607`, [arxiv](http://arxiv.org/abs/2510.04607v1), [pdf](http://arxiv.org/pdf/2510.04607v1.pdf), cication: [**-1**](None) 
@@ -35,6 +46,8 @@
 - **UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action**, `arXiv, 2510.17790`, [arxiv](http://arxiv.org/abs/2510.17790v1), [pdf](http://arxiv.org/pdf/2510.17790v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhao Yang, Zhen Yang, Zi-Yi Dou, ..., Yinfei Yang, Zhe Gan*
+
+
 ## Data
 - **GUI-explorer: Autonomous Exploration and Mining of Transition-aware
   Knowledge for GUI Agent**, `arXiv, 2505.16827`, [arxiv](http://arxiv.org/abs/2505.16827v1), [pdf](http://arxiv.org/pdf/2505.16827v1.pdf), cication: [**-1**](None) 
@@ -47,6 +60,8 @@
 - **GUIrilla: A Scalable Framework for Automated Desktop UI Exploration**, `arXiv, 2510.16051`, [arxiv](http://arxiv.org/abs/2510.16051v1), [pdf](http://arxiv.org/pdf/2510.16051v1.pdf), cication: [**-1**](None) 
 
 	 *Sofiya Garkot, Maksym Shamrai, Ivan Synytsia, ..., Mariya Hirna*
+
+
 ## GUI Agents
 - **Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents**, `arXiv, 2509.26539`, [arxiv](http://arxiv.org/abs/2509.26539v1), [pdf](http://arxiv.org/pdf/2509.26539v1.pdf), cication: [**-1**](None) 
 
@@ -55,15 +70,27 @@
   Multimodal Game Agents**, `arXiv, 2510.23691`, [arxiv](http://arxiv.org/abs/2510.23691v1), [pdf](http://arxiv.org/pdf/2510.23691v1.pdf), cication: [**-1**](None) 
 
 	 *Zihao Wang, Xujing Li, Yining Ye, ..., Yujia Qin, Guang Shi*
+
+
 ## Evaluation
 - **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in
   GUI Tasks**, `arXiv, 2510.26098`, [arxiv](http://arxiv.org/abs/2510.26098v1), [pdf](http://arxiv.org/pdf/2510.26098v1.pdf), cication: [**-1**](None) 
 
 	 *Chenrui Shi, Zedong Yu, Zhi Gao, ..., Zhaofeng He, Qing Li*
+
+
 ## Toolkits
 - [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star)
+
+
 ## Grounding
 - **UI-Ins: Enhancing GUI Grounding with Multi-Perspective
   Instruction-as-Reasoning**, `arXiv, 2510.20286`, [arxiv](http://arxiv.org/abs/2510.20286v1), [pdf](http://arxiv.org/pdf/2510.20286v1.pdf), cication: [**-1**](None) 
 
 	 *Liangyu Chen, Hanzhang Zhou, Chenglin Cai, ..., Qin Jin, Steven Hoi*
+
+
+## Product
+- [Devin now has full computer use capabilities and can share screen recordings.](https://x.com/cognition/status/1983983151157563762)  𝕏
+- [**computer-use-preview**](https://github.com/google-gemini/computer-use-preview) - google-gemini ![Star](https://img.shields.io/github/stars/google-gemini/computer-use-preview.svg?style=social&label=Star)
+

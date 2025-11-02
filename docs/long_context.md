@@ -1,4 +1,12 @@
 # Long Context
+
+- [Long Context](#long-context)
+	- [Long Context](#long-context-1)
+	- [Linear Attention](#linear-attention)
+	- [Text Visual Encoding](#text-visual-encoding)
+	- [Context Engineering](#context-engineering)
+
+
 ## Long Context
 - **R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth
   and Depth?**, `arXiv, 2510.08189`, [arxiv](http://arxiv.org/abs/2510.08189v2), [pdf](http://arxiv.org/pdf/2510.08189v2.pdf), cication: [**-1**](None) 
@@ -22,11 +30,15 @@
 - **LongCodeZip: Compress Long Context for Code Language Models**, `arXiv, 2510.00446`, [arxiv](http://arxiv.org/abs/2510.00446v1), [pdf](http://arxiv.org/pdf/2510.00446v1.pdf), cication: [**-1**](None) 
 
 	 *Yuling Shi, Yichun Qian, Hongyu Zhang, ..., Beijun Shen, Xiaodong Gu*
+
+
 ## Linear Attention
 - [Higher-order Linear Attention](https://yifanzhang-pro.github.io/HLA/) 
 
 	 · ([𝕏](https://x.com/yifan_zhang_/status/1984099671657304207))
-## Text Visual Encode
+
+
+## Text Visual Encoding
 - **Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text
   Inputs in Multimodal LLMs**, `arXiv, 2510.18279`, [arxiv](http://arxiv.org/abs/2510.18279v2), [pdf](http://arxiv.org/pdf/2510.18279v2.pdf), cication: [**-1**](None) 
 
@@ -35,6 +47,8 @@
 - **PixelWorld: How Far Are We from Perceiving Everything as Pixels?**, `arXiv, 2501.19339`, [arxiv](http://arxiv.org/abs/2501.19339v3), [pdf](http://arxiv.org/pdf/2501.19339v3.pdf), cication: [**-1**](None) 
 
 	 *Zhiheng Lyu, Xueguang Ma, Wenhu Chen* · ([𝕏](https://x.com/ZhihengLyu/status/1886974422789099664))
+
+
 ## Context Engineering
 - **AgentFold: Long-Horizon Web Agents with Proactive Context Management**, `arXiv, 2510.24699`, [arxiv](http://arxiv.org/abs/2510.24699v1), [pdf](http://arxiv.org/pdf/2510.24699v1.pdf), cication: [**-1**](None) 
 

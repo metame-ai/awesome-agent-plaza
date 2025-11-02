@@ -1,4 +1,10 @@
 # Embodied Agents
+
+- [Embodied Agents](#embodied-agents)
+	- [VLA](#vla)
+	- [Embodied Agents](#embodied-agents-1)
+
+
 ## VLA
 - **RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training**, `arXiv, 2510.06710`, [arxiv](http://arxiv.org/abs/2510.06710v1), [pdf](http://arxiv.org/pdf/2510.06710v1.pdf), cication: [**-1**](None) 
 
@@ -14,6 +20,8 @@
   Vision-language-action Model**, `arXiv, 2510.12276`, [arxiv](http://arxiv.org/abs/2510.12276v2), [pdf](http://arxiv.org/pdf/2510.12276v2.pdf), cication: [**-1**](None) 
 
 	 *Fuhao Li, Wenxuan Song, Han Zhao, ..., Long Zeng, Haoang Li*
+
+
 ## Embodied Agents
 - **D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to
   Embodied AI**, `arXiv, 2510.05684`, [arxiv](http://arxiv.org/abs/2510.05684v1), [pdf](http://arxiv.org/pdf/2510.05684v1.pdf), cication: [**-1**](None) 
@@ -22,3 +30,4 @@
 - **Robot Learning: A Tutorial**, `arXiv, 2510.12403`, [arxiv](http://arxiv.org/abs/2510.12403v1), [pdf](http://arxiv.org/pdf/2510.12403v1.pdf), cication: [**-1**](None) 
 
 	 *Francesco Capuano, Caroline Pascal, Adil Zouitine, ..., Thomas Wolf, Michel Aractingi*
+
