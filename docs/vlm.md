@@ -1,6 +1,6 @@
 # Vision Language Models
 
-- [Vision Language Models](#vision-language-models)
+- [Vision Language Models](#vision-language-models) 
 	- [VLM](#vlm)
 	- [OCR](#ocr)
 	- [Open VLM](#open-vlm)
@@ -8,7 +8,7 @@
 
 
 ## VLM
-- **From Pixels to Words -- Towards Native Vision-Language Primitives at
+- **From Pixels to Words -- Towards Native Vision-Language Primitives at 
   Scale**, `arXiv, 2510.14979`, [arxiv](http://arxiv.org/abs/2510.14979v1), [pdf](http://arxiv.org/pdf/2510.14979v1.pdf), cication: [**-1**](None) 
 
 	 *Haiwen Diao, Mingxuan Li, Silei Wu, ..., Dahua Lin, Ziwei Liu*

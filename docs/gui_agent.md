@@ -1,6 +1,6 @@
 # GUI Agents
 
-- [GUI Agents](#gui-agents)
+- [GUI Agents](#gui-agents) 
 	- [Survey](#survey)
 	- [Mobile Use Agents](#mobile-use-agents)
 	- [Computer Use Agents](#computer-use-agents)
@@ -28,8 +28,8 @@
 - **VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos**, `arXiv, 2510.19488`, [arxiv](http://arxiv.org/abs/2510.19488v1), [pdf](http://arxiv.org/pdf/2510.19488v1.pdf), cication: [**-1**](None) 
 
 	 *Dunjie Lu, Yiheng Xu, Junli Wang, ..., Binyuan Hui, Tao Yu* · ([VideoAgentTrek](https://github.com/xlang-ai/VideoAgentTrek) - xlang-ai) ![Star](https://img.shields.io/github/stars/xlang-ai/VideoAgentTrek.svg?style=social&label=Star)
-- [**nanobrowser**](https://github.com/nanobrowser/nanobrowser) - nanobrowser ![Star](https://img.shields.io/github/stars/nanobrowser/nanobrowser.svg?style=social&label=Star)
-- **Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in
+- [**nanobrowser**](https://github.com/nanobrowser/nanobrowser) - nanobrowser ![Star](https://img.shields.io/github/stars/nanobrowser/nanobrowser.svg?style=social&label=Star) 
+- **Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in 
   Web Games**, `arXiv, 2510.26298`, [arxiv](http://arxiv.org/abs/2510.26298v1), [pdf](http://arxiv.org/pdf/2510.26298v1.pdf), cication: [**-1**](None) 
 
 	 *Jingran Zhang, Ning Li, Justin Cui*
@@ -39,7 +39,7 @@
 
 
 ## Tool Use
-- **A Case for Declarative LLM-friendly Interfaces for Improved Efficiency
+- **A Case for Declarative LLM-friendly Interfaces for Improved Efficiency 
   of Computer-Use Agents**, `arXiv, 2510.04607`, [arxiv](http://arxiv.org/abs/2510.04607v1), [pdf](http://arxiv.org/pdf/2510.04607v1.pdf), cication: [**-1**](None) 
 
 	 *Yuan Wang, Mingyu Li, Haibo Chen*
@@ -49,11 +49,11 @@
 
 
 ## Data
-- **GUI-explorer: Autonomous Exploration and Mining of Transition-aware
+- **GUI-explorer: Autonomous Exploration and Mining of Transition-aware 
   Knowledge for GUI Agent**, `arXiv, 2505.16827`, [arxiv](http://arxiv.org/abs/2505.16827v1), [pdf](http://arxiv.org/pdf/2505.16827v1.pdf), cication: [**-1**](None) 
 
 	 *Bin Xie, Rui Shao, Gongwei Chen, ..., Min Zhang, Liqiang Nie*
-- **LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent
+- **LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent 
   Training**, `arXiv, 2510.14969`, [arxiv](http://arxiv.org/abs/2510.14969v1), [pdf](http://arxiv.org/pdf/2510.14969v1.pdf), cication: [**-1**](None) 
 
 	 *Yiming Wang, Da Yin, Yuedong Cui, ..., Yu Zhou, Kai-Wei Chang*
@@ -66,31 +66,30 @@
 - **Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents**, `arXiv, 2509.26539`, [arxiv](http://arxiv.org/abs/2509.26539v1), [pdf](http://arxiv.org/pdf/2509.26539v1.pdf), cication: [**-1**](None) 
 
 	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
-- **Game-TARS: Pretrained Foundation Models for Scalable Generalist
+- **Game-TARS: Pretrained Foundation Models for Scalable Generalist 
   Multimodal Game Agents**, `arXiv, 2510.23691`, [arxiv](http://arxiv.org/abs/2510.23691v1), [pdf](http://arxiv.org/pdf/2510.23691v1.pdf), cication: [**-1**](None) 
 
 	 *Zihao Wang, Xujing Li, Yining Ye, ..., Yujia Qin, Guang Shi*
 
 
 ## Evaluation
-- **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in
+- **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in 
   GUI Tasks**, `arXiv, 2510.26098`, [arxiv](http://arxiv.org/abs/2510.26098v1), [pdf](http://arxiv.org/pdf/2510.26098v1.pdf), cication: [**-1**](None) 
 
 	 *Chenrui Shi, Zedong Yu, Zhi Gao, ..., Zhaofeng He, Qing Li*
 
 
 ## Toolkits
-- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star)
+- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
 
 
 ## Grounding
-- **UI-Ins: Enhancing GUI Grounding with Multi-Perspective
+- **UI-Ins: Enhancing GUI Grounding with Multi-Perspective 
   Instruction-as-Reasoning**, `arXiv, 2510.20286`, [arxiv](http://arxiv.org/abs/2510.20286v1), [pdf](http://arxiv.org/pdf/2510.20286v1.pdf), cication: [**-1**](None) 
 
 	 *Liangyu Chen, Hanzhang Zhou, Chenglin Cai, ..., Qin Jin, Steven Hoi*
 
 
 ## Product
-- [Devin now has full computer use capabilities and can share screen recordings.](https://x.com/cognition/status/1983983151157563762)  𝕏
-- [**computer-use-preview**](https://github.com/google-gemini/computer-use-preview) - google-gemini ![Star](https://img.shields.io/github/stars/google-gemini/computer-use-preview.svg?style=social&label=Star)
-
+- [Devin now has full computer use capabilities and can share screen recordings.](https://x.com/cognition/status/1983983151157563762)  𝕏 
+- [**computer-use-preview**](https://github.com/google-gemini/computer-use-preview) - google-gemini ![Star](https://img.shields.io/github/stars/google-gemini/computer-use-preview.svg?style=social&label=Star) 

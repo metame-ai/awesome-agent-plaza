@@ -1,6 +1,6 @@
 # LLM Inference
 
-- [LLM Inference](#llm-inference)
+- [LLM Inference](#llm-inference) 
 	- [LLM Inference](#llm-inference-1)
 	- [Speculative Decoding](#speculative-decoding)
 	- [VLLM](#vllm)
@@ -21,4 +21,3 @@
 
 ## VLLM
 - [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL](https://blog.vllm.ai/2025/10/22/agent-lightning.html) 
-

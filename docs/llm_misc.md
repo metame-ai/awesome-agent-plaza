@@ -1,14 +1,14 @@
 # LLM Misc
 
-- [LLM Misc](#llm-misc)
+- [LLM Misc](#llm-misc) 
 	- [LLM Applications](#llm-applications)
 	- [World Model](#world-model)
 	- [Toolkits](#toolkits)
 
 
 ## LLM Applications
-- [**LLMc**](https://github.com/uw-syfi/LLMc) - uw-syfi ![Star](https://img.shields.io/github/stars/uw-syfi/LLMc.svg?style=social&label=Star)
-- [**supermemory**](https://github.com/supermemoryai/supermemory) - supermemoryai ![Star](https://img.shields.io/github/stars/supermemoryai/supermemory.svg?style=social&label=Star)
+- [**LLMc**](https://github.com/uw-syfi/LLMc) - uw-syfi ![Star](https://img.shields.io/github/stars/uw-syfi/LLMc.svg?style=social&label=Star) 
+- [**supermemory**](https://github.com/supermemoryai/supermemory) - supermemoryai ![Star](https://img.shields.io/github/stars/supermemoryai/supermemory.svg?style=social&label=Star) 
 
 
 ## World Model
@@ -18,5 +18,4 @@
 
 
 ## Toolkits
-- [**deepchat**](https://github.com/ThinkInAIXYZ/deepchat) - ThinkInAIXYZ ![Star](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat.svg?style=social&label=Star)
-
+- [**deepchat**](https://github.com/ThinkInAIXYZ/deepchat) - ThinkInAIXYZ ![Star](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat.svg?style=social&label=Star) 

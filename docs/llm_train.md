@@ -1,6 +1,6 @@
 # LLM Training
 
-- [LLM Training](#llm-training)
+- [LLM Training](#llm-training) 
 	- [Survey](#survey)
 	- [LLM Training](#llm-training-1)
 	- [Pretraining](#pretraining)
@@ -32,7 +32,6 @@
 
 
 ## Toolkits
-- [**torchforge**](https://github.com/meta-pytorch/torchforge) - meta-pytorch ![Star](https://img.shields.io/github/stars/meta-pytorch/torchforge.svg?style=social&label=Star)
-- [**MONAI**](https://github.com/Project-MONAI/MONAI) - Project-MONAI ![Star](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social&label=Star)
-
+- [**torchforge**](https://github.com/meta-pytorch/torchforge) - meta-pytorch ![Star](https://img.shields.io/github/stars/meta-pytorch/torchforge.svg?style=social&label=Star) 
+- [**MONAI**](https://github.com/Project-MONAI/MONAI) - Project-MONAI ![Star](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social&label=Star) 
 

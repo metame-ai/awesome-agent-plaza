@@ -1,6 +1,6 @@
 # LLM Reasoning
 
-- [LLM Reasoning](#llm-reasoning)
+- [LLM Reasoning](#llm-reasoning) 
 	- [LLM Reasoning](#llm-reasoning-1)
 	- [Reinforcement Learning](#reinforcement-learning)
 	- [Test Time Scaling](#test-time-scaling)
@@ -9,20 +9,20 @@
 
 
 ## LLM Reasoning
-- **R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth
+- **R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth 
   and Depth?**, `arXiv, 2510.08189`, [arxiv](http://arxiv.org/abs/2510.08189v2), [pdf](http://arxiv.org/pdf/2510.08189v2.pdf), cication: [**-1**](None) 
 
 	 *Yi Lu, Jianing Wang, Linsen Guo, ..., Wei Wang, Xunliang Cai* · ([reasoning-horizon.github](https://reasoning-horizon.github.io/))
 - **Reasoning with Sampling: Your Base Model is Smarter Than You Think**, `arXiv, 2510.14901`, [arxiv](http://arxiv.org/abs/2510.14901v1), [pdf](http://arxiv.org/pdf/2510.14901v1.pdf), cication: [**-1**](None) 
 
 	 *Aayush Karan, Yilun Du*
-- **QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning
+- **QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning 
   for LLMs**, `arXiv, 2510.11696`, [arxiv](http://arxiv.org/abs/2510.11696v1), [pdf](http://arxiv.org/pdf/2510.11696v1.pdf), cication: [**-1**](None) 
 
 	 *Wei Huang, Yi Ge, Shuai Yang, ..., Song Han, Yukang Chen*
 
 ## Reinforcement Learning
-- **Supervised Reinforcement Learning: From Expert Trajectories to Step-wise
+- **Supervised Reinforcement Learning: From Expert Trajectories to Step-wise 
   Reasoning**, `arXiv, 2510.25992`, [arxiv](http://arxiv.org/abs/2510.25992v1), [pdf](http://arxiv.org/pdf/2510.25992v1.pdf), cication: [**-1**](None) 
 
 	 *Yihe Deng, I-Hung Hsu, Jun Yan, ..., Tomas Pfister, Chen-Yu Lee* · ([𝕏](https://x.com/IHung_Hsu/status/1984077573383712934))
@@ -35,18 +35,18 @@
 - **ASPO: Asymmetric Importance Sampling Policy Optimization**, `arXiv, 2510.06062`, [arxiv](http://arxiv.org/abs/2510.06062v1), [pdf](http://arxiv.org/pdf/2510.06062v1.pdf), cication: [**-1**](None) 
 
 	 *Jiakang Wang, Runze Liu, Lei Lin, ..., Guorui Zhou, Kun Gai* · ([Archer2.0](https://github.com/wizard-III/Archer2.0) - wizard-III) ![Star](https://img.shields.io/github/stars/wizard-III/Archer2.0.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/Fate-Zero/archer20-68b945c878768a27941fd7b6)) · ([zhuanlan.zhihu](https://zhuanlan.zhihu.com/p/1950985242098799047))
-- **BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via
+- **BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via 
   Balanced Policy Optimization with Adaptive Clipping**, `arXiv, 2510.18927`, [arxiv](http://arxiv.org/abs/2510.18927v1), [pdf](http://arxiv.org/pdf/2510.18927v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiheng Xi, Xin Guo, Yang Nan, ..., Qi Zhang, Xuanjing Huang*
-- **Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale
+- **Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale 
   Thinking Model**, `arXiv, 2510.18855`, [arxiv](http://arxiv.org/abs/2510.18855v2), [pdf](http://arxiv.org/pdf/2510.18855v2.pdf), cication: [**-1**](None) 
 
 	 *Ling Team, Anqi Shen, Baihui Li, ..., Zihao Wang, Zujie Wen*
 - **Agentic Entropy-Balanced Policy Optimization**, `arXiv, 2510.14545`, [arxiv](http://arxiv.org/abs/2510.14545v1), [pdf](http://arxiv.org/pdf/2510.14545v1.pdf), cication: [**-1**](None) 
 
 	 *Guanting Dong, Licheng Bao, Zhongyuan Wang, ..., Ji-Rong Wen, Zhicheng Dou*
-- **VCRL: Variance-based Curriculum Reinforcement Learning for Large
+- **VCRL: Variance-based Curriculum Reinforcement Learning for Large 
   Language Models**, `arXiv, 2509.19803`, [arxiv](http://arxiv.org/abs/2509.19803v1), [pdf](http://arxiv.org/pdf/2509.19803v1.pdf), cication: [**-1**](None) 
 
 	 *Guochao Jiang, Wenfeng Feng, Guofeng Quan, ..., Guohua Liu, Hao Wang*
@@ -59,7 +59,7 @@
 - **Rethinking Thinking Tokens: LLMs as Improvement Operators**, `arXiv, 2510.01123`, [arxiv](http://arxiv.org/abs/2510.01123v1), [pdf](http://arxiv.org/pdf/2510.01123v1.pdf), cication: [**-1**](None) 
 
 	 *Lovish Madaan, Aniket Didolkar, Suchin Gururangan, ..., Sanjeev Arora, Anirudh Goyal*
-- **A Theoretical Study on Bridging Internal Probability and
+- **A Theoretical Study on Bridging Internal Probability and 
   Self-Consistency for LLM Reasoning**, `arXiv, 2510.15444`, [arxiv](http://arxiv.org/abs/2510.15444v1), [pdf](http://arxiv.org/pdf/2510.15444v1.pdf), cication: [**-1**](None) 
 
 	 *Zhi Zhou, Yuhao Tan, Zenan Li, ..., Yu-Feng Li, Xiaoxing Ma*

@@ -1,6 +1,6 @@
 # Vision Language Reasoning
 
-- [Vision Language Reasoning](#vision-language-reasoning)
+- [Vision Language Reasoning](#vision-language-reasoning) 
 	- [VLM Reasoning](#vlm-reasoning)
 	- [Reinforcement Learning](#reinforcement-learning)
 	- [Latent Reasoning](#latent-reasoning)
@@ -9,7 +9,7 @@
 
 
 ## VLM Reasoning
-- **Video-Thinker: Sparking "Thinking with Videos" via Reinforcement
+- **Video-Thinker: Sparking "Thinking with Videos" via Reinforcement 
   Learning**, `arXiv, 2510.23473`, [arxiv](http://arxiv.org/abs/2510.23473v1), [pdf](http://arxiv.org/pdf/2510.23473v1.pdf), cication: [**-1**](None) 
 
 	 *Shijian Wang, Jiarui Jin, Xingjian Wang, ..., Yuan Lu, Xuelian Cheng*
@@ -18,7 +18,7 @@
 	 *Alexia Jolicoeur-Martineau*
 
 ## Reinforcement Learning
-- **RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via
+- **RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via 
   Multi-Stage Reinforcement Learning**, `arXiv, 2510.02240`, [arxiv](http://arxiv.org/abs/2510.02240v1), [pdf](http://arxiv.org/pdf/2510.02240v1.pdf), cication: [**-1**](None) 
 
 	 *Sicheng Feng, Kaiwen Tuo, Song Wang, ..., Jianke Zhu, Huan Wang*
@@ -30,10 +30,9 @@
 
 
 ## Video Reasoning
-- **Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
+- **Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal 
   Evidence**, `arXiv, 2510.20579`, [arxiv](http://arxiv.org/abs/2510.20579v1), [pdf](http://arxiv.org/pdf/2510.20579v1.pdf), cication: [**-1**](None) 
 
 	 *Jiahao Meng, Xiangtai Li, Haochen Wang, ..., Yujing Wang, Zhuochen Wang*
 
 ## Misc
-
