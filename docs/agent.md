@@ -18,7 +18,10 @@
 
 
 ## Environment
-- **GEM: A Gym for Agentic LLMs**, `arXiv, 2510.01051`, [arxiv](http://arxiv.org/abs/2510.01051v1), [pdf](http://arxiv.org/pdf/2510.01051v1.pdf), cication: [**-1**](None) 
+
+- **GEM: A Gym for Agentic LLMs**, `arXiv, 2510.01051`, [arxiv](http://arxiv.org/abs/2510.01051v1), [pdf](http://arxiv.org/pdf/2510.01051v1.pdf), cication: [**-1**](None)  🤗
+
+	 *Zichen Liu, Anya Sims, Keyu Duan, ..., Wee Sun Lee, Min Lin*
 
 	 *Zichen Liu, Anya Sims, Keyu Duan, ..., Wee Sun Lee, Min Lin*
 
@@ -61,7 +64,7 @@
 
 ## Toolkits
 - [Verlog          A Multi-turn RL framework for LLM agents](https://wentsechen.github.io/Verlog_blogpost/) 
-- **AgentRL: Scaling Agentic Reinforcement Learning with a Multi-Turn,
+- **AgentRL: Scaling Agentic Reinforcement Learning with a Multi-Turn, 
   Multi-Task Framework**, `arXiv, 2510.04206`, [arxiv](http://arxiv.org/abs/2510.04206v1), [pdf](http://arxiv.org/pdf/2510.04206v1.pdf), cication: [**-1**](None) 
 
 	 *Hanchen Zhang, Xiao Liu, Bowen Lv, ..., Jie Tang, Yuxiao Dong*
@@ -72,4 +75,3 @@
 
 	 *Ruiyi Wang, Prithviraj Ammanabrolu*
 - [**agent-lightning**](https://github.com/microsoft/agent-lightning) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/agent-lightning.svg?style=social&label=Star) 
-

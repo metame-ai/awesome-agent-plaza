@@ -15,3 +15,5 @@
 - **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents**, `arXiv, 2509.26354`, [arxiv](http://arxiv.org/abs/2509.26354v1), [pdf](http://arxiv.org/pdf/2509.26354v1.pdf), cication: [**-1**](None) 
 
 	 *Shuai Shao, Qihan Ren, Chen Qian, ..., Dongrui Liu, Jing Shao*
+## Memory
+- [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/) 

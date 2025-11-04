@@ -22,7 +22,10 @@
 	 *Wei Huang, Yi Ge, Shuai Yang, ..., Song Han, Yukang Chen*
 
 ## Reinforcement Learning
-- **Supervised Reinforcement Learning: From Expert Trajectories to Step-wise 
+
+- **HiPO: Hybrid Policy Optimization for Dynamic Reasoning in LLMs**, `arXiv, 2509.23967`, [arxiv](http://arxiv.org/abs/2509.23967v2), [pdf](http://arxiv.org/pdf/2509.23967v2.pdf), cication: [**-1**](None) 
+
+	 *Ken Deng, Zizheng Zhan, Wen Xiang, ..., Bin Chen, Jiaheng Liu*
   Reasoning**, `arXiv, 2510.25992`, [arxiv](http://arxiv.org/abs/2510.25992v1), [pdf](http://arxiv.org/pdf/2510.25992v1.pdf), cication: [**-1**](None) 
 
 	 *Yihe Deng, I-Hung Hsu, Jun Yan, ..., Tomas Pfister, Chen-Yu Lee* · ([𝕏](https://x.com/IHung_Hsu/status/1984077573383712934))
