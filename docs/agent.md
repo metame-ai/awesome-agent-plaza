@@ -19,7 +19,7 @@
 
 ## Environment
 
-- **GEM: A Gym for Agentic LLMs**, `arXiv, 2510.01051`, [arxiv](http://arxiv.org/abs/2510.01051v1), [pdf](http://arxiv.org/pdf/2510.01051v1.pdf), cication: [**-1**](None)  🤗
+- **GEM: A Gym for Agentic LLMs**, `arXiv, 2510.01051`, [arxiv](http://arxiv.org/abs/2510.01051v1), [pdf](http://arxiv.org/pdf/2510.01051v1.pdf), cication: [**-1**](None)  🤗 
 
 	 *Zichen Liu, Anya Sims, Keyu Duan, ..., Wee Sun Lee, Min Lin*
 

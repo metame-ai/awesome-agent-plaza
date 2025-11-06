@@ -21,6 +21,6 @@
 
 ## VLLM
 
-- [**nano-vllm)- [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL](https:**](https://github.com/GeeeekExplorer/nano-vllm)- [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL](https://blog.vllm.ai/2025/10/22/agent-lightning.html) - GeeeekExplorer ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm)- [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL](https:.svg?style=social&label=Star)
+- [**nano-vllm)- [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL](https:**](https://github.com/GeeeekExplorer/nano-vllm)- [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL](https://blog.vllm.ai/2025/10/22/agent-lightning.html) - GeeeekExplorer ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm)- [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL](https:.svg?style=social&label=Star) 
 
 	 *//github.com/GeeeekExplorer/nano-vllm)- [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL*

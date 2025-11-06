@@ -5,11 +5,13 @@
 	- [LLM Hallucination](#llm-hallucination)
 	- [LLM Omni](#llm-omni)
 	- [LLM Tutorial](#llm-tutorial)
+	- [Open-source LLM](#open-source-llm)
 
 
 ## LLM Insight
 
-- [Emergent Introspective Awareness in Large Language Models            Authors      Affiliations                    Published              Not published yet.              DOI              No DOI yet.       d-byline { display: none; } .d-byline-container { border-top: 1px solid rgba(0,0,0,0.1); border-bottom: 1px solid rgba(0,0,0,0.1); padding-top: 15px; padding-bottom: 15px; } .d-byline { grid-column: text; display: grid; grid-template-columns: [authors info-start] 4fr [affiliations published] 2fr [info-end]; grid-template-rows: [authors-start published-start] auto [published-end affiliations-start] auto [affiliations-end] auto [authors-end info] auto; font-size: 0.8rem; line-height: 1.8em; grid-gap: 5px; } .d-byline h3 { font-size: 0.6rem; font-weight: 400; color: rgba(0, 0, 0, 0.5); margin: 0; text-transform: uppercase; margin-bottom: 4px; } .d-byline .info { color: rgba(0, 0, 0, 0.5); font-size: 80%; line-height: 1.5; } .d-byline .authors div { line-height: 1.5; } .d-byline .authors sup { font-size: 80%; margin-right: -4px; } .d-byline .author { margin-right: 6px; white-space:nowrap; } .d-byline a { color: inherit; text-decoration: none; }](https://transformer-circuits.pub/2025/introspection/index.html)- [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) 
+- [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html) 
+- [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html)- [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) 
 - **Verifying Chain-of-Thought Reasoning via Its Computational Graph**, `arXiv, 2510.09312`, [arxiv](http://arxiv.org/abs/2510.09312v1), [pdf](http://arxiv.org/pdf/2510.09312v1.pdf), cication: [**-1**](None) 
 
 	 *Zheng Zhao, Yeskendir Koishekenov, Xianjun Yang, ..., Naila Murray, Nicola Cancedda*
@@ -49,7 +51,7 @@
 - [**nanoGPT**](https://github.com/karpathy/nanoGPT) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/nanoGPT.svg?style=social&label=Star) 
 
 ## Open-source LLM
-- **SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language
+- **SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language 
   Model**, `arXiv, 2502.02737`, [arxiv](http://arxiv.org/abs/2502.02737v1), [pdf](http://arxiv.org/pdf/2502.02737v1.pdf), cication: [**-1**](None) 
 
 	 *Loubna Ben Allal, Anton Lozhkov, Elie Bakouch, ..., Leandro von Werra, Thomas Wolf*
