@@ -11,7 +11,7 @@
 ## LLM Insight
 
 - [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html) 
-- [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html)- [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) 
+- [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) 
 - **Verifying Chain-of-Thought Reasoning via Its Computational Graph**, `arXiv, 2510.09312`, [arxiv](http://arxiv.org/abs/2510.09312v1), [pdf](http://arxiv.org/pdf/2510.09312v1.pdf), cication: [**-1**](None) 
 
 	 *Zheng Zhao, Yeskendir Koishekenov, Xianjun Yang, ..., Naila Murray, Nicola Cancedda*
@@ -49,6 +49,7 @@
 - 🌟 [The Smol Training Playbook:](https://huggingface.co/spaces/HuggingFaceTB/smol-playbook-toc)  🤗 
 - [**modded-nanogpt**](https://github.com/KellerJordan/modded-nanogpt) - KellerJordan ![Star](https://img.shields.io/github/stars/KellerJordan/modded-nanogpt.svg?style=social&label=Star) 
 - [**nanoGPT**](https://github.com/karpathy/nanoGPT) - karpathy ![Star](https://img.shields.io/github/stars/karpathy/nanoGPT.svg?style=social&label=Star) 
+
 
 ## Open-source LLM
 - **SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language 
