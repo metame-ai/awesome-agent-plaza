@@ -72,3 +72,7 @@
 - 🌟 **Scaling Latent Reasoning via Looped Language Models**, `arXiv, 2510.25741`, [arxiv](http://arxiv.org/abs/2510.25741v1), [pdf](http://arxiv.org/pdf/2510.25741v1.pdf), cication: [**-1**](None) 
 
 	 *Rui-Jie Zhu, Zixuan Wang, Kai Hua, ..., Yoshua Bengio, Jason Eshraghian*
+## RLVR
+- **SimKO: Simple Pass@K Policy Optimization**, `arXiv, 2510.14807`, [arxiv](http://arxiv.org/abs/2510.14807v2), [pdf](http://arxiv.org/pdf/2510.14807v2.pdf), cication: [**-1**](None) 
+
+	 *Ruotian Peng, Yi Ren, Zhouliang Yu, ..., Weiyang Liu, Yandong Wen* · ([SimKO](https://github.com/CLR-Lab/SimKO) - CLR-Lab) ![Star](https://img.shields.io/github/stars/CLR-Lab/SimKO.svg?style=social&label=Star) · ([spherelab](https://spherelab.ai/simko/)))

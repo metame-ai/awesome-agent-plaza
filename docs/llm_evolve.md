@@ -16,4 +16,5 @@
 
 	 *Shuai Shao, Qihan Ren, Chen Qian, ..., Dongrui Liu, Jing Shao*
 ## Memory
-- [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/) 
+
+- [Paper page - Mem-α: Learning Memory Construction via Reinforcement Learning](https://huggingface.co/papers/2509.25911)- [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/)

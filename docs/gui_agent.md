@@ -19,6 +19,10 @@
 
 ## Mobile Use Agents
 
+- **OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid
+  Validation in Realistic Workflows**, `arXiv, 2510.24411`, [arxiv](http://arxiv.org/abs/2510.24411v1), [pdf](http://arxiv.org/pdf/2510.24411v1.pdf), cication: [**-1**](None) 
+
+	 *Qiushi Sun, Mukai Li, Zhoumianze Liu, ..., Ben Kao, Lingpeng Kong*
 - **ColorAgent: Building A Robust, Personalized, and Interactive OS Agent**, `arXiv, 2510.19386`, [arxiv](http://arxiv.org/abs/2510.19386v2), [pdf](http://arxiv.org/pdf/2510.19386v2.pdf), cication: [**-1**](None) 
 
 	 *Ning Li, Qiqiang Lin, Zheng Wu, ..., Zhuosheng Zhang, Weinan Zhang*
@@ -49,7 +53,10 @@
 
 
 ## Data
-- **GUI-explorer: Autonomous Exploration and Mining of Transition-aware 
+
+- **GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents**, `arXiv, 2511.04307`, [arxiv](http://arxiv.org/abs/2511.04307v1), [pdf](http://arxiv.org/pdf/2511.04307v1.pdf), cication: [**-1**](None) 
+
+	 *Jian Mu, Chaoyun Zhang, Chiming Ni, ..., Saravan Rajmohan, Dongmei Zhang*
   Knowledge for GUI Agent**, `arXiv, 2505.16827`, [arxiv](http://arxiv.org/abs/2505.16827v1), [pdf](http://arxiv.org/pdf/2505.16827v1.pdf), cication: [**-1**](None) 
 
 	 *Bin Xie, Rui Shao, Gongwei Chen, ..., Min Zhang, Liqiang Nie*
@@ -84,7 +91,10 @@
 
 
 ## Grounding
-- **UI-Ins: Enhancing GUI Grounding with Multi-Perspective 
+
+- **HyperClick: Advancing Reliable GUI Grounding via Uncertainty Calibration**, `arXiv, 2510.27266`, [arxiv](http://arxiv.org/abs/2510.27266v1), [pdf](http://arxiv.org/pdf/2510.27266v1.pdf), cication: [**-1**](None) 
+
+	 *Shaojie Zhang, Pei Fu, Ruoceng Zhang, ..., Zhenbo Luo, Jian Luan*
   Instruction-as-Reasoning**, `arXiv, 2510.20286`, [arxiv](http://arxiv.org/abs/2510.20286v1), [pdf](http://arxiv.org/pdf/2510.20286v1.pdf), cication: [**-1**](None) 
 
 	 *Liangyu Chen, Hanzhang Zhou, Chenglin Cai, ..., Qin Jin, Steven Hoi*

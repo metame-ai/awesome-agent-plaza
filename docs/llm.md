@@ -32,7 +32,10 @@
 
 
 ## LLM Omni
-- **Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal 
+
+- **LongCat-Flash-Omni Technical Report**, `arXiv, 2511.00279`, [arxiv](http://arxiv.org/abs/2511.00279v1), [pdf](http://arxiv.org/pdf/2511.00279v1.pdf), cication: [**-1**](None) 
+
+	 *Meituan LongCat Team, Bairui Wang, Bayan, ..., Ziyuan Zhuang, Zizhe Zhao*
   Perception and Generation**, `arXiv, 2510.24821`, [arxiv](http://arxiv.org/abs/2510.24821v1), [pdf](http://arxiv.org/pdf/2510.24821v1.pdf), cication: [**-1**](None) 
 
 	 *Inclusion AI, :, Bowen Ma, ..., Zizheng Yang, Zhengyu He*
@@ -52,7 +55,19 @@
 
 
 ## Open-source LLM
-- **SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language 
+
+- **Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open
+  Language Foundation**, `arXiv, 2510.22115`, [arxiv](http://arxiv.org/abs/2510.22115v2), [pdf](http://arxiv.org/pdf/2510.22115v2.pdf), cication: [**-1**](None) 
+
+	 *Ling Team, Ang Li, Ben Liu, ..., Zitao Xuan, Zuoli Tang*
   Model**, `arXiv, 2502.02737`, [arxiv](http://arxiv.org/abs/2502.02737v1), [pdf](http://arxiv.org/pdf/2502.02737v1.pdf), cication: [**-1**](None) 
 
 	 *Loubna Ben Allal, Anton Lozhkov, Elie Bakouch, ..., Leandro von Werra, Thomas Wolf*
+## Diffusion LM
+- **Diffusion Language Models are Super Data Learners**, `arXiv, 2511.03276`, [arxiv](http://arxiv.org/abs/2511.03276v1), [pdf](http://arxiv.org/pdf/2511.03276v1.pdf), cication: [**-1**](None) 
+
+	 *Jinjie Ni, Qian Liu, Longxu Dou, ..., Tianyu Pang, Michael Qizhe Shieh*
+## Continuous LM
+- **Continuous Autoregressive Language Models**, `arXiv, 2510.27688`, [arxiv](http://arxiv.org/abs/2510.27688v1), [pdf](http://arxiv.org/pdf/2510.27688v1.pdf), cication: [**-1**](None) 
+
+	 *Chenze Shao, Darren Li, Fandong Meng, ..., Jie Zhou*

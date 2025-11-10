@@ -8,7 +8,10 @@
 
 
 ## Code Agents
-- **KAT-Coder Technical Report**, `arXiv, 2510.18779`, [arxiv](http://arxiv.org/abs/2510.18779v2), [pdf](http://arxiv.org/pdf/2510.18779v2.pdf), cication: [**-1**](None) 
+
+- **KAT-Coder Technical Report**, `arXiv, 2510.18779`, [arxiv](http://arxiv.org/abs/2510.18779v3), [pdf](http://arxiv.org/pdf/2510.18779v3.pdf), cication: [**-1**](None) 
+
+	 *Zizheng Zhan, Ken Deng, Jinghui Wang, ..., Haotian Zhang, Bin Chen*
 
 	 *Zizheng Zhan, Ken Deng, Xiaojiang Zhang, ..., Haotian Zhang, Bin Chen*
 - **ReCode: Unify Plan and Action for Universal Granularity Control**, `arXiv, 2510.23564`, [arxiv](http://arxiv.org/abs/2510.23564v2), [pdf](http://arxiv.org/pdf/2510.23564v2.pdf), cication: [**-1**](None) 

@@ -9,7 +9,19 @@
 
 
 ## VLM Reasoning
-- **Video-Thinker: Sparking "Thinking with Videos" via Reinforcement 
+
+- 🌟 **Thinking with Video: Video Generation as a Promising Multimodal
+  Reasoning Paradigm**, `arXiv, 2511.04570`, [arxiv](http://arxiv.org/abs/2511.04570v1), [pdf](http://arxiv.org/pdf/2511.04570v1.pdf), cication: [**-1**](None) 
+
+	 *Jingqi Tong, Yurong Mou, Hangcheng Li, ..., Xuanjing Huang, Xipeng Qiu*
+- **ThinkMorph: Emergent Properties in Multimodal Interleaved
+  Chain-of-Thought Reasoning**, `arXiv, 2510.27492`, [arxiv](http://arxiv.org/abs/2510.27492v2), [pdf](http://arxiv.org/pdf/2510.27492v2.pdf), cication: [**-1**](None) 
+
+	 *Jiawei Gu, Yunzhuo Hao, Huichen Will Wang, ..., Ranjay Krishna, Yu Cheng*
+- **When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for
+  Visual Chain-of-Thought**, `arXiv, 2511.02779`, [arxiv](http://arxiv.org/abs/2511.02779v1), [pdf](http://arxiv.org/pdf/2511.02779v1.pdf), cication: [**-1**](None) 
+
+	 *Yiyang Zhou, Haoqin Tu, Zijun Wang, ..., Huaxiu Yao, Qinghao Ye*
   Learning**, `arXiv, 2510.23473`, [arxiv](http://arxiv.org/abs/2510.23473v1), [pdf](http://arxiv.org/pdf/2510.23473v1.pdf), cication: [**-1**](None) 
 
 	 *Shijian Wang, Jiarui Jin, Xingjian Wang, ..., Yuan Lu, Xuelian Cheng*
@@ -36,3 +48,7 @@
 	 *Jiahao Meng, Xiangtai Li, Haochen Wang, ..., Yujing Wang, Zhuochen Wang*
 
 ## Misc
+## Data
+- 🌟 **V-Thinker: Interactive Thinking with Images**, `arXiv, 2511.04460`, [arxiv](http://arxiv.org/abs/2511.04460v1), [pdf](http://arxiv.org/pdf/2511.04460v1.pdf), cication: [**-1**](None) 
+
+	 *Runqi Qiao, Qiuna Tan, Minghan Yang, ..., Chen Li, Honggang Zhang*
