@@ -19,7 +19,10 @@
 
 ## Mobile Use Agents
 
-- **OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid
+- [**UIHawk**](https://github.com/IMNearth/UIHawk) - IMNearth ![Star](https://img.shields.io/github/stars/IMNearth/UIHawk.svg?style=social&label=Star)
+
+	 *Unleashing the Screen Stream Understanding for GUI Agents*
+- **OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid 
   Validation in Realistic Workflows**, `arXiv, 2510.24411`, [arxiv](http://arxiv.org/abs/2510.24411v1), [pdf](http://arxiv.org/pdf/2510.24411v1.pdf), cication: [**-1**](None) 
 
 	 *Qiushi Sun, Mukai Li, Zhoumianze Liu, ..., Ben Kao, Lingpeng Kong*
@@ -70,7 +73,10 @@
 
 
 ## GUI Agents
-- **Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents**, `arXiv, 2509.26539`, [arxiv](http://arxiv.org/abs/2509.26539v1), [pdf](http://arxiv.org/pdf/2509.26539v1.pdf), cication: [**-1**](None) 
+
+- **Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents**, `arXiv, 2509.26539`, [arxiv](https://arxiv.org/pdf/2509.26539v1), [pdf](https://arxiv.org/pdf/2509.26539v1.pdf), cication: [**-1**](None) 
+
+	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
 
 	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
 - **Game-TARS: Pretrained Foundation Models for Scalable Generalist 

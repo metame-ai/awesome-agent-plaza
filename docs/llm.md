@@ -56,7 +56,7 @@
 
 ## Open-source LLM
 
-- **Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open
+- **Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open 
   Language Foundation**, `arXiv, 2510.22115`, [arxiv](http://arxiv.org/abs/2510.22115v2), [pdf](http://arxiv.org/pdf/2510.22115v2.pdf), cication: [**-1**](None) 
 
 	 *Ling Team, Ang Li, Ben Liu, ..., Zitao Xuan, Zuoli Tang*

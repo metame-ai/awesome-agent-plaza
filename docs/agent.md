@@ -38,7 +38,10 @@
 
 
 ## Agentic RL
-- **Agent Learning via Early Experience**, `arXiv, 2510.08558`, [arxiv](http://arxiv.org/abs/2510.08558v2), [pdf](http://arxiv.org/pdf/2510.08558v2.pdf), cication: [**-1**](None) 
+
+- **Agent Learning via Early Experience**, `arXiv, 2510.08558`, [arxiv](https://arxiv.org/pdf/2510.08558v2), [pdf](https://arxiv.org/pdf/2510.08558v2.pdf), cication: [**-1**](None) 
+
+	 *Kai Zhang, Xiangchao Chen, Bo Liu, ..., Yu Su, Yifan Wu*
 
 	 *Kai Zhang, Xiangchao Chen, Bo Liu, ..., Yu Su, Yifan Wu*
 - **EPO: Entropy-regularized Policy Optimization for LLM Agents 
