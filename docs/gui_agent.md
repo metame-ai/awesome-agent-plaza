@@ -19,7 +19,7 @@
 
 ## Mobile Use Agents
 
-- [**UIHawk**](https://github.com/IMNearth/UIHawk) - IMNearth ![Star](https://img.shields.io/github/stars/IMNearth/UIHawk.svg?style=social&label=Star)
+- [**UIHawk**](https://github.com/IMNearth/UIHawk) - IMNearth ![Star](https://img.shields.io/github/stars/IMNearth/UIHawk.svg?style=social&label=Star) 
 
 	 *Unleashing the Screen Stream Understanding for GUI Agents*
 - **OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid 
