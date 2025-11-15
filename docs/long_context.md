@@ -1,10 +1,15 @@
 # Long Context
 
 - [Long Context](#long-context) 
+	- [Survey](#survey)
 	- [Long Context](#long-context-1)
 	- [Linear Attention](#linear-attention)
 	- [Text Visual Encoding](#text-visual-encoding)
 	- [Context Engineering](#context-engineering)
+	- [Toolkits](#toolkits)
+	- [Misc](#misc)
+
+## Survey
 
 
 ## Long Context
@@ -60,3 +65,9 @@
 - **LightMem: Lightweight and Efficient Memory-Augmented Generation**, `arXiv, 2510.18866`, [arxiv](http://arxiv.org/abs/2510.18866v1), [pdf](http://arxiv.org/pdf/2510.18866v1.pdf), cication: [**-1**](None) 
 
 	 *Jizhan Fang, Xinle Deng, Haoming Xu, ..., Huajun Chen, Ningyu Zhang*
+
+
+## Toolkits
+
+
+## Misc

@@ -1,11 +1,18 @@
 # LLM Reasoning
 
 - [LLM Reasoning](#llm-reasoning) 
+	- [Survey](#survey)
 	- [LLM Reasoning](#llm-reasoning-1)
 	- [Reinforcement Learning](#reinforcement-learning)
+	- [RLVR](#rlvr)
 	- [Test Time Scaling](#test-time-scaling)
 	- [Latent Reasoning](#latent-reasoning)
+	- [Data](#data)
+	- [Toolkits](#toolkits)
+	- [Misc](#misc)
 
+
+## Survey
 
 
 ## LLM Reasoning
@@ -54,6 +61,11 @@
 
 	 *Guochao Jiang, Wenfeng Feng, Guofeng Quan, ..., Guohua Liu, Hao Wang*
 
+## RLVR
+- **SimKO: Simple Pass@K Policy Optimization**, `arXiv, 2510.14807`, [arxiv](http://arxiv.org/abs/2510.14807v2), [pdf](http://arxiv.org/pdf/2510.14807v2.pdf), cication: [**-1**](None) 
+
+	 *Ruotian Peng, Yi Ren, Zhouliang Yu, ..., Weiyang Liu, Yandong Wen* · ([SimKO](https://github.com/CLR-Lab/SimKO) - CLR-Lab) ![Star](https://img.shields.io/github/stars/CLR-Lab/SimKO.svg?style=social&label=Star) · ([spherelab](https://spherelab.ai/simko/)))
+
 
 ## Test Time Scaling
 - [Recursive Language Models](https://alexzhang13.github.io/blog/2025/rlm/) 
@@ -72,7 +84,12 @@
 - 🌟 **Scaling Latent Reasoning via Looped Language Models**, `arXiv, 2510.25741`, [arxiv](http://arxiv.org/abs/2510.25741v1), [pdf](http://arxiv.org/pdf/2510.25741v1.pdf), cication: [**-1**](None) 
 
 	 *Rui-Jie Zhu, Zixuan Wang, Kai Hua, ..., Yoshua Bengio, Jason Eshraghian*
-## RLVR
-- **SimKO: Simple Pass@K Policy Optimization**, `arXiv, 2510.14807`, [arxiv](http://arxiv.org/abs/2510.14807v2), [pdf](http://arxiv.org/pdf/2510.14807v2.pdf), cication: [**-1**](None) 
 
-	 *Ruotian Peng, Yi Ren, Zhouliang Yu, ..., Weiyang Liu, Yandong Wen* · ([SimKO](https://github.com/CLR-Lab/SimKO) - CLR-Lab) ![Star](https://img.shields.io/github/stars/CLR-Lab/SimKO.svg?style=social&label=Star) · ([spherelab](https://spherelab.ai/simko/)))
+
+## Data
+
+
+## Toolkits
+
+
+## Misc

@@ -7,6 +7,7 @@
 	- [FP8](#fp8)
 	- [Tutorial](#tutorial)
 	- [Toolkits](#toolkits)
+	- [Misc](#misc)
 
 
 ## Survey
@@ -27,6 +28,7 @@
 
 - [FP8混合线性训练，MFU起飞金手指](https://zhuanlan.zhihu.com/p/1956374947229304351) 
 
+
 ## Tutorial
 - [Post-training 101](https://tokens-for-thoughts.notion.site/post-training-101) 
 
@@ -34,3 +36,5 @@
 ## Toolkits
 - [**torchforge**](https://github.com/meta-pytorch/torchforge) - meta-pytorch ![Star](https://img.shields.io/github/stars/meta-pytorch/torchforge.svg?style=social&label=Star) 
 - [**MONAI**](https://github.com/Project-MONAI/MONAI) - Project-MONAI ![Star](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social&label=Star) 
+
+## Misc

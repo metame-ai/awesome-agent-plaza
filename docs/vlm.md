@@ -1,10 +1,16 @@
 # Vision Language Models
 
 - [Vision Language Models](#vision-language-models) 
+	- [Survey](#survey)
 	- [VLM](#vlm)
 	- [OCR](#ocr)
 	- [Open VLM](#open-vlm)
+	- [Open-source VLM](#open-source-vlm)
+	- [Toolkits](#toolkits)
 	- [Misc](#misc)
+
+
+## Survey
 
 
 ## VLM
@@ -22,8 +28,13 @@
 
 	 *Shruthan Radhakrishna, Aman Tiwari, Aanjaneya Shukla, ..., Srinivas Sunkara, Nicholas Chapados*
 
-## Misc
 ## Open-source VLM
 - **NVIDIA Nemotron Nano V2 VL**, `arXiv, 2511.03929`, [arxiv](http://arxiv.org/abs/2511.03929v2), [pdf](http://arxiv.org/pdf/2511.03929v2.pdf), cication: [**-1**](None) 
 
 	 *NVIDIA, :, Amala Sanjay Deshmukh, ..., Andrew Tao, Bryan Catanzaro*
+
+
+## Toolkits
+
+
+## Misc

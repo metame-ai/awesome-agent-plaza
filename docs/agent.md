@@ -4,11 +4,12 @@
 	- [Survey](#survey)
 	- [Environment](#environment)
 	- [Agent](#agent-1)
+	- [Multi-Agent](#multi-agent)
 	- [Agentic RL](#agentic-rl)
 	- [Data](#data)
-	- [Product](#product)
 	- [Planning](#planning)
 	- [Toolkits](#toolkits)
+	- [Product](#product)
 
 
 ## Survey
@@ -37,6 +38,9 @@
 	 *Yang Xiao, Mohan Jiang, Jie Sun, ..., Dequan Wang, Pengfei Liu*
 
 
+## Multi-Agent
+
+
 ## Agentic RL
 
 - **Agent Learning via Early Experience**, `arXiv, 2510.08558`, [arxiv](https://arxiv.org/pdf/2510.08558v2), [pdf](https://arxiv.org/pdf/2510.08558v2.pdf), cication: [**-1**](None) 
@@ -55,10 +59,6 @@
   Fine-tuning of LLM Agents**, `arXiv, 2510.24702`, [arxiv](http://arxiv.org/abs/2510.24702v1), [pdf](http://arxiv.org/pdf/2510.24702v1.pdf), cication: [**-1**](None) 
 
 	 *Yueqi Song, Ketan Ramaneti, Zaid Sheikh, ..., Yu Su, Graham Neubig* · ([𝕏](https://x.com/yueqi_song/status/1983539504385253684))
-
-
-## Product
-- [Unleash Real-Time Agentic AI with Streaming Agents on Confluent Cloud and Weaviate](https://weaviate.io/blog/confluent-streaming-agents-and-weaviate) 
 
 
 ## Planning
@@ -81,3 +81,7 @@
 
 	 *Ruiyi Wang, Prithviraj Ammanabrolu*
 - [**agent-lightning**](https://github.com/microsoft/agent-lightning) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/agent-lightning.svg?style=social&label=Star) 
+
+
+## Product
+- [Unleash Real-Time Agentic AI with Streaming Agents on Confluent Cloud and Weaviate](https://weaviate.io/blog/confluent-streaming-agents-and-weaviate) 

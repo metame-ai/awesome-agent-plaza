@@ -1,8 +1,14 @@
 # Embodied Agents
 
 - [Embodied Agents](#embodied-agents) 
+	- [Survey](#survey)
 	- [VLA](#vla)
 	- [Embodied Agents](#embodied-agents-1)
+	- [Data](#data)
+	- [Toolkits](#toolkits)
+	- [Misc](#misc)
+
+## Survey
 
 
 ## VLA
@@ -30,3 +36,12 @@
 - **Robot Learning: A Tutorial**, `arXiv, 2510.12403`, [arxiv](http://arxiv.org/abs/2510.12403v1), [pdf](http://arxiv.org/pdf/2510.12403v1.pdf), cication: [**-1**](None) 
 
 	 *Francesco Capuano, Caroline Pascal, Adil Zouitine, ..., Thomas Wolf, Michel Aractingi*
+
+
+## Data
+
+
+## Toolkits
+
+
+## Misc

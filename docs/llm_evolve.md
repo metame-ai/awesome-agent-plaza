@@ -1,8 +1,15 @@
 # LLM Evolving
 
 - [LLM Evolving](#llm-evolving) 
+	- [Survey](#survey)
 	- [LLM Evolving](#llm-evolving-1)
 	- [Safety](#safety)
+	- [Memory](#memory)
+	- [Toolkits](#toolkits)
+	- [Misc](#misc)
+
+
+## Survey
 
 
 ## LLM Evolving
@@ -15,6 +22,14 @@
 - **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents**, `arXiv, 2509.26354`, [arxiv](http://arxiv.org/abs/2509.26354v1), [pdf](http://arxiv.org/pdf/2509.26354v1.pdf), cication: [**-1**](None) 
 
 	 *Shuai Shao, Qihan Ren, Chen Qian, ..., Dongrui Liu, Jing Shao*
+
+
 ## Memory
 
 - [Paper page - Mem-α: Learning Memory Construction via Reinforcement Learning](https://huggingface.co/papers/2509.25911)- [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/)
+
+
+## Toolkits
+
+
+## Misc

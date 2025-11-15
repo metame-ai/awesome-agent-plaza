@@ -6,12 +6,15 @@
 	- [Computer Use Agents](#computer-use-agents)
 	- [Web Agents](#web-agents)
 	- [Tool Use](#tool-use)
-	- [Data](#data)
 	- [GUI Agents](#gui-agents-1)
+	- [RAG](#rag)
 	- [Evaluation](#evaluation)
-	- [Toolkits](#toolkits)
+	- [Data](#data)
 	- [Grounding](#grounding)
+	- [Toolkits](#toolkits)
+	- [Talks](#talks)
 	- [Product](#product)
+	- [Misc](#misc)
 
 
 ## Survey
@@ -55,6 +58,29 @@
 	 *Yuhao Yang, Zhen Yang, Zi-Yi Dou, ..., Yinfei Yang, Zhe Gan*
 
 
+## GUI Agents
+
+- **Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents**, `arXiv, 2509.26539`, [arxiv](https://arxiv.org/pdf/2509.26539v1), [pdf](https://arxiv.org/pdf/2509.26539v1.pdf), cication: [**-1**](None) 
+
+	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
+
+	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
+- **Game-TARS: Pretrained Foundation Models for Scalable Generalist 
+  Multimodal Game Agents**, `arXiv, 2510.23691`, [arxiv](http://arxiv.org/abs/2510.23691v1), [pdf](http://arxiv.org/pdf/2510.23691v1.pdf), cication: [**-1**](None) 
+
+	 *Zihao Wang, Xujing Li, Yining Ye, ..., Yujia Qin, Guang Shi*
+
+
+## RAG
+
+
+## Evaluation
+- **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in 
+  GUI Tasks**, `arXiv, 2510.26098`, [arxiv](http://arxiv.org/abs/2510.26098v1), [pdf](http://arxiv.org/pdf/2510.26098v1.pdf), cication: [**-1**](None) 
+
+	 *Chenrui Shi, Zedong Yu, Zhi Gao, ..., Zhaofeng He, Qing Li*
+
+
 ## Data
 
 - **GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents**, `arXiv, 2511.04307`, [arxiv](http://arxiv.org/abs/2511.04307v1), [pdf](http://arxiv.org/pdf/2511.04307v1.pdf), cication: [**-1**](None) 
@@ -72,30 +98,6 @@
 	 *Sofiya Garkot, Maksym Shamrai, Ivan Synytsia, ..., Mariya Hirna*
 
 
-## GUI Agents
-
-- **Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents**, `arXiv, 2509.26539`, [arxiv](https://arxiv.org/pdf/2509.26539v1), [pdf](https://arxiv.org/pdf/2509.26539v1.pdf), cication: [**-1**](None) 
-
-	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
-
-	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
-- **Game-TARS: Pretrained Foundation Models for Scalable Generalist 
-  Multimodal Game Agents**, `arXiv, 2510.23691`, [arxiv](http://arxiv.org/abs/2510.23691v1), [pdf](http://arxiv.org/pdf/2510.23691v1.pdf), cication: [**-1**](None) 
-
-	 *Zihao Wang, Xujing Li, Yining Ye, ..., Yujia Qin, Guang Shi*
-
-
-## Evaluation
-- **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in 
-  GUI Tasks**, `arXiv, 2510.26098`, [arxiv](http://arxiv.org/abs/2510.26098v1), [pdf](http://arxiv.org/pdf/2510.26098v1.pdf), cication: [**-1**](None) 
-
-	 *Chenrui Shi, Zedong Yu, Zhi Gao, ..., Zhaofeng He, Qing Li*
-
-
-## Toolkits
-- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
-
-
 ## Grounding
 
 - **HyperClick: Advancing Reliable GUI Grounding via Uncertainty Calibration**, `arXiv, 2510.27266`, [arxiv](http://arxiv.org/abs/2510.27266v1), [pdf](http://arxiv.org/pdf/2510.27266v1.pdf), cication: [**-1**](None) 
@@ -106,6 +108,15 @@
 	 *Liangyu Chen, Hanzhang Zhou, Chenglin Cai, ..., Qin Jin, Steven Hoi*
 
 
+## Toolkits
+- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
+
+
+## Talks
+
+
 ## Product
 - [Devin now has full computer use capabilities and can share screen recordings.](https://x.com/cognition/status/1983983151157563762)  𝕏 
 - [**computer-use-preview**](https://github.com/google-gemini/computer-use-preview) - google-gemini ![Star](https://img.shields.io/github/stars/google-gemini/computer-use-preview.svg?style=social&label=Star) 
+
+## Misc

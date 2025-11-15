@@ -1,10 +1,17 @@
 # Code Agents
 
 - [Code Agents](#code-agents) 
+	- [Survey](#survey)
 	- [Code Agents](#code-agents-1)
 	- [Tool Use](#tool-use)
 	- [Evaluation](#evaluation)
+	- [Data](#data)
+	- [Toolkits](#toolkits)
+	- [Misc](#misc)
 
+
+
+## Survey
 
 
 ## Code Agents
@@ -55,3 +62,12 @@
 - **AutoCode: LLMs as Problem Setters for Competitive Programming**, `arXiv, 2510.12803`, [arxiv](http://arxiv.org/abs/2510.12803v1), [pdf](http://arxiv.org/pdf/2510.12803v1.pdf), cication: [**-1**](None) 
 
 	 *Shang Zhou, Zihan Zheng, Kaiyuan Liu, ..., Saining Xie, Jingbo Shang*
+
+
+## Data
+
+	
+## Toolkits
+
+
+## Misc

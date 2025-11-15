@@ -1,12 +1,22 @@
 # LLM Basics
 
 - [LLM Basics](#llm-basics) 
+	- [Survey](#survey)
+	- [LLM](#llm)
 	- [LLM Insight](#llm-insight)
 	- [LLM Hallucination](#llm-hallucination)
 	- [LLM Omni](#llm-omni)
 	- [LLM Tutorial](#llm-tutorial)
 	- [Open-source LLM](#open-source-llm)
+	- [Diffusion LM](#diffusion-lm)
+	- [Continuous LM](#continuous-lm)
+	- [Toolkits](#toolkits)
 
+
+## Survey
+
+
+## LLM
 
 ## LLM Insight
 
@@ -63,11 +73,19 @@
   Model**, `arXiv, 2502.02737`, [arxiv](http://arxiv.org/abs/2502.02737v1), [pdf](http://arxiv.org/pdf/2502.02737v1.pdf), cication: [**-1**](None) 
 
 	 *Loubna Ben Allal, Anton Lozhkov, Elie Bakouch, ..., Leandro von Werra, Thomas Wolf*
+
 ## Diffusion LM
 - **Diffusion Language Models are Super Data Learners**, `arXiv, 2511.03276`, [arxiv](http://arxiv.org/abs/2511.03276v1), [pdf](http://arxiv.org/pdf/2511.03276v1.pdf), cication: [**-1**](None) 
 
 	 *Jinjie Ni, Qian Liu, Longxu Dou, ..., Tianyu Pang, Michael Qizhe Shieh*
+
 ## Continuous LM
 - **Continuous Autoregressive Language Models**, `arXiv, 2510.27688`, [arxiv](http://arxiv.org/abs/2510.27688v1), [pdf](http://arxiv.org/pdf/2510.27688v1.pdf), cication: [**-1**](None) 
 
 	 *Chenze Shao, Darren Li, Fandong Meng, ..., Jie Zhou*
+
+
+## Data
+
+
+## Toolkits

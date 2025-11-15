@@ -1,12 +1,16 @@
 # Search Agents
 
 - [Search Agents](#search-agents) 
+	- [Survey](#survey)
 	- [Search Agent](#search-agent)
 	- [RLVR](#rlvr)
 	- [Evaluation](#evaluation)
+	- [Data](#data)
+	- [Toolkits](#toolkits)
 	- [Misc](#misc)
 
 
+## Survey
 
 ## Search Agent
 - **AgentFold: Long-Horizon Web Agents with Proactive Context Management**, `arXiv, 2510.24699`, [arxiv](http://arxiv.org/abs/2510.24699v1), [pdf](http://arxiv.org/pdf/2510.24699v1.pdf), cication: [**-1**](None) 
@@ -34,6 +38,12 @@
 - **InteractComp: Evaluating Search Agents With Ambiguous Queries**, `arXiv, 2510.24668`, [arxiv](http://arxiv.org/abs/2510.24668v1), [pdf](http://arxiv.org/pdf/2510.24668v1.pdf), cication: [**-1**](None) 
 
 	 *Mingyi Deng, Lijun Huang, Yani Fan, ..., Chenglin Wu, Yuyu Luo*
+
+
+## Data
+
+
+## Toolkits
 
 
 ## Misc

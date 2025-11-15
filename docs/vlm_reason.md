@@ -1,11 +1,17 @@
 # Vision Language Reasoning
 
 - [Vision Language Reasoning](#vision-language-reasoning) 
+	- [Survey](#survey)
 	- [VLM Reasoning](#vlm-reasoning)
 	- [Reinforcement Learning](#reinforcement-learning)
 	- [Latent Reasoning](#latent-reasoning)
 	- [Video Reasoning](#video-reasoning)
+	- [Data](#data)
+	- [Toolkits](#toolkits)
 	- [Misc](#misc)
+
+
+## Survey
 
 
 ## VLM Reasoning
@@ -47,8 +53,12 @@
 
 	 *Jiahao Meng, Xiangtai Li, Haochen Wang, ..., Yujing Wang, Zhuochen Wang*
 
-## Misc
 ## Data
 - 🌟 **V-Thinker: Interactive Thinking with Images**, `arXiv, 2511.04460`, [arxiv](http://arxiv.org/abs/2511.04460v1), [pdf](http://arxiv.org/pdf/2511.04460v1.pdf), cication: [**-1**](None) 
 
 	 *Runqi Qiao, Qiuna Tan, Minghan Yang, ..., Chen Li, Honggang Zhang*
+
+## Toolkits
+
+
+## Misc
