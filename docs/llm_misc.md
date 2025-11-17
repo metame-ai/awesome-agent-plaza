@@ -17,7 +17,13 @@
 
 
 ## World Model
-- **World-in-World: World Models in a Closed-Loop World**, `arXiv, 2510.18135`, [arxiv](http://arxiv.org/abs/2510.18135v1), [pdf](http://arxiv.org/pdf/2510.18135v1.pdf), cication: [**-1**](None) 
+
+- [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) 
+
+	 · ([𝕏](https://x.com/drfeifei/status/1987891210699379091))
+- **World-in-World: World Models in a Closed-Loop World**, `arXiv, 2510.18135`, [arxiv](https://arxiv.org/abs/2510.18135v1), [pdf](https://arxiv.org/pdf/2510.18135v1.pdf), cication: [**-1**](None) 
+
+	 *Jiahan Zhang, Muqing Jiang, Nanru Dai, ..., Yilun Du, Jieneng Chen*
 
 	 *Jiahan Zhang, Muqing Jiang, Nanru Dai, ..., Yilun Du, Jieneng Chen*
 
@@ -30,3 +36,7 @@
 
 
 ## LLM Misc
+## LLM Misc
+- **Open Character Training: Shaping the Persona of AI Assistants through Constitutional AI**, `arXiv, 2511.01689`, [arxiv](https://arxiv.org/abs/2511.01689v1), [pdf](https://arxiv.org/pdf/2511.01689v1.pdf), cication: [**-1**](None) 
+
+	 *Sharan Maiya, Henning Bartsch, Nathan Lambert, ..., Evan Hubinger* · ([OpenCharacterTraining](https://github.com/maiush/OpenCharacterTraining) - maiush) ![Star](https://img.shields.io/github/stars/maiush/OpenCharacterTraining.svg?style=social&label=Star)

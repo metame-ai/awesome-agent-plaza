@@ -38,7 +38,10 @@
 
 
 ## Tool Use
-- **The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, 
+
+- **DeepEyesV2: Toward Agentic Multimodal Model**, `arXiv, 2511.05271`, [arxiv](https://arxiv.org/abs/2511.05271v2), [pdf](https://arxiv.org/pdf/2511.05271v2.pdf), cication: [**-1**](None) 
+
+	 *Jack Hong, Chenxiao Zhao, ChengLin Zhu, ..., Guohai Xu, Xing Yu*
   and Long-Horizon Task Execution**, `arXiv, 2510.25726`, [arxiv](http://arxiv.org/abs/2510.25726v1), [pdf](http://arxiv.org/pdf/2510.25726v1.pdf), cication: [**-1**](None) 
 
 	 *Junlong Li, Wenshuo Zhao, Jian Zhao, ..., Graham Neubig, Junxian He* · ([𝕏](https://x.com/junxian_he/status/1983834164727312391))

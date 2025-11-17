@@ -26,7 +26,10 @@
 
 ## Memory
 
-- [Paper page - Mem-α: Learning Memory Construction via Reinforcement Learning](https://huggingface.co/papers/2509.25911)- [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/)
+- **Mem-α: Learning Memory Construction via Reinforcement Learning**, `arXiv, 2509.25911`, [arxiv](https://arxiv.org/abs/2509.25911v1), [pdf](https://arxiv.org/pdf/2509.25911v1.pdf), cication: [**-1**](None) 
+
+	 *Yu Wang, Ryuichi Takanobu, Zhiqi Liang, ..., Julian McAuley, Xiaojian Wu*
+- [The Continual Learning Problem](https://jessylin.com/2025/10/20/continual-learning/) 
 
 
 ## Toolkits

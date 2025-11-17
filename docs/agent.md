@@ -20,6 +20,7 @@
 
 ## Environment
 
+- [**sandbox**](https://github.com/agent-infra/sandbox) - agent-infra ![Star](https://img.shields.io/github/stars/agent-infra/sandbox.svg?style=social&label=Star)
 - **Scaling Agent Learning via Experience Synthesis**, `arXiv, 2511.03773`, [arxiv](http://arxiv.org/abs/2511.03773v1), [pdf](http://arxiv.org/pdf/2511.03773v1.pdf), cication: [**-1**](None) 
 
 	 *Zhaorun Chen, Zhuokai Zhao, Kai Zhang, ..., Jason Weston, Dat Huynh*
@@ -31,7 +32,8 @@
 
 
 ## Agent
-- [**TradingAgents-CN**](https://github.com/hsliuping/TradingAgents-CN) - hsliuping ![Star](https://img.shields.io/github/stars/hsliuping/TradingAgents-CN.svg?style=social&label=Star) 
+
+- [Paper page - Real-Time Reasoning Agents in Evolving Environments](https://huggingface.co/papers/2511.04898)- [**TradingAgents-CN**](https://github.com/hsliuping/TradingAgents-CN) - hsliuping ![Star](https://img.shields.io/github/stars/hsliuping/TradingAgents-CN.svg?style=social&label=Star)
 - [**moon-dev-ai-agents**](https://github.com/moondevonyt/moon-dev-ai-agents) - moondevonyt ![Star](https://img.shields.io/github/stars/moondevonyt/moon-dev-ai-agents.svg?style=social&label=Star) 
 - **LIMI: Less is More for Agency**, `arXiv, 2509.17567`, [arxiv](http://arxiv.org/abs/2509.17567v2), [pdf](http://arxiv.org/pdf/2509.17567v2.pdf), cication: [**-1**](None) 
 

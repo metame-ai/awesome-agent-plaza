@@ -16,6 +16,9 @@
 
 ## VLM Reasoning
 
+- **DeepEyesV2: Toward Agentic Multimodal Model**, `arXiv, 2511.05271`, [arxiv](https://arxiv.org/abs/2511.05271v2), [pdf](https://arxiv.org/pdf/2511.05271v2.pdf), cication: [**-1**](None) 
+
+	 *Jack Hong, Chenxiao Zhao, ChengLin Zhu, ..., Guohai Xu, Xing Yu*
 - 🌟 **Thinking with Video: Video Generation as a Promising Multimodal 
   Reasoning Paradigm**, `arXiv, 2511.04570`, [arxiv](http://arxiv.org/abs/2511.04570v1), [pdf](http://arxiv.org/pdf/2511.04570v1.pdf), cication: [**-1**](None) 
 

@@ -20,6 +20,7 @@
 
 ## LLM Insight
 
+- [Understanding neural networks through sparse circuits](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/) 
 - [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html) 
 - [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) 
 - **Verifying Chain-of-Thought Reasoning via Its Computational Graph**, `arXiv, 2510.09312`, [arxiv](http://arxiv.org/abs/2510.09312v1), [pdf](http://arxiv.org/pdf/2510.09312v1.pdf), cication: [**-1**](None) 
@@ -32,7 +33,10 @@
 
 
 ## LLM Hallucination
-- **Learning to Reason for Hallucination Span Detection**, `arXiv, 2510.02173`, [arxiv](http://arxiv.org/abs/2510.02173v2), [pdf](http://arxiv.org/pdf/2510.02173v2.pdf), cication: [**-1**](None) 
+
+- **Learning to Reason for Hallucination Span Detection**, `arXiv, 2510.02173`, [arxiv](https://arxiv.org/abs/2510.02173v2), [pdf](https://arxiv.org/pdf/2510.02173v2.pdf), cication: [**-1**](None) 
+
+	 *Hsuan Su, Ting-Yao Hu, Hema Swetha Koppula, ..., Oncel Tuzel, Raviteja Vemulapalli*
 
 	 *Hsuan Su, Ting-Yao Hu, Hema Swetha Koppula, ..., Oncel Tuzel, Raviteja Vemulapalli*
 - **When Models Lie, We Learn: Multilingual Span-Level Hallucination 
@@ -75,7 +79,10 @@
 	 *Loubna Ben Allal, Anton Lozhkov, Elie Bakouch, ..., Leandro von Werra, Thomas Wolf*
 
 ## Diffusion LM
-- **Diffusion Language Models are Super Data Learners**, `arXiv, 2511.03276`, [arxiv](http://arxiv.org/abs/2511.03276v1), [pdf](http://arxiv.org/pdf/2511.03276v1.pdf), cication: [**-1**](None) 
+
+- **Diffusion Language Models are Super Data Learners**, `arXiv, 2511.03276`, [arxiv](https://arxiv.org/abs/2511.03276v1), [pdf](https://arxiv.org/pdf/2511.03276v1.pdf), cication: [**-1**](None) 
+
+	 *Jinjie Ni, Qian Liu, Longxu Dou, ..., Tianyu Pang, Michael Qizhe Shieh*
 
 	 *Jinjie Ni, Qian Liu, Longxu Dou, ..., Tianyu Pang, Michael Qizhe Shieh*
 
@@ -87,5 +94,15 @@
 
 ## Data
 
+- [SYNTH: the new data frontier](https://pleias.fr/blog/blogsynth-the-new-data-frontier) 
+
+	 · ([𝕏](https://x.com/Dorialexander/status/1987930819021635964))
+- [FinePDFs-Edu dataset consists of 350B+ tokens of educational PDFs filtered from 📄 FinePDFs dataset covering 69 languages.](https://huggingface.co/datasets/HuggingFaceFW/finepdfs-edu)  🤗
+
+	 · ([𝕏](https://x.com/HKydlicek/status/1988328336469459449))
 
 ## Toolkits
+## Recurrent LM
+- **Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence**, `arXiv, 2511.07384`, [arxiv](https://arxiv.org/abs/2511.07384v1), [pdf](https://arxiv.org/pdf/2511.07384v1.pdf), cication: [**-1**](None) 
+
+	 *Sean McLeish, Ang Li, John Kirchenbauer, ..., Tom Goldstein, Micah Goldblum* · ([𝕏](https://x.com/micahgoldblum/status/1988265009508655528))

@@ -19,6 +19,7 @@
 
 ## Survey
 
+- [**GUI-Agents-Paper-List**](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - OSU-NLP-Group ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/GUI-Agents-Paper-List.svg?style=social&label=Star)
 
 ## Mobile Use Agents
 
@@ -35,6 +36,9 @@
 
 ## Computer Use Agents
 
+- 🌟 **Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds**, `arXiv, 2511.08892`, [arxiv](https://arxiv.org/abs/2511.08892v1), [pdf](https://arxiv.org/pdf/2511.08892v1.pdf), cication: [**-1**](None) 
+
+	 *Weihao Tan, Xiangyang Li, Yunhao Fang, ..., Libin Liu, Guang Shi*
 - **VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos**, `arXiv, 2510.19488`, [arxiv](http://arxiv.org/abs/2510.19488v1), [pdf](http://arxiv.org/pdf/2510.19488v1.pdf), cication: [**-1**](None) 
 
 	 *Dunjie Lu, Yiheng Xu, Junli Wang, ..., Binyuan Hui, Tao Yu* · ([VideoAgentTrek](https://github.com/xlang-ai/VideoAgentTrek) - xlang-ai) ![Star](https://img.shields.io/github/stars/xlang-ai/VideoAgentTrek.svg?style=social&label=Star)
@@ -73,6 +77,9 @@
 
 ## RAG
 
+- **Instruction Agent: Enhancing Agent with Expert Demonstration**, `arXiv, 2509.07098`, [arxiv](https://arxiv.org/abs/2509.07098v1), [pdf](https://arxiv.org/pdf/2509.07098v1.pdf), cication: [**-1**](None) 
+
+	 *Yinheng Li, Hailey Hultquist, Justin Wagle, ..., Kazuhito Koishida*
 
 ## Evaluation
 - **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in 
@@ -83,6 +90,9 @@
 
 ## Data
 
+- **AUTO-Explorer: Automated Data Collection for GUI Agent**, `arXiv, 2511.06417`, [arxiv](https://arxiv.org/abs/2511.06417v1), [pdf](https://arxiv.org/pdf/2511.06417v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangwu Guo, Difei Gao, Mike Zheng Shou*
 - **GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents**, `arXiv, 2511.04307`, [arxiv](http://arxiv.org/abs/2511.04307v1), [pdf](http://arxiv.org/pdf/2511.04307v1.pdf), cication: [**-1**](None) 
 
 	 *Jian Mu, Chaoyun Zhang, Chiming Ni, ..., Saravan Rajmohan, Dongmei Zhang*
@@ -100,6 +110,12 @@
 
 ## Grounding
 
+- [**Gelato**](https://github.com/mlfoundations/Gelato) - mlfoundations ![Star](https://img.shields.io/github/stars/mlfoundations/Gelato.svg?style=social&label=Star)
+
+	 *Building a Strong Grounding Model for Computer-Use Agents* · ([𝕏](https://x.com/anas_awadalla/status/1987913284989985092))
+- **Grounding Computer Use Agents on Human Demonstrations**, `arXiv, 2511.07332`, [arxiv](https://arxiv.org/abs/2511.07332v1), [pdf](https://arxiv.org/pdf/2511.07332v1.pdf), cication: [**-1**](None) 
+
+	 *Aarash Feizi, Shravan Nayak, Xiangru Jian, ..., Spandana Gella, Sai Rajeswar* · ([arxiv](https://arxiv.org/abs/2511.07332)) · ([GroundCUA](https://github.com/ServiceNow/GroundCUA/) - ServiceNow) ![Star](https://img.shields.io/github/stars/ServiceNow/GroundCUA.svg?style=social&label=Star) · ([groundcua.github](https://groundcua.github.io/)) · ([huggingface](https://huggingface.co/ServiceNow/GroundNext-7B-V0)) · ([huggingface](https://huggingface.co/datasets/ServiceNow/GroundCUA))
 - **HyperClick: Advancing Reliable GUI Grounding via Uncertainty Calibration**, `arXiv, 2510.27266`, [arxiv](http://arxiv.org/abs/2510.27266v1), [pdf](http://arxiv.org/pdf/2510.27266v1.pdf), cication: [**-1**](None) 
 
 	 *Shaojie Zhang, Pei Fu, Ruoceng Zhang, ..., Zhenbo Luo, Jian Luan*
@@ -109,7 +125,8 @@
 
 
 ## Toolkits
-- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
+
+- [AIO Sandbox - All-in-One Agent Sandbox Environment](https://github.com/agent-infra/sandbox)- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
 
 
 ## Talks
@@ -120,3 +137,6 @@
 - [**computer-use-preview**](https://github.com/google-gemini/computer-use-preview) - google-gemini ![Star](https://img.shields.io/github/stars/google-gemini/computer-use-preview.svg?style=social&label=Star) 
 
 ## Misc
+
+## GUI Agentic RL
+- [Enhancing GUI Agent with Uncertainty-Aware Self-Trained Evaluator](https://openreview.net/forum?id=cuUsD5FJbe&referrer=[the%20profile%20of%20Weili%20Guan](/profile?id=~Weili_Guan4)) 

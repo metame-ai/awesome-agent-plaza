@@ -14,7 +14,10 @@
 
 
 ## VLM
-- **From Pixels to Words -- Towards Native Vision-Language Primitives at 
+
+- **Visual Spatial Tuning**, `arXiv, 2511.05491`, [arxiv](https://arxiv.org/abs/2511.05491v1), [pdf](https://arxiv.org/pdf/2511.05491v1.pdf), cication: [**-1**](None) 
+
+	 *Rui Yang, Ziyu Zhu, Yanwei Li, ..., Yi Lin, Hengshuang Zhao*
   Scale**, `arXiv, 2510.14979`, [arxiv](http://arxiv.org/abs/2510.14979v1), [pdf](http://arxiv.org/pdf/2510.14979v1.pdf), cication: [**-1**](None) 
 
 	 *Haiwen Diao, Mingxuan Li, Silei Wu, ..., Dahua Lin, Ziwei Liu*

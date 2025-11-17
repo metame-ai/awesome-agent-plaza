@@ -30,6 +30,9 @@
 
 ## Reinforcement Learning
 
+- **The Path Not Taken: RLVR Provably Learns Off the Principals**, `arXiv, 2511.08567`, [arxiv](https://arxiv.org/abs/2511.08567v1), [pdf](https://arxiv.org/pdf/2511.08567v1.pdf), cication: [**-1**](None) 
+
+	 *Hanqing Zhu, Zhenyu Zhang, Hanxian Huang, ..., Yuandong Tian, Kai Sheng Tai*
 - **HiPO: Hybrid Policy Optimization for Dynamic Reasoning in LLMs**, `arXiv, 2509.23967`, [arxiv](http://arxiv.org/abs/2509.23967v2), [pdf](http://arxiv.org/pdf/2509.23967v2.pdf), cication: [**-1**](None) 
 
 	 *Ken Deng, Zizheng Zhan, Wen Xiang, ..., Bin Chen, Jiaheng Liu*
