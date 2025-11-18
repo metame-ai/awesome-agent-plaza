@@ -19,7 +19,7 @@
 
 ## Survey
 
-- [**GUI-Agents-Paper-List**](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - OSU-NLP-Group ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/GUI-Agents-Paper-List.svg?style=social&label=Star)
+- [**GUI-Agents-Paper-List**](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - OSU-NLP-Group ![Star](https://img.shields.io/github/stars/OSU-NLP-Group/GUI-Agents-Paper-List.svg?style=social&label=Star) 
 
 ## Mobile Use Agents
 
@@ -110,7 +110,7 @@
 
 ## Grounding
 
-- [**Gelato**](https://github.com/mlfoundations/Gelato) - mlfoundations ![Star](https://img.shields.io/github/stars/mlfoundations/Gelato.svg?style=social&label=Star)
+- [**Gelato**](https://github.com/mlfoundations/Gelato) - mlfoundations ![Star](https://img.shields.io/github/stars/mlfoundations/Gelato.svg?style=social&label=Star) 
 
 	 *Building a Strong Grounding Model for Computer-Use Agents* · ([𝕏](https://x.com/anas_awadalla/status/1987913284989985092))
 - **Grounding Computer Use Agents on Human Demonstrations**, `arXiv, 2511.07332`, [arxiv](https://arxiv.org/abs/2511.07332v1), [pdf](https://arxiv.org/pdf/2511.07332v1.pdf), cication: [**-1**](None) 

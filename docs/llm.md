@@ -97,7 +97,7 @@
 - [SYNTH: the new data frontier](https://pleias.fr/blog/blogsynth-the-new-data-frontier) 
 
 	 · ([𝕏](https://x.com/Dorialexander/status/1987930819021635964))
-- [FinePDFs-Edu dataset consists of 350B+ tokens of educational PDFs filtered from 📄 FinePDFs dataset covering 69 languages.](https://huggingface.co/datasets/HuggingFaceFW/finepdfs-edu)  🤗
+- [FinePDFs-Edu dataset consists of 350B+ tokens of educational PDFs filtered from 📄 FinePDFs dataset covering 69 languages.](https://huggingface.co/datasets/HuggingFaceFW/finepdfs-edu)  🤗 
 
 	 · ([𝕏](https://x.com/HKydlicek/status/1988328336469459449))
 
