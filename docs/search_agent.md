@@ -12,11 +12,10 @@
 
 ## Survey
 
+
 ## Search Agent
 
 - **AgentFold: Long-Horizon Web Agents with Proactive Context Management**, `arXiv, 2510.24699`, [arxiv](https://arxiv.org/abs/2510.24699v1), [pdf](https://arxiv.org/pdf/2510.24699v1.pdf), cication: [**-1**](None) 
-
-	 *Rui Ye, Zhongwang Zhang, Kuan Li, ..., Jingren Zhou, Yong Jiang*
 
 	 *Rui Ye, Zhongwang Zhang, Kuan Li, ..., Jingren Zhou, Yong Jiang*
 - **DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search**, `arXiv, 2510.12801`, [arxiv](http://arxiv.org/abs/2510.12801v1), [pdf](http://arxiv.org/pdf/2510.12801v1.pdf), cication: [**-1**](None) 

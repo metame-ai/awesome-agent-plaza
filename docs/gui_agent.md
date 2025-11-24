@@ -7,6 +7,7 @@
 	- [Web Agents](#web-agents)
 	- [Tool Use](#tool-use)
 	- [GUI Agents](#gui-agents-1)
+	- [GUI Agentic RL](#gui-agentic-rl)
 	- [RAG](#rag)
 	- [Evaluation](#evaluation)
 	- [Data](#data)
@@ -75,6 +76,10 @@
 	 *Zihao Wang, Xujing Li, Yining Ye, ..., Yujia Qin, Guang Shi*
 
 
+## GUI Agentic RL
+- [Enhancing GUI Agent with Uncertainty-Aware Self-Trained Evaluator](https://openreview.net/forum?id=cuUsD5FJbe&referrer=[the%20profile%20of%20Weili%20Guan](/profile?id=~Weili_Guan4)) 
+
+
 ## RAG
 
 - **Instruction Agent: Enhancing Agent with Expert Demonstration**, `arXiv, 2509.07098`, [arxiv](https://arxiv.org/abs/2509.07098v1), [pdf](https://arxiv.org/pdf/2509.07098v1.pdf), cication: [**-1**](None) 
@@ -137,6 +142,4 @@
 - [**computer-use-preview**](https://github.com/google-gemini/computer-use-preview) - google-gemini ![Star](https://img.shields.io/github/stars/google-gemini/computer-use-preview.svg?style=social&label=Star) 
 
 ## Misc
-
-## GUI Agentic RL
-- [Enhancing GUI Agent with Uncertainty-Aware Self-Trained Evaluator](https://openreview.net/forum?id=cuUsD5FJbe&referrer=[the%20profile%20of%20Weili%20Guan](/profile?id=~Weili_Guan4)) 
+ 

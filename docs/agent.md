@@ -33,7 +33,10 @@
 
 ## Agent
 
-- [Paper page - Real-Time Reasoning Agents in Evolving Environments](https://huggingface.co/papers/2511.04898)- [**TradingAgents-CN**](https://github.com/hsliuping/TradingAgents-CN) - hsliuping ![Star](https://img.shields.io/github/stars/hsliuping/TradingAgents-CN.svg?style=social&label=Star)
+- **Real-Time Reasoning Agents in Evolving Environments**, `arXiv, 2511.04898`, [arxiv](https://arxiv.org/abs/2511.04898v1), [pdf](https://arxiv.org/pdf/2511.04898v1.pdf), cication: [**-1**](None) 
+
+	 *Yule Wen, Yixin Ye, Yanzhe Zhang, ..., Diyi Yang, Hao Zhu*
+- [**TradingAgents-CN**](https://github.com/hsliuping/TradingAgents-CN) - hsliuping ![Star](https://img.shields.io/github/stars/hsliuping/TradingAgents-CN.svg?style=social&label=Star) 
 - [**moon-dev-ai-agents**](https://github.com/moondevonyt/moon-dev-ai-agents) - moondevonyt ![Star](https://img.shields.io/github/stars/moondevonyt/moon-dev-ai-agents.svg?style=social&label=Star) 
 - **LIMI: Less is More for Agency**, `arXiv, 2509.17567`, [arxiv](http://arxiv.org/abs/2509.17567v2), [pdf](http://arxiv.org/pdf/2509.17567v2.pdf), cication: [**-1**](None) 
 
