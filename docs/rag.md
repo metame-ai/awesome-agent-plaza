@@ -32,5 +32,6 @@
 
 ## Toolkits
 
+- [**dinov3**](https://github.com/facebookresearch/dinov3) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/dinov3.svg?style=social&label=Star)
 
 ## Misc
