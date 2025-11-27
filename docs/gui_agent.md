@@ -131,6 +131,7 @@
 
 ## Toolkits
 
+- [**droidbot**](https://github.com/honeynet/droidbot) - honeynet ![Star](https://img.shields.io/github/stars/honeynet/droidbot.svg?style=social&label=Star)
 - [AIO Sandbox - All-in-One Agent Sandbox Environment](https://github.com/agent-infra/sandbox)- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
 
 
