@@ -16,7 +16,10 @@
 
 
 ## LLM Reasoning
-- **R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth 
+
+- 🌟 [**DeepSeek-Math-V2**](https://github.com/deepseek-ai/DeepSeek-Math-V2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Math-V2.svg?style=social&label=Star)
+
+	 *Towards Self-Verifiable Mathematical Reasoning*
   and Depth?**, `arXiv, 2510.08189`, [arxiv](http://arxiv.org/abs/2510.08189v2), [pdf](http://arxiv.org/pdf/2510.08189v2.pdf), cication: [**-1**](None) 
 
 	 *Yi Lu, Jianing Wang, Linsen Guo, ..., Wei Wang, Xunliang Cai* · ([reasoning-horizon.github](https://reasoning-horizon.github.io/))
