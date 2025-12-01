@@ -37,6 +37,9 @@
 
 ## Computer Use Agents
 
+- [Fara-7B: An Efficient Agentic Model for Computer Use](https://huggingface.co/microsoft/Fara-7B)  🤗
+
+	 · ([aka](https://aka.ms/fara-techreport))
 - 🌟 **Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds**, `arXiv, 2511.08892`, [arxiv](https://arxiv.org/abs/2511.08892v1), [pdf](https://arxiv.org/pdf/2511.08892v1.pdf), cication: [**-1**](None) 
 
 	 *Weihao Tan, Xiangyang Li, Yunhao Fang, ..., Libin Liu, Guang Shi*
@@ -87,7 +90,8 @@
 	 *Yinheng Li, Hailey Hultquist, Justin Wagle, ..., Kazuhito Koishida*
 
 ## Evaluation
-- **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in 
+
+- [WebTailBench: A Comprehensive Benchmark for Computer-Using Agents](https://huggingface.co/datasets/microsoft/WebTailBench)- **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in  🤗
   GUI Tasks**, `arXiv, 2510.26098`, [arxiv](http://arxiv.org/abs/2510.26098v1), [pdf](http://arxiv.org/pdf/2510.26098v1.pdf), cication: [**-1**](None) 
 
 	 *Chenrui Shi, Zedong Yu, Zhi Gao, ..., Zhaofeng He, Qing Li*

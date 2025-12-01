@@ -35,7 +35,8 @@
 
 
 ## Toolkits
-- [**torchforge**](https://github.com/meta-pytorch/torchforge) - meta-pytorch ![Star](https://img.shields.io/github/stars/meta-pytorch/torchforge.svg?style=social&label=Star) 
+
+- [Linear-Programming-Based Load Balancer (LPLB)](https://github.com/deepseek-ai/LPLB)- [**torchforge**](https://github.com/meta-pytorch/torchforge) - meta-pytorch ![Star](https://img.shields.io/github/stars/meta-pytorch/torchforge.svg?style=social&label=Star) 
 - [**MONAI**](https://github.com/Project-MONAI/MONAI) - Project-MONAI ![Star](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social&label=Star) 
 
 ## Misc

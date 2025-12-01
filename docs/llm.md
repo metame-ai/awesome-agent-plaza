@@ -70,6 +70,7 @@
 
 ## Open-source LLM
 
+- [Latest open artifacts (#16): Who's building models in the U.S., China's model release playbook, and a resurgence of truly open models](https://www.interconnects.ai/p/latest-open-artifacts-16-whos-building) 
 - **Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open 
   Language Foundation**, `arXiv, 2510.22115`, [arxiv](http://arxiv.org/abs/2510.22115v2), [pdf](http://arxiv.org/pdf/2510.22115v2.pdf), cication: [**-1**](None) 
 

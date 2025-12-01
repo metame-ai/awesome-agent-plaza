@@ -45,6 +45,12 @@
 
 ## Multi-Agent
 
+- **Latent Collaboration in Multi-Agent Systems**, `arXiv, 2511.20639`, [arxiv](https://arxiv.org/abs/2511.20639v1), [pdf](https://arxiv.org/pdf/2511.20639v1.pdf), cication: [**-1**](None) 
+
+	 *Jiaru Zou, Xiyuan Yang, Ruizhong Qiu, ..., Mengdi Wang, Ling Yang*
+- **Multi-Agent Deep Research: Training Multi-Agent Systems with M-GRPO**, `arXiv, 2511.13288`, [arxiv](https://arxiv.org/abs/2511.13288v2), [pdf](https://arxiv.org/pdf/2511.13288v2.pdf), cication: [**-1**](None) 
+
+	 *Haoyang Hong, Jiajun Yin, Yuan Wang, ..., Peng Wei, Jinjie Gu*
 
 ## Agentic RL
 

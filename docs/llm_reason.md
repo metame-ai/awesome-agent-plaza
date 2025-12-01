@@ -87,7 +87,10 @@
 
 
 ## Latent Reasoning
-- 🌟 **Scaling Latent Reasoning via Looped Language Models**, `arXiv, 2510.25741`, [arxiv](http://arxiv.org/abs/2510.25741v1), [pdf](http://arxiv.org/pdf/2510.25741v1.pdf), cication: [**-1**](None) 
+
+- **Scaling Latent Reasoning via Looped Language Models**, `arXiv, 2510.25741`, [arxiv](https://arxiv.org/abs/2510.25741v4), [pdf](https://arxiv.org/pdf/2510.25741v4.pdf), cication: [**-1**](None) 
+
+	 *Rui-Jie Zhu, Zixuan Wang, Kai Hua, ..., Yoshua Bengio, Jason Eshraghian*
 
 	 *Rui-Jie Zhu, Zixuan Wang, Kai Hua, ..., Yoshua Bengio, Jason Eshraghian*
 
