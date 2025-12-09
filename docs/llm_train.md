@@ -15,7 +15,7 @@
 
 ## LLM Training
 
-- [Learning Which Data To Learn: TerRIFIC Curriculabody { background-color: #121212; color: #e6e6e6; }blockquote { background-color: #1f1f1f; border: 1px solid currentColor; border-radius: 6px; padding: 0.75em 1em; line-height: 1.45; }blockquote li { margin: 0.15em 0; }/* Add lines under model-size/tokens header row and under iteration-number header row */table { border-top: 3px solid #ffffff; border-bottom: 3px solid #ffffff; }table thead tr:first-child th { border-bottom: 2px solid #cfcfcf; }table thead tr:nth-child(2) th { border-bottom: 1px solid #e5e5e5; }table th, table td { text-align: center !important; }](https://joemelko.github.io/blog.html?post=curric) 
+- [Learning Which Data To Learn: TerRIFIC Curriculabody](https://joemelko.github.io/blog.html?post=curric) 
 - **Defeating the Training-Inference Mismatch via FP16**, `arXiv, 2510.26788`, [arxiv](http://arxiv.org/abs/2510.26788v1), [pdf](http://arxiv.org/pdf/2510.26788v1.pdf), cication: [**-1**](None) 
 
 	 *Penghui Qi, Zichen Liu, Xiangxin Zhou, ..., Wee Sun Lee, Min Lin*

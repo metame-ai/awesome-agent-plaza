@@ -33,6 +33,7 @@
 
 ## Agent
 
+- [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) 
 - **Real-Time Reasoning Agents in Evolving Environments**, `arXiv, 2511.04898`, [arxiv](https://arxiv.org/abs/2511.04898v1), [pdf](https://arxiv.org/pdf/2511.04898v1.pdf), cication: [**-1**](None) 
 
 	 *Yule Wen, Yixin Ye, Yanzhe Zhang, ..., Diyi Yang, Hao Zhu*
@@ -45,6 +46,9 @@
 
 ## Multi-Agent
 
+- **ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**, `arXiv, 2511.21689`, [arxiv](https://arxiv.org/abs/2511.21689v1), [pdf](https://arxiv.org/pdf/2511.21689v1.pdf), cication: [**-1**](None) 
+
+	 *Hongjin Su, Shizhe Diao, Ximing Lu, ..., Jan Kautz, Pavlo Molchanov*
 - **Latent Collaboration in Multi-Agent Systems**, `arXiv, 2511.20639`, [arxiv](https://arxiv.org/abs/2511.20639v1), [pdf](https://arxiv.org/pdf/2511.20639v1.pdf), cication: [**-1**](None) 
 
 	 *Jiaru Zou, Xiyuan Yang, Ruizhong Qiu, ..., Mengdi Wang, Ling Yang*
@@ -54,6 +58,10 @@
 
 ## Agentic RL
 
+- [LLM Agent RL的一些实践感悟](https://zhuanlan.zhihu.com/p/1979913424113771020) 
+- 🌟 **Stabilizing Reinforcement Learning with LLMs: Formulation and Practices**, `arXiv, 2512.01374`, [arxiv](https://arxiv.org/abs/2512.01374v3), [pdf](https://arxiv.org/pdf/2512.01374v3.pdf), cication: [**-1**](None) 
+
+	 *Chujie Zheng, Kai Dang, Bowen Yu, ..., Jingren Zhou, Junyang Lin*
 - **Agent Learning via Early Experience**, `arXiv, 2510.08558`, [arxiv](https://arxiv.org/pdf/2510.08558v2), [pdf](https://arxiv.org/pdf/2510.08558v2.pdf), cication: [**-1**](None) 
 
 	 *Kai Zhang, Xiangchao Chen, Bo Liu, ..., Yu Su, Yifan Wu*

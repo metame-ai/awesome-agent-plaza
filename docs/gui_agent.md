@@ -37,6 +37,7 @@
 
 ## Computer Use Agents
 
+- [**magentic-ui**](https://github.com/microsoft/magentic-ui) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/magentic-ui.svg?style=social&label=Star)
 - [Fara-7B: An Efficient Agentic Model for Computer Use](https://huggingface.co/microsoft/Fara-7B)  🤗 
 
 	 · ([aka](https://aka.ms/fara-techreport))
@@ -72,7 +73,6 @@
 
 	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
 
-	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
 - **Game-TARS: Pretrained Foundation Models for Scalable Generalist 
   Multimodal Game Agents**, `arXiv, 2510.23691`, [arxiv](http://arxiv.org/abs/2510.23691v1), [pdf](http://arxiv.org/pdf/2510.23691v1.pdf), cication: [**-1**](None) 
 
@@ -91,7 +91,8 @@
 
 ## Evaluation
 
-- [WebTailBench: A Comprehensive Benchmark for Computer-Using Agents](https://huggingface.co/datasets/microsoft/WebTailBench)- **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in  🤗 
+- [WebTailBench: A Comprehensive Benchmark for Computer-Using Agents](https://huggingface.co/datasets/microsoft/WebTailBench)  🤗 
+- **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in 
   GUI Tasks**, `arXiv, 2510.26098`, [arxiv](http://arxiv.org/abs/2510.26098v1), [pdf](http://arxiv.org/pdf/2510.26098v1.pdf), cication: [**-1**](None) 
 
 	 *Chenrui Shi, Zedong Yu, Zhi Gao, ..., Zhaofeng He, Qing Li*

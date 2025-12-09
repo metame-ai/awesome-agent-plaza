@@ -10,7 +10,9 @@
 	- [Open-source LLM](#open-source-llm)
 	- [Diffusion LM](#diffusion-lm)
 	- [Continuous LM](#continuous-lm)
+	- [Data](#data)
 	- [Toolkits](#toolkits)
+	- [Recurrent LM](#recurrent-lm)
 
 
 ## Survey
@@ -38,7 +40,6 @@
 
 	 *Hsuan Su, Ting-Yao Hu, Hema Swetha Koppula, ..., Oncel Tuzel, Raviteja Vemulapalli*
 
-	 *Hsuan Su, Ting-Yao Hu, Hema Swetha Koppula, ..., Oncel Tuzel, Raviteja Vemulapalli*
 - **When Models Lie, We Learn: Multilingual Span-Level Hallucination 
   Detection with PsiloQA**, `arXiv, 2510.04849`, [arxiv](http://arxiv.org/abs/2510.04849v1), [pdf](http://arxiv.org/pdf/2510.04849v1.pdf), cication: [**-1**](None) 
 
@@ -82,8 +83,6 @@
 ## Diffusion LM
 
 - **Diffusion Language Models are Super Data Learners**, `arXiv, 2511.03276`, [arxiv](https://arxiv.org/abs/2511.03276v1), [pdf](https://arxiv.org/pdf/2511.03276v1.pdf), cication: [**-1**](None) 
-
-	 *Jinjie Ni, Qian Liu, Longxu Dou, ..., Tianyu Pang, Michael Qizhe Shieh*
 
 	 *Jinjie Ni, Qian Liu, Longxu Dou, ..., Tianyu Pang, Michael Qizhe Shieh*
 

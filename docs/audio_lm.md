@@ -15,6 +15,9 @@
 
 ## TTS
 
+- [**VibeVoice**](https://github.com/microsoft/VibeVoice) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/VibeVoice.svg?style=social&label=Star)
+
+	 *Open-Source Frontier Voice AI*
 
 ## ASR
 
