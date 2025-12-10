@@ -37,7 +37,7 @@
 
 ## Computer Use Agents
 
-- [**magentic-ui**](https://github.com/microsoft/magentic-ui) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/magentic-ui.svg?style=social&label=Star)
+- [**magentic-ui**](https://github.com/microsoft/magentic-ui) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/magentic-ui.svg?style=social&label=Star) 
 - [Fara-7B: An Efficient Agentic Model for Computer Use](https://huggingface.co/microsoft/Fara-7B)  🤗 
 
 	 · ([aka](https://aka.ms/fara-techreport))

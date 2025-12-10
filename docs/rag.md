@@ -14,7 +14,7 @@
 
 ## RAG
 
-- [**Memori**](https://github.com/MemoriLabs/Memori) - MemoriLabs ![Star](https://img.shields.io/github/stars/MemoriLabs/Memori.svg?style=social&label=Star)
+- [**Memori**](https://github.com/MemoriLabs/Memori) - MemoriLabs ![Star](https://img.shields.io/github/stars/MemoriLabs/Memori.svg?style=social&label=Star) 
 - **MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation**, `arXiv, 2509.03891`, [arxiv](http://arxiv.org/abs/2509.03891v1), [pdf](http://arxiv.org/pdf/2509.03891v1.pdf), cication: [**-1**](None) 
 
 	 *Gowen Loo, Chang Liu, Qinghong Yin, ..., Jingyuan Zhang, Yu Tian*

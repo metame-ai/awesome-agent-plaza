@@ -26,7 +26,7 @@
 
 ## VLLM
 
-- [**vllm-omni**](https://github.com/vllm-project/vllm-omni) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm-omni.svg?style=social&label=Star)
+- [**vllm-omni**](https://github.com/vllm-project/vllm-omni) - vllm-project ![Star](https://img.shields.io/github/stars/vllm-project/vllm-omni.svg?style=social&label=Star) 
 - [Continuous batching](https://huggingface.co/blog/continuous_batching)  🤗 
 - [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm) - GeeeekExplorer ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm) 
 - [No More Retokenization Drift: Returning Token IDs via the OpenAI Compatible API Matters in Agent RL](https://blog.vllm.ai/2025/10/22/agent-lightning.html) 
