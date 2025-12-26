@@ -24,7 +24,7 @@
 
 ## Mobile Use Agents
 
-- [**OpenPhone**](https://github.com/HKUDS/OpenPhone) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/OpenPhone.svg?style=social&label=Star)
+- [**OpenPhone**](https://github.com/HKUDS/OpenPhone) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/OpenPhone.svg?style=social&label=Star) 
 
 	 *Mobile Agentic Foundation Models for AI Phone*
 - [**UIHawk**](https://github.com/IMNearth/UIHawk) - IMNearth ![Star](https://img.shields.io/github/stars/IMNearth/UIHawk.svg?style=social&label=Star) 
@@ -94,7 +94,7 @@
 
 ## Evaluation
 
-- [stepfun-ai  / AndroidDaily](https://huggingface.co/datasets/stepfun-ai/AndroidDaily/viewer/default/train)  🤗
+- [stepfun-ai  / AndroidDaily](https://huggingface.co/datasets/stepfun-ai/AndroidDaily/viewer/default/train)  🤗 
 - [WebTailBench: A Comprehensive Benchmark for Computer-Using Agents](https://huggingface.co/datasets/microsoft/WebTailBench)  🤗 
 - **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in 
   GUI Tasks**, `arXiv, 2510.26098`, [arxiv](http://arxiv.org/abs/2510.26098v1), [pdf](http://arxiv.org/pdf/2510.26098v1.pdf), cication: [**-1**](None) 
