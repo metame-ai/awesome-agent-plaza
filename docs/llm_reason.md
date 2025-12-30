@@ -17,6 +17,27 @@
 
 ## LLM Reasoning
 
+- [**PaCoRe**](https://github.com/stepfun-ai/PaCoRe) - stepfun-ai ![Star](https://img.shields.io/github/stars/stepfun-ai/PaCoRe.svg?style=social&label=Star)
+
+	 *Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning*
+- **P1: Mastering Physics Olympiads with Reinforcement Learning**, `arXiv, 2511.13612`, [arxiv](https://arxiv.org/abs/2511.13612v1), [pdf](https://arxiv.org/pdf/2511.13612v1.pdf), cication: [**-1**](None) 
+
+	 *Jiacheng Chen, Qianjia Cheng, Fangchen Yu, ..., Peng Ye, Ganqu Cui*
+- 🌟 **DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning**, `arXiv, 2511.22570`, [arxiv](https://arxiv.org/abs/2511.22570v1), [pdf](https://arxiv.org/pdf/2511.22570v1.pdf), cication: [**-1**](None) 
+
+	 *Zhihong Shao, Yuxiang Luo, Chengda Lu, ..., Shirong Ma, Xiaokang Zhang*
+- **Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning**, `arXiv, 2512.07461`, [arxiv](https://arxiv.org/abs/2512.07461v2), [pdf](https://arxiv.org/pdf/2512.07461v2.pdf), cication: [**-1**](None) 
+
+	 *Tong Wu, Yang Liu, Jun Bai, ..., Song-Chun Zhu, Zilong Zheng*
+- **Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**, `arXiv, 2512.19673`, [arxiv](https://arxiv.org/abs/2512.19673v1), [pdf](https://arxiv.org/pdf/2512.19673v1.pdf), cication: [**-1**](None) 
+
+	 *Yuqiao Tan, Minzheng Wang, Shizhu He, ..., Jun Zhao, Kang Liu*
+- **When Reasoning Meets Its Laws**, `arXiv, 2512.17901`, [arxiv](https://arxiv.org/abs/2512.17901v1), [pdf](https://arxiv.org/pdf/2512.17901v1.pdf), cication: [**-1**](None) 
+
+	 *Junyu Zhang, Yifan Sun, Tianang Leng, ..., Paul Pu Liang, Huan Zhang*
+- **Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**, `arXiv, 2512.04601`, [arxiv](https://arxiv.org/abs/2512.04601v1), [pdf](https://arxiv.org/pdf/2512.04601v1.pdf), cication: [**-1**](None) 
+
+	 *Joey Hong, Kang Liu, Zhan Ling, ..., Jiecao Chen, Sergey Levine*
 - 🌟 [**DeepSeek-Math-V2**](https://github.com/deepseek-ai/DeepSeek-Math-V2) - deepseek-ai ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Math-V2.svg?style=social&label=Star) 
 
 	 *Towards Self-Verifiable Mathematical Reasoning*
@@ -33,6 +54,12 @@
 
 ## Reinforcement Learning
 
+- [How to Explore to Scale RL Training of LLMs on Hard Problems?](https://blog.ml.cmu.edu/2025/11/26/how-to-explore-to-scale-rl-training-of-llms-on-hard-problems/) 
+
+	 · ([𝕏](https://x.com/aviral_kumar2/status/2001855734485582239))
+- **Soft Adaptive Policy Optimization**, `arXiv, 2511.20347`, [arxiv](https://arxiv.org/abs/2511.20347v2), [pdf](https://arxiv.org/pdf/2511.20347v2.pdf), cication: [**-1**](None) 
+
+	 *Chang Gao, Chujie Zheng, Xiong-Hui Chen, ..., Jingren Zhou, Junyang Lin*
 - **The Path Not Taken: RLVR Provably Learns Off the Principals**, `arXiv, 2511.08567`, [arxiv](https://arxiv.org/abs/2511.08567v1), [pdf](https://arxiv.org/pdf/2511.08567v1.pdf), cication: [**-1**](None) 
 
 	 *Hanqing Zhu, Zhenyu Zhang, Hanxian Huang, ..., Yuandong Tian, Kai Sheng Tai*
@@ -88,6 +115,9 @@
 
 ## Latent Reasoning
 
+- **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**, `arXiv, 2511.08577`, [arxiv](https://arxiv.org/abs/2511.08577v1), [pdf](https://arxiv.org/pdf/2511.08577v1.pdf), cication: [**-1**](None) 
+
+	 *Tianyu Fu, Yichen You, Zekai Chen, ..., Huazhong Yang, Yu Wang*
 - **Scaling Latent Reasoning via Looped Language Models**, `arXiv, 2510.25741`, [arxiv](https://arxiv.org/abs/2510.25741v4), [pdf](https://arxiv.org/pdf/2510.25741v4.pdf), cication: [**-1**](None) 
 
 	 *Rui-Jie Zhu, Zixuan Wang, Kai Hua, ..., Yoshua Bengio, Jason Eshraghian*
@@ -99,3 +129,5 @@
 
 
 ## Misc
+## Misc
+- [random improvement property of RLVR disappears with proper data decontamination](https://x.com/cwolferesearch/status/1998289169052045516)  𝕏

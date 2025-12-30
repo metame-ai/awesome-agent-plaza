@@ -22,6 +22,10 @@
 
 ## LLM Insight
 
+- [Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior](https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/) 
+- 🌟 **Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers**, `arXiv, 2512.17351`, [arxiv](https://arxiv.org/abs/2512.17351v1), [pdf](https://arxiv.org/pdf/2512.17351v1.pdf), cication: [**-1**](None) 
+
+	 *Zeyuan Allen-Zhu*
 - [Understanding neural networks through sparse circuits](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/) 
 - [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html) 
 - [Signs of introspection in large language models](https://www.anthropic.com/research/introspection) 
@@ -48,6 +52,16 @@
 
 ## LLM Omni
 
+- [**Fun-Audio-Chat**](https://github.com/FunAudioLLM/Fun-Audio-Chat) - FunAudioLLM ![Star](https://img.shields.io/github/stars/FunAudioLLM/Fun-Audio-Chat.svg?style=social&label=Star)
+- **Step-Audio-R1 Technical Report**, `arXiv, 2511.15848`, [arxiv](https://arxiv.org/abs/2511.15848v2), [pdf](https://arxiv.org/pdf/2511.15848v2.pdf), cication: [**-1**](None) 
+
+	 *Fei Tian, Xiangyu Tony Zhang, Yuxin Zhang, ..., Daxin Jiang, Gang Yu*
+- **Kling-Omni Technical Report**, `arXiv, 2512.16776`, [arxiv](https://arxiv.org/abs/2512.16776v1), [pdf](https://arxiv.org/pdf/2512.16776v1.pdf), cication: [**-1**](None) 
+
+	 *Kling Team, Jialu Chen, Yuanzheng Ci, ..., Guosheng Zhu, Yongjie Zhu*
+- **Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation**, `arXiv, 2511.14993`, [arxiv](https://arxiv.org/abs/2511.14993v2), [pdf](https://arxiv.org/pdf/2511.14993v2.pdf), cication: [**-1**](None) 
+
+	 *Vladimir Arkhipkin, Vladimir Korviakov, Nikolai Gerasimenko, ..., Tatiana Nikulina, Denis Dimitrov*
 - **LongCat-Flash-Omni Technical Report**, `arXiv, 2511.00279`, [arxiv](http://arxiv.org/abs/2511.00279v1), [pdf](http://arxiv.org/pdf/2511.00279v1.pdf), cication: [**-1**](None) 
 
 	 *Meituan LongCat Team, Bairui Wang, Bayan, ..., Ziyuan Zhuang, Zizhe Zhao*
@@ -94,6 +108,10 @@
 
 ## Data
 
+- 🌟 [reinforcement learning from verifiable rewards on the Dolci-Think-RL-7B dataset](https://huggingface.co/allenai/Olmo-3.1-32B-Think)  🤗
+- **DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI**, `arXiv, 2512.16676`, [arxiv](https://arxiv.org/abs/2512.16676v1), [pdf](https://arxiv.org/pdf/2512.16676v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Liang, Xiaochen Ma, Zhou Liu, ..., Weinan E, Wentao Zhang*
 - [SYNTH: the new data frontier](https://pleias.fr/blog/blogsynth-the-new-data-frontier) 
 
 	 · ([𝕏](https://x.com/Dorialexander/status/1987930819021635964))

@@ -16,6 +16,15 @@
 
 ## VLM Reasoning
 
+- **OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe**, `arXiv, 2511.16334`, [arxiv](https://arxiv.org/abs/2511.16334v4), [pdf](https://arxiv.org/pdf/2511.16334v4.pdf), cication: [**-1**](None) 
+
+	 *Kaichen Zhang, Keming Wu, Zuhao Yang, ..., Xingxuan Li, Lidong Bing*
+- **MMGR: Multi-Modal Generative Reasoning**, `arXiv, 2512.14691`, [arxiv](https://arxiv.org/abs/2512.14691v2), [pdf](https://arxiv.org/pdf/2512.14691v2.pdf), cication: [**-1**](None) 
+
+	 *Zefan Cai, Haoyi Qiu, Tianyi Ma, ..., Nanyun Peng, Junjie Hu*
+- **Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding**, `arXiv, 2512.17532`, [arxiv](https://arxiv.org/abs/2512.17532v1), [pdf](https://arxiv.org/pdf/2512.17532v1.pdf), cication: [**-1**](None) 
+
+	 *Jiaqi Tang, Jianmin Chen, Wei Wei, ..., Lei Zhang, Qifeng Chen*
 - **DeepEyesV2: Toward Agentic Multimodal Model**, `arXiv, 2511.05271`, [arxiv](https://arxiv.org/abs/2511.05271v2), [pdf](https://arxiv.org/pdf/2511.05271v2.pdf), cication: [**-1**](None) 
 
 	 *Jack Hong, Chenxiao Zhao, ChengLin Zhu, ..., Guohai Xu, Xing Yu*
@@ -45,7 +54,10 @@
 	 *Sicheng Feng, Kaiwen Tuo, Song Wang, ..., Jianke Zhu, Huan Wang*
 
 ## Latent Reasoning
-- **Latent Chain-of-Thought for Visual Reasoning**, `arXiv, 2510.23925`, [arxiv](http://arxiv.org/abs/2510.23925v2), [pdf](http://arxiv.org/pdf/2510.23925v2.pdf), cication: [**-1**](None) 
+
+- **Latent Chain-of-Thought for Visual Reasoning**, `arXiv, 2510.23925`, [arxiv](https://arxiv.org/abs/2510.23925v2), [pdf](https://arxiv.org/pdf/2510.23925v2.pdf), cication: [**-1**](None) 
+
+	 *Guohao Sun, Hang Hua, Jian Wang, ..., Raghuveer Rao, Zhiqiang Tao*
 
 	 *Guohao Sun, Hang Hua, Jian Wang, ..., Raghuveer Rao, Zhiqiang Tao*
 

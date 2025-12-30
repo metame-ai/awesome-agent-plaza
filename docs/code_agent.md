@@ -16,6 +16,12 @@
 
 ## Code Agents
 
+- **Computer-Use Agents as Judges for Generative User Interface**, `arXiv, 2511.15567`, [arxiv](https://arxiv.org/abs/2511.15567v1), [pdf](https://arxiv.org/pdf/2511.15567v1.pdf), cication: [**-1**](None) 
+
+	 *Kevin Qinghong Lin, Siyuan Hu, Linjie Li, ..., Philip Torr, Mike Zheng Shou*
+- **From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence**, `arXiv, 2511.18538`, [arxiv](https://arxiv.org/abs/2511.18538v5), [pdf](https://arxiv.org/pdf/2511.18538v5.pdf), cication: [**-1**](None) 
+
+	 *Jian Yang, Xianglong Liu, Weifeng Lv, ..., Zhaoxiang Zhang, Bo Zheng*
 - **KAT-Coder Technical Report**, `arXiv, 2510.18779`, [arxiv](http://arxiv.org/abs/2510.18779v3), [pdf](http://arxiv.org/pdf/2510.18779v3.pdf), cication: [**-1**](None) 
 
 	 *Zizheng Zhan, Ken Deng, Jinghui Wang, ..., Haotian Zhang, Bin Chen*

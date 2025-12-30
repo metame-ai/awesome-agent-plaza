@@ -13,7 +13,10 @@
 
 
 ## LLM Inference
-- **The End of Manual Decoding: Towards Truly End-to-End Language Models**, `arXiv, 2510.26697`, [arxiv](http://arxiv.org/abs/2510.26697v1), [pdf](http://arxiv.org/pdf/2510.26697v1.pdf), cication: [**-1**](None) 
+
+- **The End of Manual Decoding: Towards Truly End-to-End Language Models**, `arXiv, 2510.26697`, [arxiv](https://arxiv.org/abs/2510.26697v2), [pdf](https://arxiv.org/pdf/2510.26697v2.pdf), cication: [**-1**](None) 
+
+	 *Zhichao Wang, Dongyang Ma, Xinting Huang, ..., Xiaoying Tang, Yan Wang*
 
 	 *Zhichao Wang, Dongyang Ma, Xinting Huang, ..., Xiaoying Tang, Yan Wang*
 

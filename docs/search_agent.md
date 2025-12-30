@@ -12,9 +12,21 @@
 
 ## Survey
 
+- **Deep Research: A Systematic Survey**, `arXiv, 2512.02038`, [arxiv](https://arxiv.org/abs/2512.02038v1), [pdf](https://arxiv.org/pdf/2512.02038v1.pdf), cication: [**-1**](None) 
+
+	 *Zhengliang Shi, Yiqun Chen, Haitao Li, ..., Zhaopeng Tu, Zhaochun Ren*
 
 ## Search Agent
 
+- **General Agentic Memory Via Deep Research**, `arXiv, 2511.18423`, [arxiv](https://arxiv.org/abs/2511.18423v1), [pdf](https://arxiv.org/pdf/2511.18423v1.pdf), cication: [**-1**](None) 
+
+	 *B. Y. Yan, Chaofan Li, Hongjin Qian, ..., Shuqi Lu, Zheng Liu*
+- **DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**, `arXiv, 2511.19399`, [arxiv](https://arxiv.org/abs/2511.19399v2), [pdf](https://arxiv.org/pdf/2511.19399v2.pdf), cication: [**-1**](None) 
+
+	 *Rulin Shao, Akari Asai, Shannon Zejiang Shen, ..., Hannaneh Hajishirzi, Pang Wei Koh*
+- **Step-DeepResearch Technical Report**, `arXiv, 2512.20491`, [arxiv](https://arxiv.org/abs/2512.20491v4), [pdf](https://arxiv.org/pdf/2512.20491v4.pdf), cication: [**-1**](None) 
+
+	 *Chen Hu, Haikuo Du, Heng Wang, ..., Xiangyu Zhang, Yibo Zhu*
 - **AgentFold: Long-Horizon Web Agents with Proactive Context Management**, `arXiv, 2510.24699`, [arxiv](https://arxiv.org/abs/2510.24699v1), [pdf](https://arxiv.org/pdf/2510.24699v1.pdf), cication: [**-1**](None) 
 
 	 *Rui Ye, Zhongwang Zhang, Kuan Li, ..., Jingren Zhou, Yong Jiang*

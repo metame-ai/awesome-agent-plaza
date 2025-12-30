@@ -13,13 +13,20 @@
 
 
 ## Survey
-- **A Survey on Agentic Multimodal Large Language Models**, `arXiv, 2510.10991`, [arxiv](http://arxiv.org/abs/2510.10991v1), [pdf](http://arxiv.org/pdf/2510.10991v1.pdf), cication: [**-1**](None) 
+
+- **A Survey on Agentic Multimodal Large Language Models**, `arXiv, 2510.10991`, [arxiv](https://arxiv.org/abs/2510.10991v1), [pdf](https://arxiv.org/pdf/2510.10991v1.pdf), cication: [**-1**](None) 
+
+	 *Huanjin Yao, Ruifei Zhang, Jiaxing Huang, ..., Guanbin Li, Dacheng Tao*
 
 	 *Huanjin Yao, Ruifei Zhang, Jiaxing Huang, ..., Guanbin Li, Dacheng Tao* · ([Awesome-Agentic-MLLMs](https://github.com/HJYao00/Awesome-Agentic-MLLMs) - HJYao00) ![Star](https://img.shields.io/github/stars/HJYao00/Awesome-Agentic-MLLMs.svg?style=social&label=Star)
 
 
 ## Environment
 
+- [**Gym**](https://github.com/NVIDIA-NeMo/Gym) - NVIDIA-NeMo ![Star](https://img.shields.io/github/stars/NVIDIA-NeMo/Gym.svg?style=social&label=Star)
+- **AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems**, `arXiv, 2512.04367`, [arxiv](https://arxiv.org/abs/2512.04367v1), [pdf](https://arxiv.org/pdf/2512.04367v1.pdf), cication: [**-1**](None) 
+
+	 *Yun Piao, Hongbo Min, Hang Su, ..., Jinkui Ren, Xiantao Zhang*
 - [**sandbox**](https://github.com/agent-infra/sandbox) - agent-infra ![Star](https://img.shields.io/github/stars/agent-infra/sandbox.svg?style=social&label=Star) 
 - **Scaling Agent Learning via Experience Synthesis**, `arXiv, 2511.03773`, [arxiv](http://arxiv.org/abs/2511.03773v1), [pdf](http://arxiv.org/pdf/2511.03773v1.pdf), cication: [**-1**](None) 
 
@@ -58,6 +65,9 @@
 
 ## Agentic RL
 
+- **Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning**, `arXiv, 2511.14460`, [arxiv](https://arxiv.org/abs/2511.14460v1), [pdf](https://arxiv.org/pdf/2511.14460v1.pdf), cication: [**-1**](None) 
+
+	 *Mingyue Cheng, Jie Ouyang, Shuo Yu, ..., Qi Liu, Enhong Chen*
 - [LLM Agent RL的一些实践感悟](https://zhuanlan.zhihu.com/p/1979913424113771020) 
 - 🌟 **Stabilizing Reinforcement Learning with LLMs: Formulation and Practices**, `arXiv, 2512.01374`, [arxiv](https://arxiv.org/abs/2512.01374v3), [pdf](https://arxiv.org/pdf/2512.01374v3.pdf), cication: [**-1**](None) 
 

@@ -13,7 +13,10 @@
 
 
 ## Long Context
-- **R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth 
+
+- **QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management**, `arXiv, 2512.12967`, [arxiv](https://arxiv.org/abs/2512.12967v1), [pdf](https://arxiv.org/pdf/2512.12967v1.pdf), cication: [**-1**](None) 
+
+	 *Weizhou Shen, Ziyi Yang, Chenliang Li, ..., Jingren Zhou, Ming Yan*
   and Depth?**, `arXiv, 2510.08189`, [arxiv](http://arxiv.org/abs/2510.08189v2), [pdf](http://arxiv.org/pdf/2510.08189v2.pdf), cication: [**-1**](None) 
 
 	 *Yi Lu, Jianing Wang, Linsen Guo, ..., Wei Wang, Xunliang Cai* · ([reasoning-horizon.github](https://reasoning-horizon.github.io/))

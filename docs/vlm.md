@@ -32,7 +32,11 @@
 	 *Shruthan Radhakrishna, Aman Tiwari, Aanjaneya Shukla, ..., Srinivas Sunkara, Nicholas Chapados*
 
 ## Open-source VLM
-- **NVIDIA Nemotron Nano V2 VL**, `arXiv, 2511.03929`, [arxiv](http://arxiv.org/abs/2511.03929v2), [pdf](http://arxiv.org/pdf/2511.03929v2.pdf), cication: [**-1**](None) 
+
+- [Molmo 2: State-of-the-art video understanding, pointing, and tracking](https://allenai.org/blog/molmo2) 
+- **NVIDIA Nemotron Nano V2 VL**, `arXiv, 2511.03929`, [arxiv](https://arxiv.org/abs/2511.03929v2), [pdf](https://arxiv.org/pdf/2511.03929v2.pdf), cication: [**-1**](None) 
+
+	 *NVIDIA, :, Amala Sanjay Deshmukh, ..., Andrew Tao, Bryan Catanzaro*
 
 	 *NVIDIA, :, Amala Sanjay Deshmukh, ..., Andrew Tao, Bryan Catanzaro*
 
@@ -41,3 +45,5 @@
 
 
 ## Misc
+## Data
+- [Molmo2 Data](https://huggingface.co/collections/allenai/molmo2-data)  🤗

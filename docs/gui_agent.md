@@ -24,6 +24,12 @@
 
 ## Mobile Use Agents
 
+- **Step-GUI Technical Report**, `arXiv, 2512.15431`, [arxiv](https://arxiv.org/abs/2512.15431v2), [pdf](https://arxiv.org/pdf/2512.15431v2.pdf), cication: [**-1**](None) 
+
+	 *Haolong Yan, Jia Wang, Xin Huang, ..., Xiangyu Zhang, Daxin Jiang*
+- 🌟 **MAI-UI Technical Report: Real-World Centric Foundation GUI Agents**, `arXiv, 2512.22047`, [arxiv](https://arxiv.org/abs/2512.22047v1), [pdf](https://arxiv.org/pdf/2512.22047v1.pdf), cication: [**-1**](None) 
+
+	 *Hanzhang Zhou, Xu Zhang, Panrong Tong, ..., Jingren Zhou, Steven Hoi*
 - [**OpenPhone**](https://github.com/HKUDS/OpenPhone) - HKUDS ![Star](https://img.shields.io/github/stars/HKUDS/OpenPhone.svg?style=social&label=Star) 
 
 	 *Mobile Agentic Foundation Models for AI Phone*
@@ -40,6 +46,9 @@
 
 ## Computer Use Agents
 
+- **Computer-Use Agents as Judges for Generative User Interface**, `arXiv, 2511.15567`, [arxiv](https://arxiv.org/abs/2511.15567v1), [pdf](https://arxiv.org/pdf/2511.15567v1.pdf), cication: [**-1**](None) 
+
+	 *Kevin Qinghong Lin, Siyuan Hu, Linjie Li, ..., Philip Torr, Mike Zheng Shou*
 - [**magentic-ui**](https://github.com/microsoft/magentic-ui) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/magentic-ui.svg?style=social&label=Star) 
 - [Fara-7B: An Efficient Agentic Model for Computer Use](https://huggingface.co/microsoft/Fara-7B)  🤗 
 
@@ -72,6 +81,12 @@
 
 ## GUI Agents
 
+- **EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration**, `arXiv, 2512.19396`, [arxiv](https://arxiv.org/abs/2512.19396v1), [pdf](https://arxiv.org/pdf/2512.19396v1.pdf), cication: [**-1**](None) 
+
+	 *Runze Li, Yuwen Zhai, Bo Xu, ..., Ran Lin, Liang Wang*
+- **AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems**, `arXiv, 2512.04367`, [arxiv](https://arxiv.org/abs/2512.04367v1), [pdf](https://arxiv.org/pdf/2512.04367v1.pdf), cication: [**-1**](None) 
+
+	 *Yun Piao, Hongbo Min, Hang Su, ..., Jinkui Ren, Xiantao Zhang*
 - **Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents**, `arXiv, 2509.26539`, [arxiv](https://arxiv.org/pdf/2509.26539v1), [pdf](https://arxiv.org/pdf/2509.26539v1.pdf), cication: [**-1**](None) 
 
 	 *Zhen Yang, Zi-Yi Dou, Di Feng, ..., Yinfei Yang, Zhe Gan*
@@ -94,6 +109,13 @@
 
 ## Evaluation
 
+- [**MobileWorld**](https://github.com/Tongyi-MAI/MobileWorld) - Tongyi-MAI ![Star](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld.svg?style=social&label=Star)
+- **MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments**, `arXiv, 2512.19432`, [arxiv](https://arxiv.org/abs/2512.19432v2), [pdf](https://arxiv.org/pdf/2512.19432v2.pdf), cication: [**-1**](None) 
+
+	 *Quyu Kong, Xu Zhang, Zhenyu Yang, ..., Steven Hoi, Yue Wang*
+- **AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents**, `arXiv, 2512.21302`, [arxiv](https://arxiv.org/abs/2512.21302v1), [pdf](https://arxiv.org/pdf/2512.21302v1.pdf), cication: [**-1**](None) 
+
+	 *Yue Cao, Yingyao Wang, Pi Bu, ..., Yuning Jiang, Bo Zheng*
 - [stepfun-ai  / AndroidDaily](https://huggingface.co/datasets/stepfun-ai/AndroidDaily/viewer/default/train)  🤗 
 - [WebTailBench: A Comprehensive Benchmark for Computer-Using Agents](https://huggingface.co/datasets/microsoft/WebTailBench)  🤗 
 - **GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in 
