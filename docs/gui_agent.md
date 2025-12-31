@@ -109,7 +109,7 @@
 
 ## Evaluation
 
-- [**MobileWorld**](https://github.com/Tongyi-MAI/MobileWorld) - Tongyi-MAI ![Star](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld.svg?style=social&label=Star)
+- [**MobileWorld**](https://github.com/Tongyi-MAI/MobileWorld) - Tongyi-MAI ![Star](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld.svg?style=social&label=Star) 
 - **MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments**, `arXiv, 2512.19432`, [arxiv](https://arxiv.org/abs/2512.19432v2), [pdf](https://arxiv.org/pdf/2512.19432v2.pdf), cication: [**-1**](None) 
 
 	 *Quyu Kong, Xu Zhang, Zhenyu Yang, ..., Steven Hoi, Yue Wang*

@@ -46,4 +46,4 @@
 
 ## Misc
 ## Data
-- [Molmo2 Data](https://huggingface.co/collections/allenai/molmo2-data)  🤗
+- [Molmo2 Data](https://huggingface.co/collections/allenai/molmo2-data)  🤗 

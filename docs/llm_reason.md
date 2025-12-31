@@ -17,7 +17,7 @@
 
 ## LLM Reasoning
 
-- [**PaCoRe**](https://github.com/stepfun-ai/PaCoRe) - stepfun-ai ![Star](https://img.shields.io/github/stars/stepfun-ai/PaCoRe.svg?style=social&label=Star)
+- [**PaCoRe**](https://github.com/stepfun-ai/PaCoRe) - stepfun-ai ![Star](https://img.shields.io/github/stars/stepfun-ai/PaCoRe.svg?style=social&label=Star) 
 
 	 *Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning*
 - **P1: Mastering Physics Olympiads with Reinforcement Learning**, `arXiv, 2511.13612`, [arxiv](https://arxiv.org/abs/2511.13612v1), [pdf](https://arxiv.org/pdf/2511.13612v1.pdf), cication: [**-1**](None) 
@@ -130,4 +130,4 @@
 
 ## Misc
 ## Misc
-- [random improvement property of RLVR disappears with proper data decontamination](https://x.com/cwolferesearch/status/1998289169052045516)  𝕏
+- [random improvement property of RLVR disappears with proper data decontamination](https://x.com/cwolferesearch/status/1998289169052045516)  𝕏 

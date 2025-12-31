@@ -52,7 +52,7 @@
 
 ## LLM Omni
 
-- [**Fun-Audio-Chat**](https://github.com/FunAudioLLM/Fun-Audio-Chat) - FunAudioLLM ![Star](https://img.shields.io/github/stars/FunAudioLLM/Fun-Audio-Chat.svg?style=social&label=Star)
+- [**Fun-Audio-Chat**](https://github.com/FunAudioLLM/Fun-Audio-Chat) - FunAudioLLM ![Star](https://img.shields.io/github/stars/FunAudioLLM/Fun-Audio-Chat.svg?style=social&label=Star) 
 - **Step-Audio-R1 Technical Report**, `arXiv, 2511.15848`, [arxiv](https://arxiv.org/abs/2511.15848v2), [pdf](https://arxiv.org/pdf/2511.15848v2.pdf), cication: [**-1**](None) 
 
 	 *Fei Tian, Xiangyu Tony Zhang, Yuxin Zhang, ..., Daxin Jiang, Gang Yu*
@@ -108,7 +108,7 @@
 
 ## Data
 
-- 🌟 [reinforcement learning from verifiable rewards on the Dolci-Think-RL-7B dataset](https://huggingface.co/allenai/Olmo-3.1-32B-Think)  🤗
+- 🌟 [reinforcement learning from verifiable rewards on the Dolci-Think-RL-7B dataset](https://huggingface.co/allenai/Olmo-3.1-32B-Think)  🤗 
 - **DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI**, `arXiv, 2512.16676`, [arxiv](https://arxiv.org/abs/2512.16676v1), [pdf](https://arxiv.org/pdf/2512.16676v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Liang, Xiaochen Ma, Zhou Liu, ..., Weinan E, Wentao Zhang*

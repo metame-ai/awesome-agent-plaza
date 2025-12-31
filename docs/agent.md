@@ -23,7 +23,7 @@
 
 ## Environment
 
-- [**Gym**](https://github.com/NVIDIA-NeMo/Gym) - NVIDIA-NeMo ![Star](https://img.shields.io/github/stars/NVIDIA-NeMo/Gym.svg?style=social&label=Star)
+- [**Gym**](https://github.com/NVIDIA-NeMo/Gym) - NVIDIA-NeMo ![Star](https://img.shields.io/github/stars/NVIDIA-NeMo/Gym.svg?style=social&label=Star) 
 - **AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems**, `arXiv, 2512.04367`, [arxiv](https://arxiv.org/abs/2512.04367v1), [pdf](https://arxiv.org/pdf/2512.04367v1.pdf), cication: [**-1**](None) 
 
 	 *Yun Piao, Hongbo Min, Hang Su, ..., Jinkui Ren, Xiantao Zhang*
