@@ -33,6 +33,9 @@
 
 ## Open-source VLM
 
+- **STEP3-VL-10B Technical Report**, `arXiv, 2601.09668`, [arxiv](https://arxiv.org/abs/2601.09668v2), [pdf](https://arxiv.org/pdf/2601.09668v2.pdf), cication: [**-1**](None) 
+
+	 *Ailin Huang, Chengyuan Yao, Chunrui Han, ..., Yibo Zhu, Zheng Ge*
 - [Molmo 2: State-of-the-art video understanding, pointing, and tracking](https://allenai.org/blog/molmo2) 
 - **NVIDIA Nemotron Nano V2 VL**, `arXiv, 2511.03929`, [arxiv](https://arxiv.org/abs/2511.03929v2), [pdf](https://arxiv.org/pdf/2511.03929v2.pdf), cication: [**-1**](None) 
 

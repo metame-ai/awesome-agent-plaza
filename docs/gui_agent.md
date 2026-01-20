@@ -46,6 +46,7 @@
 
 ## Computer Use Agents
 
+- [EvoCUA: Evolving Computer Use Agent](https://huggingface.co/meituan/EvoCUA-32B-20260105)  🤗
 - **Computer-Use Agents as Judges for Generative User Interface**, `arXiv, 2511.15567`, [arxiv](https://arxiv.org/abs/2511.15567v1), [pdf](https://arxiv.org/pdf/2511.15567v1.pdf), cication: [**-1**](None) 
 
 	 *Kevin Qinghong Lin, Siyuan Hu, Linjie Li, ..., Philip Torr, Mike Zheng Shou*
