@@ -46,6 +46,12 @@
 
 ## Computer Use Agents
 
+- **ShowUI-Aloha: Human-Taught GUI Agent**, `arXiv, 2601.07181`, [arxiv](https://arxiv.org/abs/2601.07181v1), [pdf](https://arxiv.org/pdf/2601.07181v1.pdf), cication: [**-1**](None) 
+
+	 *Yichun Zhang, Xiangwu Guo, Yauhong Goh, ..., Difei Gao, Mike Zheng Shou*
+- 🌟 **EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience**, `arXiv, 2601.15876`, [arxiv](https://arxiv.org/abs/2601.15876v2), [pdf](https://arxiv.org/pdf/2601.15876v2.pdf), cication: [**-1**](None) 
+
+	 *Taofeng Xue, Chong Peng, Mianqiu Huang, ..., Xunliang Cai, Xipeng Qiu*
 - [EvoCUA: Evolving Computer Use Agent](https://huggingface.co/meituan/EvoCUA-32B-20260105)  🤗 
 - **Computer-Use Agents as Judges for Generative User Interface**, `arXiv, 2511.15567`, [arxiv](https://arxiv.org/abs/2511.15567v1), [pdf](https://arxiv.org/pdf/2511.15567v1.pdf), cication: [**-1**](None) 
 
@@ -68,6 +74,9 @@
 
 ## Web Agents
 
+- **InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training**, `arXiv, 2601.04126`, [arxiv](https://arxiv.org/abs/2601.04126v2), [pdf](https://arxiv.org/pdf/2601.04126v2.pdf), cication: [**-1**](None) 
+
+	 *Ziyun Zhang, Zezhou Wang, Xiaoyi Zhang, ..., Bin Li, Yan Lu*
 
 
 ## Tool Use
@@ -82,6 +91,12 @@
 
 ## GUI Agents
 
+- **MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux**, `arXiv, 2601.13060`, [arxiv](https://arxiv.org/abs/2601.13060v1), [pdf](https://arxiv.org/pdf/2601.13060v1.pdf), cication: [**-1**](None) 
+
+	 *Zecheng Li, Zhihui Cao, Wenke Huang, ..., Xingyu Liu, Zuojian Wang*
+- **OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent**, `arXiv, 2601.07779`, [arxiv](https://arxiv.org/abs/2601.07779v1), [pdf](https://arxiv.org/pdf/2601.07779v1.pdf), cication: [**-1**](None) 
+
+	 *Bowen Yang, Kaiming Jin, Zhenyu Wu, ..., Zun Wang, Zichen Ding*
 - **EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration**, `arXiv, 2512.19396`, [arxiv](https://arxiv.org/abs/2512.19396v1), [pdf](https://arxiv.org/pdf/2512.19396v1.pdf), cication: [**-1**](None) 
 
 	 *Runze Li, Yuwen Zhai, Bo Xu, ..., Ran Lin, Liang Wang*

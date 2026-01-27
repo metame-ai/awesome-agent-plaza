@@ -14,6 +14,9 @@
 
 ## RAG
 
+- **Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling**, `arXiv, 2512.23959`, [arxiv](https://arxiv.org/abs/2512.23959v2), [pdf](https://arxiv.org/pdf/2512.23959v2.pdf), cication: [**-1**](None) 
+
+	 *Chulun Zhou, Chunkang Zhang, Guoxin Yu, ..., Wai Lam, Mo Yu*
 - [**Memori**](https://github.com/MemoriLabs/Memori) - MemoriLabs ![Star](https://img.shields.io/github/stars/MemoriLabs/Memori.svg?style=social&label=Star) 
 - **MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation**, `arXiv, 2509.03891`, [arxiv](http://arxiv.org/abs/2509.03891v1), [pdf](http://arxiv.org/pdf/2509.03891v1.pdf), cication: [**-1**](None) 
 

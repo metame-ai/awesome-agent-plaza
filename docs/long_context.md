@@ -14,6 +14,12 @@
 
 ## Long Context
 
+- **Recursive Language Models**, `arXiv, 2512.24601`, [arxiv](https://arxiv.org/abs/2512.24601v1), [pdf](https://arxiv.org/pdf/2512.24601v1.pdf), cication: [**-1**](None) 
+
+	 *Alex L. Zhang, Tim Kraska, Omar Khattab*
+- **Extending the Context of Pretrained LLMs by Dropping Their Positional Embeddings**, `arXiv, 2512.12167`, [arxiv](https://arxiv.org/abs/2512.12167v1), [pdf](https://arxiv.org/pdf/2512.12167v1.pdf), cication: [**-1**](None) 
+
+	 *Yoav Gelberg, Koshi Eguchi, Takuya Akiba, ..., Edoardo Cetin*
 - **QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management**, `arXiv, 2512.12967`, [arxiv](https://arxiv.org/abs/2512.12967v1), [pdf](https://arxiv.org/pdf/2512.12967v1.pdf), cication: [**-1**](None) 
 
 	 *Weizhou Shen, Ziyi Yang, Chenliang Li, ..., Jingren Zhou, Ming Yan*

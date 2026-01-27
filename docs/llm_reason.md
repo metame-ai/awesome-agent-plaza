@@ -17,6 +17,9 @@
 
 ## LLM Reasoning
 
+- **Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits**, `arXiv, 2512.20578`, [arxiv](https://arxiv.org/abs/2512.20578v2), [pdf](https://arxiv.org/pdf/2512.20578v2.pdf), cication: [**-1**](None) 
+
+	 *Amirhosein Ghasemabadi, Di Niu*
 - [**PaCoRe**](https://github.com/stepfun-ai/PaCoRe) - stepfun-ai ![Star](https://img.shields.io/github/stars/stepfun-ai/PaCoRe.svg?style=social&label=Star) 
 
 	 *Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning*
@@ -54,6 +57,9 @@
 
 ## Reinforcement Learning
 
+- **GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**, `arXiv, 2601.05242`, [arxiv](https://arxiv.org/abs/2601.05242v1), [pdf](https://arxiv.org/pdf/2601.05242v1.pdf), cication: [**-1**](None) 
+
+	 *Shih-Yang Liu, Xin Dong, Ximing Lu, ..., Jan Kautz, Pavlo Molchanov*
 - [How to Explore to Scale RL Training of LLMs on Hard Problems?](https://blog.ml.cmu.edu/2025/11/26/how-to-explore-to-scale-rl-training-of-llms-on-hard-problems/) 
 
 	 · ([𝕏](https://x.com/aviral_kumar2/status/2001855734485582239))
@@ -115,6 +121,9 @@
 
 ## Latent Reasoning
 
+- **Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space**, `arXiv, 2512.24617`, [arxiv](https://arxiv.org/abs/2512.24617v2), [pdf](https://arxiv.org/pdf/2512.24617v2.pdf), cication: [**-1**](None) 
+
+	 *Xingwei Qu, Shaowen Wang, Zihao Huang, ..., Ge Zhang, Wenhao Huang*
 - **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**, `arXiv, 2511.08577`, [arxiv](https://arxiv.org/abs/2511.08577v1), [pdf](https://arxiv.org/pdf/2511.08577v1.pdf), cication: [**-1**](None) 
 
 	 *Tianyu Fu, Yichen You, Zekai Chen, ..., Huazhong Yang, Yu Wang*

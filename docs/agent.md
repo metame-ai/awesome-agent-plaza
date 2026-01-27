@@ -23,6 +23,9 @@
 
 ## Environment
 
+- **ToolGym: an Open-world Tool-using Environment for Scalable Agent Testing and Data Curation**, `arXiv, 2601.06328`, [arxiv](https://arxiv.org/abs/2601.06328v1), [pdf](https://arxiv.org/pdf/2601.06328v1.pdf), cication: [**-1**](None) 
+
+	 *Ziqiao Xi, Shuang Liang, Qi Liu, ..., Biwei Huang, Kun Zhou*
 - [**Gym**](https://github.com/NVIDIA-NeMo/Gym) - NVIDIA-NeMo ![Star](https://img.shields.io/github/stars/NVIDIA-NeMo/Gym.svg?style=social&label=Star) 
 - **AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems**, `arXiv, 2512.04367`, [arxiv](https://arxiv.org/abs/2512.04367v1), [pdf](https://arxiv.org/pdf/2512.04367v1.pdf), cication: [**-1**](None) 
 

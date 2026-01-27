@@ -22,6 +22,9 @@
 
 ## LLM Insight
 
+- **Wait, Wait, Wait... Why Do Reasoning Models Loop?**, `arXiv, 2512.12895`, [arxiv](https://arxiv.org/abs/2512.12895v1), [pdf](https://arxiv.org/pdf/2512.12895v1.pdf), cication: [**-1**](None) 
+
+	 *Charilaos Pipis, Shivam Garg, Vasilis Kontonis, ..., Akshay Krishnamurthy, Dimitris Papailiopoulos*
 - [Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior](https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/) 
 - 🌟 **Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers**, `arXiv, 2512.17351`, [arxiv](https://arxiv.org/abs/2512.17351v1), [pdf](https://arxiv.org/pdf/2512.17351v1.pdf), cication: [**-1**](None) 
 
@@ -52,6 +55,12 @@
 
 ## LLM Omni
 
+- **The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding**, `arXiv, 2512.19693`, [arxiv](https://arxiv.org/abs/2512.19693v2), [pdf](https://arxiv.org/pdf/2512.19693v2.pdf), cication: [**-1**](None) 
+
+	 *Weichen Fan, Haiwen Diao, Quan Wang, ..., Dahua Lin, Ziwei Liu*
+- **NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation**, `arXiv, 2601.02204`, [arxiv](https://arxiv.org/abs/2601.02204v1), [pdf](https://arxiv.org/pdf/2601.02204v1.pdf), cication: [**-1**](None) 
+
+	 *Huichao Zhang, Liao Qu, Yiheng Liu, ..., Daniel K. Du, Xinglong Wu*
 - [**Fun-Audio-Chat**](https://github.com/FunAudioLLM/Fun-Audio-Chat) - FunAudioLLM ![Star](https://img.shields.io/github/stars/FunAudioLLM/Fun-Audio-Chat.svg?style=social&label=Star) 
 - **Step-Audio-R1 Technical Report**, `arXiv, 2511.15848`, [arxiv](https://arxiv.org/abs/2511.15848v2), [pdf](https://arxiv.org/pdf/2511.15848v2.pdf), cication: [**-1**](None) 
 
@@ -121,6 +130,13 @@
 
 ## Toolkits
 ## Recurrent LM
+
 - **Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence**, `arXiv, 2511.07384`, [arxiv](https://arxiv.org/abs/2511.07384v1), [pdf](https://arxiv.org/pdf/2511.07384v1.pdf), cication: [**-1**](None) 
 
+	 *Sean McLeish, Ang Li, John Kirchenbauer, ..., Tom Goldstein, Micah Goldblum*
+
 	 *Sean McLeish, Ang Li, John Kirchenbauer, ..., Tom Goldstein, Micah Goldblum* · ([𝕏](https://x.com/micahgoldblum/status/1988265009508655528))
+## LLM Model
+- 🌟 **mHC: Manifold-Constrained Hyper-Connections**, `arXiv, 2512.24880`, [arxiv](https://arxiv.org/abs/2512.24880v2), [pdf](https://arxiv.org/pdf/2512.24880v2.pdf), cication: [**-1**](None) 
+
+	 *Zhenda Xie, Yixuan Wei, Huanqi Cao, ..., Lean Wang, Wenfeng Liang*
