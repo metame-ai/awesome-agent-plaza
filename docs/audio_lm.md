@@ -6,7 +6,7 @@
 
 ## Audio LM
 
-- [**sam-audio**](https://github.com/facebookresearch/sam-audio) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/sam-audio.svg?style=social&label=Star)
+- [**sam-audio**](https://github.com/facebookresearch/sam-audio) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/sam-audio.svg?style=social&label=Star) 
 
 ## Audio Encodec
 
