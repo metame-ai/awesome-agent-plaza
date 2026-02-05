@@ -142,6 +142,9 @@
 
 ## Data
 
+- **Learning with Challenges: Adaptive Difficulty-Aware Data Generation for Mobile GUI Agent Training**, `arXiv, 2601.22781`, [arxiv](https://arxiv.org/abs/2601.22781v1), [pdf](https://arxiv.org/pdf/2601.22781v1.pdf), cication: [**-1**](None) 
+
+	 *Linjia Kang, Zhimin Wang, Yongkang Zhang, ..., Haopeng Yan, Zhi Wang*
 - **AUTO-Explorer: Automated Data Collection for GUI Agent**, `arXiv, 2511.06417`, [arxiv](https://arxiv.org/abs/2511.06417v1), [pdf](https://arxiv.org/pdf/2511.06417v1.pdf), cication: [**-1**](None) 
 
 	 *Xiangwu Guo, Difei Gao, Mike Zheng Shou*
