@@ -32,6 +32,9 @@
 
 ## Quantization
 
+- **Quantization-Aware Distillation for NVFP4 Inference Accuracy Recovery**, `arXiv, 2601.20088`, [arxiv](https://arxiv.org/abs/2601.20088v1), [pdf](https://arxiv.org/pdf/2601.20088v1.pdf), cication: [**-1**](None) 
+
+	 *Meng Xin, Sweta Priyadarshi, Jingyu Xin, ..., Tijmen Blankevoort, Huizi Mao*
 
 ## Pruning
 

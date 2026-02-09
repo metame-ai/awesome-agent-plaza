@@ -19,6 +19,7 @@
 
 ## World Model
 
+- [Paper page - Generative Visual Code Mobile World Models](https://huggingface.co/papers/2602.01576)
 - [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) 
 
 	 · ([𝕏](https://x.com/drfeifei/status/1987891210699379091))

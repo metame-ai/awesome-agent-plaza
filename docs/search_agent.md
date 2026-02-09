@@ -18,6 +18,7 @@
 
 ## Search Agent
 
+- [**MiroThinker**](https://github.com/MiroMindAI/MiroThinker) - MiroMindAI ![Star](https://img.shields.io/github/stars/MiroMindAI/MiroThinker.svg?style=social&label=Star)
 - **General Agentic Memory Via Deep Research**, `arXiv, 2511.18423`, [arxiv](https://arxiv.org/abs/2511.18423v1), [pdf](https://arxiv.org/pdf/2511.18423v1.pdf), cication: [**-1**](None) 
 
 	 *B. Y. Yan, Chaofan Li, Hongjin Qian, ..., Shuqi Lu, Zheng Liu*

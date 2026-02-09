@@ -16,6 +16,7 @@
 
 ## Code Agents
 
+- [Open Coding Agents](https://huggingface.co/collections/allenai/open-coding-agents)  🤗
 - **Computer-Use Agents as Judges for Generative User Interface**, `arXiv, 2511.15567`, [arxiv](https://arxiv.org/abs/2511.15567v1), [pdf](https://arxiv.org/pdf/2511.15567v1.pdf), cication: [**-1**](None) 
 
 	 *Kevin Qinghong Lin, Siyuan Hu, Linjie Li, ..., Philip Torr, Mike Zheng Shou*

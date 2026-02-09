@@ -14,6 +14,7 @@
 
 ## Survey
 
+- [Paper page - Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)
 - **A Survey on Agentic Multimodal Large Language Models**, `arXiv, 2510.10991`, [arxiv](https://arxiv.org/abs/2510.10991v1), [pdf](https://arxiv.org/pdf/2510.10991v1.pdf), cication: [**-1**](None) 
 
 	 *Huanjin Yao, Ruifei Zhang, Jiaxing Huang, ..., Guanbin Li, Dacheng Tao*
@@ -56,6 +57,9 @@
 
 ## Multi-Agent
 
+- **Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems**, `arXiv, 2602.03695`, [arxiv](https://arxiv.org/abs/2602.03695v1), [pdf](https://arxiv.org/pdf/2602.03695v1.pdf), cication: [**-1**](None) 
+
+	 *Haibo Jin, Kuang Peng, Ye Yu, ..., Xiaopeng Yuan, Haohan Wang*
 - **ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**, `arXiv, 2511.21689`, [arxiv](https://arxiv.org/abs/2511.21689v1), [pdf](https://arxiv.org/pdf/2511.21689v1.pdf), cication: [**-1**](None) 
 
 	 *Hongjin Su, Shizhe Diao, Ximing Lu, ..., Jan Kautz, Pavlo Molchanov*
