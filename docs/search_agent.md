@@ -18,7 +18,16 @@
 
 ## Search Agent
 
-- [**MiroThinker**](https://github.com/MiroMindAI/MiroThinker) - MiroMindAI ![Star](https://img.shields.io/github/stars/MiroMindAI/MiroThinker.svg?style=social&label=Star)
+- [OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis](https://boiled-honeycup-4c7.notion.site/OpenResearcher-A-Fully-Open-Pipeline-for-Long-Horizon-Deep-Research-Trajectory-Synthesis-2f7e290627b5800cb3a0cd7e8d6ec0ea) 
+
+	 · ([𝕏](https://x.com/DongfuJiang/status/2020946549422031040))
+- **Dr. Zero: Self-Evolving Search Agents without Training Data**, `arXiv, 2601.07055`, [arxiv](https://arxiv.org/abs/2601.07055v1), [pdf](https://arxiv.org/pdf/2601.07055v1.pdf), cication: [**-1**](None) 
+
+	 *Zhenrui Yue, Kartikeya Upasani, Xianjun Yang, ..., Zhe Liu, Dong Wang*
+- **MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents**, `arXiv, 2601.12346`, [arxiv](https://arxiv.org/abs/2601.12346v1), [pdf](https://arxiv.org/pdf/2601.12346v1.pdf), cication: [**-1**](None) 
+
+	 *Peizhou Huang, Zixuan Zhong, Zhongwei Wan, ..., Tuo Zhang, Mi Zhang*
+- [**MiroThinker**](https://github.com/MiroMindAI/MiroThinker) - MiroMindAI ![Star](https://img.shields.io/github/stars/MiroMindAI/MiroThinker.svg?style=social&label=Star) 
 - **General Agentic Memory Via Deep Research**, `arXiv, 2511.18423`, [arxiv](https://arxiv.org/abs/2511.18423v1), [pdf](https://arxiv.org/pdf/2511.18423v1.pdf), cication: [**-1**](None) 
 
 	 *B. Y. Yan, Chaofan Li, Hongjin Qian, ..., Shuqi Lu, Zheng Liu*

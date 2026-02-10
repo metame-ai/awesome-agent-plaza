@@ -29,7 +29,10 @@
 
 
 ## Embodied Agents
-- **D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to 
+
+- **Green-VLA: Staged Vision-Language-Action Model for Generalist Robots**, `arXiv, 2602.00919`, [arxiv](https://arxiv.org/abs/2602.00919v1), [pdf](https://arxiv.org/pdf/2602.00919v1.pdf), cication: [**-1**](None) 
+
+	 *I. Apanasevich, M. Artemyev, R. Babakyan, ..., S. Sobolnikov, A. Postnikov*
   Embodied AI**, `arXiv, 2510.05684`, [arxiv](http://arxiv.org/abs/2510.05684v1), [pdf](http://arxiv.org/pdf/2510.05684v1.pdf), cication: [**-1**](None) 
 
 	 *Suwhan Choi, Jaeyoon Jung, Haebin Seong, ..., Youngjae Yu, Yunsung Lee*

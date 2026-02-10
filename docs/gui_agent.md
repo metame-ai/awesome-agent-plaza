@@ -49,6 +49,9 @@
 
 ## Computer Use Agents
 
+- **ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands**, `arXiv, 2512.24965`, [arxiv](https://arxiv.org/abs/2512.24965v1), [pdf](https://arxiv.org/pdf/2512.24965v1.pdf), cication: [**-1**](None) 
+
+	 *Siyuan Hu, Kevin Qinghong Lin, Mike Zheng Shou*
 - **ShowUI-Aloha: Human-Taught GUI Agent**, `arXiv, 2601.07181`, [arxiv](https://arxiv.org/abs/2601.07181v1), [pdf](https://arxiv.org/pdf/2601.07181v1.pdf), cication: [**-1**](None) 
 
 	 *Yichun Zhang, Xiangwu Guo, Yauhong Goh, ..., Difei Gao, Mike Zheng Shou*
@@ -77,7 +80,9 @@
 
 ## Web Agents
 
-- [DynaWeb: Model-Based Reinforcement Learning of Web Agents](https://arxiv.org/abs/2601.22149)
+- **DynaWeb: Model-Based Reinforcement Learning of Web Agents**, `arXiv, 2601.22149`, [arxiv](https://arxiv.org/abs/2601.22149v1), [pdf](https://arxiv.org/pdf/2601.22149v1.pdf), cication: [**-1**](None) 
+
+	 *Hang Ding, Peidong Liu, Junqiao Wang, ..., Tianyu Shi, Lei Yu*
 - **InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training**, `arXiv, 2601.04126`, [arxiv](https://arxiv.org/abs/2601.04126v2), [pdf](https://arxiv.org/pdf/2601.04126v2.pdf), cication: [**-1**](None) 
 
 	 *Ziyun Zhang, Zezhou Wang, Xiaoyi Zhang, ..., Bin Li, Yan Lu*
@@ -95,7 +100,9 @@
 
 ## GUI Agents
 
-- [Paper page - Generative Visual Code Mobile World Models](https://huggingface.co/papers/2602.01576)
+- **Generative Visual Code Mobile World Models**, `arXiv, 2602.01576`, [arxiv](https://arxiv.org/abs/2602.01576v1), [pdf](https://arxiv.org/pdf/2602.01576v1.pdf), cication: [**-1**](None) 
+
+	 *Woosung Koh, Sungjun Han, Segyu Lee, ..., Se-Young Yun, Jamin Shin*
 - **MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux**, `arXiv, 2601.13060`, [arxiv](https://arxiv.org/abs/2601.13060v1), [pdf](https://arxiv.org/pdf/2601.13060v1.pdf), cication: [**-1**](None) 
 
 	 *Zecheng Li, Zhihui Cao, Wenke Huang, ..., Xingyu Liu, Zuojian Wang*
@@ -130,6 +137,9 @@
 
 ## Evaluation
 
+- **MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments**, `arXiv, 2602.06075`, [arxiv](https://arxiv.org/abs/2602.06075v1), [pdf](https://arxiv.org/pdf/2602.06075v1.pdf), cication: [**-1**](None) 
+
+	 *Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, ..., Liang Liu, Yong Liu*
 - [**MobileWorld**](https://github.com/Tongyi-MAI/MobileWorld) - Tongyi-MAI ![Star](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld.svg?style=social&label=Star) 
 - **MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments**, `arXiv, 2512.19432`, [arxiv](https://arxiv.org/abs/2512.19432v2), [pdf](https://arxiv.org/pdf/2512.19432v2.pdf), cication: [**-1**](None) 
 
@@ -147,8 +157,12 @@
 
 ## Data
 
-- [Paper page - OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution](https://huggingface.co/papers/2601.20380)
-- [M$^2$-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining](https://arxiv.org/abs/2602.05429)
+- **OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution**, `arXiv, 2601.20380`, [arxiv](https://arxiv.org/abs/2601.20380v1), [pdf](https://arxiv.org/pdf/2601.20380v1.pdf), cication: [**-1**](None) 
+
+	 *Le Zhang, Yixiong Xiao, Xinjiang Lu, ..., Hua Wu, Haifeng Wang*
+- **M$^2$-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining**, `arXiv, 2602.05429`, [arxiv](https://arxiv.org/abs/2602.05429v1), [pdf](https://arxiv.org/pdf/2602.05429v1.pdf), cication: [**-1**](None) 
+
+	 *Rui Lv, Juncheng Mo, Tianyi Chu, ..., Chenguang Ma, Lei Zhao*
 - **Learning with Challenges: Adaptive Difficulty-Aware Data Generation for Mobile GUI Agent Training**, `arXiv, 2601.22781`, [arxiv](https://arxiv.org/abs/2601.22781v1), [pdf](https://arxiv.org/pdf/2601.22781v1.pdf), cication: [**-1**](None) 
 
 	 *Linjia Kang, Zhimin Wang, Yongkang Zhang, ..., Haopeng Yan, Zhi Wang*
@@ -172,8 +186,18 @@
 
 ## Grounding
 
-- [Paper page - GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents](https://huggingface.co/papers/2601.09770)
-- [Paper page - Continual GUI Agents](https://huggingface.co/papers/2601.20732)
+- **Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion**, `arXiv, 2602.06351`, [arxiv](https://arxiv.org/abs/2602.06351v1), [pdf](https://arxiv.org/pdf/2602.06351v1.pdf), cication: [**-1**](None) 
+
+	 *Longhui Ma, Di Zhao, Siwei Wang, ..., Zhao Lv, Miao Wang*
+- **POINTS-GUI-G: GUI-Grounding Journey**, `arXiv, 2602.06391`, [arxiv](https://arxiv.org/abs/2602.06391v1), [pdf](https://arxiv.org/pdf/2602.06391v1.pdf), cication: [**-1**](None) 
+
+	 *Zhongyin Zhao, Yuan Liu, Yikun Liu, ..., Yang Yu, Jie Zhou*
+- **GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents**, `arXiv, 2601.09770`, [arxiv](https://arxiv.org/abs/2601.09770v1), [pdf](https://arxiv.org/pdf/2601.09770v1.pdf), cication: [**-1**](None) 
+
+	 *Chen Chen, Jiawei Shao, Dakuan Lu, ..., Hantao Yao, Wu Liu*
+- **Continual GUI Agents**, `arXiv, 2601.20732`, [arxiv](https://arxiv.org/abs/2601.20732v2), [pdf](https://arxiv.org/pdf/2601.20732v2.pdf), cication: [**-1**](None) 
+
+	 *Ziwei Liu, Borui Kang, Hangjie Yuan, ..., Yifan Zhu, Tao Feng*
 - **ToolTok: Tool Tokenization for Efficient and Generalizable GUI Agents**, `arXiv, 2602.02548`, [arxiv](https://arxiv.org/abs/2602.02548v1), [pdf](https://arxiv.org/pdf/2602.02548v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaoce Wang, Guibin Zhang, Junzhe Li, ..., Chun Li, Ming Li*
@@ -193,7 +217,7 @@
 
 ## Toolkits
 
-- [**escrcpy**](https://github.com/viarotel-org/escrcpy) - viarotel-org ![Star](https://img.shields.io/github/stars/viarotel-org/escrcpy.svg?style=social&label=Star)
+- [**escrcpy**](https://github.com/viarotel-org/escrcpy) - viarotel-org ![Star](https://img.shields.io/github/stars/viarotel-org/escrcpy.svg?style=social&label=Star) 
 - [**OpenApps**](https://github.com/facebookresearch/OpenApps) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/OpenApps.svg?style=social&label=Star) 
 - [**droidbot**](https://github.com/honeynet/droidbot) - honeynet ![Star](https://img.shields.io/github/stars/honeynet/droidbot.svg?style=social&label=Star) 
 - [AIO Sandbox - All-in-One Agent Sandbox Environment](https://github.com/agent-infra/sandbox)- [**cua**](https://github.com/trycua/cua) - trycua ![Star](https://img.shields.io/github/stars/trycua/cua.svg?style=social&label=Star) 
@@ -209,5 +233,9 @@
 ## Misc
  
 ## Evolving
-- [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](https://arxiv.org/abs/2601.22528)
-- [MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution](https://arxiv.org/abs/2601.19199)
+- **Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution**, `arXiv, 2601.22528`, [arxiv](https://arxiv.org/abs/2601.22528v1), [pdf](https://arxiv.org/pdf/2601.22528v1.pdf), cication: [**-1**](None) 
+
+	 *Hongze Mi, Yibo Feng, WenJie Lu, ..., Hua Chai, Naiqiang Tan*
+- **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution**, `arXiv, 2601.19199`, [arxiv](https://arxiv.org/abs/2601.19199v2), [pdf](https://arxiv.org/pdf/2601.19199v2.pdf), cication: [**-1**](None) 
+
+	 *Libo Sun, Jiwen Zhang, Siyuan Wang, ..., Zhongyu Wei*

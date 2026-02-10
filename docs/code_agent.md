@@ -16,7 +16,7 @@
 
 ## Code Agents
 
-- [Open Coding Agents](https://huggingface.co/collections/allenai/open-coding-agents)  🤗
+- [Open Coding Agents](https://huggingface.co/collections/allenai/open-coding-agents)  🤗 
 - **Computer-Use Agents as Judges for Generative User Interface**, `arXiv, 2511.15567`, [arxiv](https://arxiv.org/abs/2511.15567v1), [pdf](https://arxiv.org/pdf/2511.15567v1.pdf), cication: [**-1**](None) 
 
 	 *Kevin Qinghong Lin, Siyuan Hu, Linjie Li, ..., Philip Torr, Mike Zheng Shou*
@@ -46,6 +46,9 @@
 
 ## Tool Use
 
+- **Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text**, `arXiv, 2601.10355`, [arxiv](https://arxiv.org/abs/2601.10355v1), [pdf](https://arxiv.org/pdf/2601.10355v1.pdf), cication: [**-1**](None) 
+
+	 *Zhihao Xu, Rumei Li, Jiahuan Li, ..., Xunliang Cai, Xiting Wang*
 - **DeepEyesV2: Toward Agentic Multimodal Model**, `arXiv, 2511.05271`, [arxiv](https://arxiv.org/abs/2511.05271v2), [pdf](https://arxiv.org/pdf/2511.05271v2.pdf), cication: [**-1**](None) 
 
 	 *Jack Hong, Chenxiao Zhao, ChengLin Zhu, ..., Guohai Xu, Xing Yu*

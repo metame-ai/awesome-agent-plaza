@@ -11,7 +11,7 @@
 
 ## LLM Safety
 
-- [**heretic)- 🌟 [Introducing gpt-oss-safeguard](https:**](https://github.com/p-e-w/heretic)- 🌟 [Introducing gpt-oss-safeguard](https://openai.com/index/introducing-gpt-oss-safeguard/) - p-e-w ![Star](https://img.shields.io/github/stars/p-e-w/heretic)- 🌟 [Introducing gpt-oss-safeguard](https:.svg?style=social&label=Star)
+- [**heretic)- 🌟 [Introducing gpt-oss-safeguard](https:**](https://github.com/p-e-w/heretic)- 🌟 [Introducing gpt-oss-safeguard](https://openai.com/index/introducing-gpt-oss-safeguard/) - p-e-w ![Star](https://img.shields.io/github/stars/p-e-w/heretic)- 🌟 [Introducing gpt-oss-safeguard](https:.svg?style=social&label=Star) 
 
 	 *Fully automatic censorship removal for language models](https://github.com/p-e-w/heretic)- 🌟 [Introducing gpt-oss-safeguard*
 - **Poisoning Attacks on LLMs Require a Near-constant Number of Poison 

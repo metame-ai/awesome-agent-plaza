@@ -14,7 +14,7 @@
 
 ## RAG
 
-- [**memU**](https://github.com/NevaMind-AI/memU) - NevaMind-AI ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)
+- [**memU**](https://github.com/NevaMind-AI/memU) - NevaMind-AI ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star) 
 - **Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling**, `arXiv, 2512.23959`, [arxiv](https://arxiv.org/abs/2512.23959v2), [pdf](https://arxiv.org/pdf/2512.23959v2.pdf), cication: [**-1**](None) 
 
 	 *Chulun Zhou, Chunkang Zhang, Guoxin Yu, ..., Wai Lam, Mo Yu*

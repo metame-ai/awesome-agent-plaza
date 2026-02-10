@@ -16,6 +16,9 @@
 
 ## VLM Reasoning
 
+- **Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**, `arXiv, 2601.05432`, [arxiv](https://arxiv.org/abs/2601.05432v1), [pdf](https://arxiv.org/pdf/2601.05432v1.pdf), cication: [**-1**](None) 
+
+	 *Yuxiang Ji, Yong Wang, Ziyu Ma, ..., Liaoni Wu, Xiangxiang Chu*
 - **OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe**, `arXiv, 2511.16334`, [arxiv](https://arxiv.org/abs/2511.16334v4), [pdf](https://arxiv.org/pdf/2511.16334v4.pdf), cication: [**-1**](None) 
 
 	 *Kaichen Zhang, Keming Wu, Zuhao Yang, ..., Xingxuan Li, Lidong Bing*

@@ -15,6 +15,9 @@
 
 ## VLM
 
+- **DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**, `arXiv, 2601.10305`, [arxiv](https://arxiv.org/abs/2601.10305v2), [pdf](https://arxiv.org/pdf/2601.10305v2.pdf), cication: [**-1**](None) 
+
+	 *Hengyu Shen, Tiancheng Gu, Bin Qin, ..., Ziyong Feng, Kaicheng Yang*
 - **Visual Spatial Tuning**, `arXiv, 2511.05491`, [arxiv](https://arxiv.org/abs/2511.05491v1), [pdf](https://arxiv.org/pdf/2511.05491v1.pdf), cication: [**-1**](None) 
 
 	 *Rui Yang, Ziyu Zhu, Yanwei Li, ..., Yi Lin, Hengshuang Zhao*
@@ -33,6 +36,12 @@
 
 ## Open-source VLM
 
+- **Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**, `arXiv, 2601.10611`, [arxiv](https://arxiv.org/abs/2601.10611v1), [pdf](https://arxiv.org/pdf/2601.10611v1.pdf), cication: [**-1**](None) 
+
+	 *Christopher Clark, Jieyu Zhang, Zixian Ma, ..., Ali Farhadi, Ranjay Krishna*
+- **Kimi K2.5: Visual Agentic Intelligence**, `arXiv, 2602.02276`, [arxiv](https://arxiv.org/abs/2602.02276v1), [pdf](https://arxiv.org/pdf/2602.02276v1.pdf), cication: [**-1**](None) 
+
+	 *Kimi Team, Tongtong Bai, Yifan Bai, ..., Ying Zou, Xinxing Zu*
 - **STEP3-VL-10B Technical Report**, `arXiv, 2601.09668`, [arxiv](https://arxiv.org/abs/2601.09668v2), [pdf](https://arxiv.org/pdf/2601.09668v2.pdf), cication: [**-1**](None) 
 
 	 *Ailin Huang, Chengyuan Yao, Chunrui Han, ..., Yibo Zhu, Zheng Ge*
@@ -50,3 +59,7 @@
 ## Misc
 ## Data
 - [Molmo2 Data](https://huggingface.co/collections/allenai/molmo2-data)  🤗 
+## Evaluation
+- **BabyVision: Visual Reasoning Beyond Language**, `arXiv, 2601.06521`, [arxiv](https://arxiv.org/abs/2601.06521v1), [pdf](https://arxiv.org/pdf/2601.06521v1.pdf), cication: [**-1**](None) 
+
+	 *Liang Chen, Weichu Xie, Yiyan Liang, ..., Yuan Gong, Kuan Li*

@@ -14,7 +14,9 @@
 
 ## Survey
 
-- [Paper page - Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)
+- **Agentic Reasoning for Large Language Models**, `arXiv, 2601.12538`, [arxiv](https://arxiv.org/abs/2601.12538v1), [pdf](https://arxiv.org/pdf/2601.12538v1.pdf), cication: [**-1**](None) 
+
+	 *Tianxin Wei, Ting-Wei Li, Zhining Liu, ..., Hanghang Tong, Jingrui He*
 - **A Survey on Agentic Multimodal Large Language Models**, `arXiv, 2510.10991`, [arxiv](https://arxiv.org/abs/2510.10991v1), [pdf](https://arxiv.org/pdf/2510.10991v1.pdf), cication: [**-1**](None) 
 
 	 *Huanjin Yao, Ruifei Zhang, Jiaxing Huang, ..., Guanbin Li, Dacheng Tao*
@@ -57,6 +59,9 @@
 
 ## Multi-Agent
 
+- **Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**, `arXiv, 2601.09667`, [arxiv](https://arxiv.org/abs/2601.09667v2), [pdf](https://arxiv.org/pdf/2601.09667v2.pdf), cication: [**-1**](None) 
+
+	 *Zhiyuan Hu, Yunhai Hu, Juncheng Liu, ..., Cynthia Breazeal, Hae Won Park*
 - **Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems**, `arXiv, 2602.03695`, [arxiv](https://arxiv.org/abs/2602.03695v1), [pdf](https://arxiv.org/pdf/2602.03695v1.pdf), cication: [**-1**](None) 
 
 	 *Haibo Jin, Kuang Peng, Ye Yu, ..., Xiaopeng Yuan, Haohan Wang*

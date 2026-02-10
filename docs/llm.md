@@ -117,6 +117,12 @@
 
 ## Data
 
+- **Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text**, `arXiv, 2601.10355`, [arxiv](https://arxiv.org/abs/2601.10355v1), [pdf](https://arxiv.org/pdf/2601.10355v1.pdf), cication: [**-1**](None) 
+
+	 *Zhihao Xu, Rumei Li, Jiahuan Li, ..., Xunliang Cai, Xiting Wang*
+- **Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text**, `arXiv, 2601.22975`, [arxiv](https://arxiv.org/abs/2601.22975v2), [pdf](https://arxiv.org/pdf/2601.22975v2.pdf), cication: [**-1**](None) 
+
+	 *Ximing Lu, David Acuna, Jaehun Jung, ..., Yi Dong, Yejin Choi*
 - 🌟 [reinforcement learning from verifiable rewards on the Dolci-Think-RL-7B dataset](https://huggingface.co/allenai/Olmo-3.1-32B-Think)  🤗 
 - **DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI**, `arXiv, 2512.16676`, [arxiv](https://arxiv.org/abs/2512.16676v1), [pdf](https://arxiv.org/pdf/2512.16676v1.pdf), cication: [**-1**](None) 
 

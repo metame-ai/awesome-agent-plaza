@@ -8,6 +8,9 @@
 
 ## Science Agent
 
+- **Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives**, `arXiv, 2601.20833`, [arxiv](https://arxiv.org/abs/2601.20833v1), [pdf](https://arxiv.org/pdf/2601.20833v1.pdf), cication: [**-1**](None) 
+
+	 *Tengyue Xu, Zhuoyang Qian, Gaoge Liu, ..., Harry Wang, Kris Chen*
 - **Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows**, `arXiv, 2512.16969`, [arxiv](https://arxiv.org/abs/2512.16969v1), [pdf](https://arxiv.org/pdf/2512.16969v1.pdf), cication: [**-1**](None) 
 
 	 *Wanghan Xu, Yuhao Zhou, Yifan Zhou, ..., Wenlong Zhang, Lei Bai*

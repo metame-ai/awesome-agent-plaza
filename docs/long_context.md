@@ -14,7 +14,9 @@
 
 ## Long Context
 
-- [Online Vector Quantized Attention](https://arxiv.org/abs/2602.03922)
+- **Online Vector Quantized Attention**, `arXiv, 2602.03922`, [arxiv](https://arxiv.org/abs/2602.03922v2), [pdf](https://arxiv.org/pdf/2602.03922v2.pdf), cication: [**-1**](None) 
+
+	 *Nick Alonso, Tomas Figliolia, Beren Millidge*
 - **Recursive Language Models**, `arXiv, 2512.24601`, [arxiv](https://arxiv.org/abs/2512.24601v1), [pdf](https://arxiv.org/pdf/2512.24601v1.pdf), cication: [**-1**](None) 
 
 	 *Alex L. Zhang, Tim Kraska, Omar Khattab*

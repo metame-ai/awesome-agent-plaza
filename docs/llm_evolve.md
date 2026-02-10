@@ -14,6 +14,13 @@
 
 ## LLM Evolving
 
+- [Continual Learning with RL for LLMs](https://cameronrwolfe.substack.com/p/rl-continual-learning) 
+- **Learning to Discover at Test Time**, `arXiv, 2601.16175`, [arxiv](https://arxiv.org/abs/2601.16175v2), [pdf](https://arxiv.org/pdf/2601.16175v2.pdf), cication: [**-1**](None) 
+
+	 *Mert Yuksekgonul, Daniel Koceja, Xinhao Li, ..., Carlos Guestrin, Yu Sun*
+- **Self-Distillation Enables Continual Learning**, `arXiv, 2601.19897`, [arxiv](https://arxiv.org/abs/2601.19897v1), [pdf](https://arxiv.org/pdf/2601.19897v1.pdf), cication: [**-1**](None) 
+
+	 *Idan Shenfeld, Mehul Damani, Jonas Hübotter, ..., Pulkit Agrawal*
 - **Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning**, `arXiv, 2511.16043`, [arxiv](https://arxiv.org/abs/2511.16043v1), [pdf](https://arxiv.org/pdf/2511.16043v1.pdf), cication: [**-1**](None) 
 
 	 *Peng Xia, Kaide Zeng, Jiaqi Liu, ..., Caiming Xiong, Huaxiu Yao*

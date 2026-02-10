@@ -57,6 +57,24 @@
 
 ## Reinforcement Learning
 
+- **Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs**, `arXiv, 2601.08763`, [arxiv](https://arxiv.org/abs/2601.08763v2), [pdf](https://arxiv.org/pdf/2601.08763v2.pdf), cication: [**-1**](None) 
+
+	 *Zhiyuan Hu, Yucheng Wang, Yufei He, ..., Hae Won Park, Bryan Hooi*
+- **Your Group-Relative Advantage Is Biased**, `arXiv, 2601.08521`, [arxiv](https://arxiv.org/abs/2601.08521v2), [pdf](https://arxiv.org/pdf/2601.08521v2.pdf), cication: [**-1**](None) 
+
+	 *Fengkai Yang, Zherui Chen, Xiaohan Wang, ..., Jianxin Li, Yikun Ban*
+- **Reinforcement Learning via Self-Distillation**, `arXiv, 2601.20802`, [arxiv](https://arxiv.org/abs/2601.20802v1), [pdf](https://arxiv.org/pdf/2601.20802v1.pdf), cication: [**-1**](None) 
+
+	 *Jonas Hübotter, Frederike Lübeck, Lejs Behric, ..., Carlos Guestrin, Andreas Krause*
+- **Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text**, `arXiv, 2601.22975`, [arxiv](https://arxiv.org/abs/2601.22975v2), [pdf](https://arxiv.org/pdf/2601.22975v2.pdf), cication: [**-1**](None) 
+
+	 *Ximing Lu, David Acuna, Jaehun Jung, ..., Yi Dong, Yejin Choi*
+- **F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare**, `arXiv, 2602.06717`, [arxiv](https://arxiv.org/abs/2602.06717v1), [pdf](https://arxiv.org/pdf/2602.06717v1.pdf), cication: [**-1**](None) 
+
+	 *Daniil Plyusov, Alexey Gorbatovski, Boris Shaposhnikov, ..., Alexey Malakhov, Daniil Gavrilov*
+- **Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models**, `arXiv, 2601.18734`, [arxiv](https://arxiv.org/abs/2601.18734v1), [pdf](https://arxiv.org/pdf/2601.18734v1.pdf), cication: [**-1**](None) 
+
+	 *Siyan Zhao, Zhihui Xie, Mengchen Liu, ..., Feiyu Chen, Aditya Grover*
 - **GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**, `arXiv, 2601.05242`, [arxiv](https://arxiv.org/abs/2601.05242v1), [pdf](https://arxiv.org/pdf/2601.05242v1.pdf), cication: [**-1**](None) 
 
 	 *Shih-Yang Liu, Xin Dong, Ximing Lu, ..., Jan Kautz, Pavlo Molchanov*

@@ -19,7 +19,9 @@
 
 ## World Model
 
-- [Paper page - Generative Visual Code Mobile World Models](https://huggingface.co/papers/2602.01576)
+- **Generative Visual Code Mobile World Models**, `arXiv, 2602.01576`, [arxiv](https://arxiv.org/abs/2602.01576v1), [pdf](https://arxiv.org/pdf/2602.01576v1.pdf), cication: [**-1**](None) 
+
+	 *Woosung Koh, Sungjun Han, Segyu Lee, ..., Se-Young Yun, Jamin Shin*
 - [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) 
 
 	 · ([𝕏](https://x.com/drfeifei/status/1987891210699379091))
@@ -36,6 +38,12 @@
 
 
 ## LLM Misc
+
+- **Scaling Embedding Layers in Language Models**, `arXiv, 2502.01637`, [arxiv](https://arxiv.org/abs/2502.01637v3), [pdf](https://arxiv.org/pdf/2502.01637v3.pdf), cication: [**-1**](None) 
+
+	 *Da Yu, Edith Cohen, Badih Ghazi, ..., Daogao Liu, Chiyuan Zhang*
 - **Open Character Training: Shaping the Persona of AI Assistants through Constitutional AI**, `arXiv, 2511.01689`, [arxiv](https://arxiv.org/abs/2511.01689v1), [pdf](https://arxiv.org/pdf/2511.01689v1.pdf), cication: [**-1**](None) 
+
+	 *Sharan Maiya, Henning Bartsch, Nathan Lambert, ..., Evan Hubinger*
 
 	 *Sharan Maiya, Henning Bartsch, Nathan Lambert, ..., Evan Hubinger* · ([OpenCharacterTraining](https://github.com/maiush/OpenCharacterTraining) - maiush) ![Star](https://img.shields.io/github/stars/maiush/OpenCharacterTraining.svg?style=social&label=Star)
