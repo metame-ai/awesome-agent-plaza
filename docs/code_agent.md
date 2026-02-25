@@ -72,7 +72,10 @@
 
 
 ## Evaluation
-- **AutoCode: LLMs as Problem Setters for Competitive Programming**, `arXiv, 2510.12803`, [arxiv](http://arxiv.org/abs/2510.12803v1), [pdf](http://arxiv.org/pdf/2510.12803v1.pdf), cication: [**-1**](None) 
+
+- **AutoCode: LLMs as Problem Setters for Competitive Programming**, `arXiv, 2510.12803`, [arxiv](https://arxiv.org/abs/2510.12803v1), [pdf](https://arxiv.org/pdf/2510.12803v1.pdf), cication: [**-1**](None) 
+
+	 *Shang Zhou, Zihan Zheng, Kaiyuan Liu, ..., Saining Xie, Jingbo Shang*
 
 	 *Shang Zhou, Zihan Zheng, Kaiyuan Liu, ..., Saining Xie, Jingbo Shang*
 

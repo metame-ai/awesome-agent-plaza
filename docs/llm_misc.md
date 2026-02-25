@@ -19,6 +19,9 @@
 
 ## World Model
 
+- **Code2World: A GUI World Model via Renderable Code Generation**, `arXiv, 2602.09856`, [arxiv](https://arxiv.org/abs/2602.09856v1), [pdf](https://arxiv.org/pdf/2602.09856v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhao Zheng, Li'an Zhong, Yi Wang, ..., Philip Torr, Kevin Qinghong Lin*
 - **Generative Visual Code Mobile World Models**, `arXiv, 2602.01576`, [arxiv](https://arxiv.org/abs/2602.01576v1), [pdf](https://arxiv.org/pdf/2602.01576v1.pdf), cication: [**-1**](None) 
 
 	 *Woosung Koh, Sungjun Han, Segyu Lee, ..., Se-Young Yun, Jamin Shin*

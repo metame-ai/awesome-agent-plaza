@@ -17,6 +17,9 @@
 
 ## LLM Reasoning
 
+- [Learning to Self-Verify Makes Language Models Better Reasoners](https://arxiv.org/abs/2602.07594)
+- [Paper page - Weak-Driven Learning: How Weak Agents make Strong Agents Stronger](https://huggingface.co/papers/2602.08222)
+- [Paper page - Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation](https://huggingface.co/papers/2602.12125)
 - **Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits**, `arXiv, 2512.20578`, [arxiv](https://arxiv.org/abs/2512.20578v2), [pdf](https://arxiv.org/pdf/2512.20578v2.pdf), cication: [**-1**](None) 
 
 	 *Amirhosein Ghasemabadi, Di Niu*
@@ -57,6 +60,8 @@
 
 ## Reinforcement Learning
 
+- [Paper page - Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models](https://huggingface.co/papers/2602.12036)
+- [Paper page - iGRPO: Self-Feedback-Driven LLM Reasoning](https://huggingface.co/papers/2602.09000)
 - **Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs**, `arXiv, 2601.08763`, [arxiv](https://arxiv.org/abs/2601.08763v2), [pdf](https://arxiv.org/pdf/2601.08763v2.pdf), cication: [**-1**](None) 
 
 	 *Zhiyuan Hu, Yucheng Wang, Yufei He, ..., Hae Won Park, Bryan Hooi*

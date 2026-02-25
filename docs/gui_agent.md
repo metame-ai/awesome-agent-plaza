@@ -24,6 +24,7 @@
 
 ## Mobile Use Agents
 
+- [**vePhone**](https://github.com/volcengine/vePhone) - volcengine ![Star](https://img.shields.io/github/stars/volcengine/vePhone.svg?style=social&label=Star)
 - **UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**, `arXiv, 2602.05832`, [arxiv](https://arxiv.org/abs/2602.05832v1), [pdf](https://arxiv.org/pdf/2602.05832v1.pdf), cication: [**-1**](None) 
 
 	 *Han Xiao, Guozhi Wang, Hao Wang, ..., Yafei Wen, Hongsheng Li*
@@ -100,6 +101,9 @@
 
 ## GUI Agents
 
+- **Code2World: A GUI World Model via Renderable Code Generation**, `arXiv, 2602.09856`, [arxiv](https://arxiv.org/abs/2602.09856v1), [pdf](https://arxiv.org/pdf/2602.09856v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhao Zheng, Li'an Zhong, Yi Wang, ..., Philip Torr, Kevin Qinghong Lin*
 - **Generative Visual Code Mobile World Models**, `arXiv, 2602.01576`, [arxiv](https://arxiv.org/abs/2602.01576v1), [pdf](https://arxiv.org/pdf/2602.01576v1.pdf), cication: [**-1**](None) 
 
 	 *Woosung Koh, Sungjun Han, Segyu Lee, ..., Se-Young Yun, Jamin Shin*
@@ -137,6 +141,9 @@
 
 ## Evaluation
 
+- **GEBench: Benchmarking Image Generation Models as GUI Environments**, `arXiv, 2602.09007`, [arxiv](https://arxiv.org/abs/2602.09007v2), [pdf](https://arxiv.org/pdf/2602.09007v2.pdf), cication: [**-1**](None) 
+
+	 *Haodong Li, Jingwei Wu, Quan Sun, ..., Xiangyu Zhang, Daxin Jiang*
 - **MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments**, `arXiv, 2602.06075`, [arxiv](https://arxiv.org/abs/2602.06075v1), [pdf](https://arxiv.org/pdf/2602.06075v1.pdf), cication: [**-1**](None) 
 
 	 *Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, ..., Liang Liu, Yong Liu*
@@ -157,6 +164,9 @@
 
 ## Data
 
+- **ANCHOR: Branch-Point Data Generation for GUI Agents**, `arXiv, 2602.07153`, [arxiv](https://arxiv.org/abs/2602.07153v1), [pdf](https://arxiv.org/pdf/2602.07153v1.pdf), cication: [**-1**](None) 
+
+	 *Jinbiao Wei, Yilun Zhao, Kangqi Ni, ..., Arman Cohan*
 - **OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution**, `arXiv, 2601.20380`, [arxiv](https://arxiv.org/abs/2601.20380v1), [pdf](https://arxiv.org/pdf/2601.20380v1.pdf), cication: [**-1**](None) 
 
 	 *Le Zhang, Yixiong Xiao, Xinjiang Lu, ..., Hua Wu, Haifeng Wang*

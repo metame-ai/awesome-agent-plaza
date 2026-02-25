@@ -8,6 +8,8 @@
 
 ## Science Agent
 
+- [Paper page - InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery](https://huggingface.co/papers/2602.08990)
+- [**superhuman**](https://github.com/google-deepmind/superhuman) - google-deepmind ![Star](https://img.shields.io/github/stars/google-deepmind/superhuman.svg?style=social&label=Star)
 - **Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives**, `arXiv, 2601.20833`, [arxiv](https://arxiv.org/abs/2601.20833v1), [pdf](https://arxiv.org/pdf/2601.20833v1.pdf), cication: [**-1**](None) 
 
 	 *Tengyue Xu, Zhuoyang Qian, Gaoge Liu, ..., Harry Wang, Kris Chen*

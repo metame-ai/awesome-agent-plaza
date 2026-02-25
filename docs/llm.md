@@ -117,6 +117,9 @@
 
 ## Data
 
+- **OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration**, `arXiv, 2602.05400`, [arxiv](https://arxiv.org/abs/2602.05400v2), [pdf](https://arxiv.org/pdf/2602.05400v2.pdf), cication: [**-1**](None) 
+
+	 *Shaobo Wang, Xuan Ouyang, Tianyi Xu, ..., Dayiheng Liu, Linfeng Zhang*
 - **Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text**, `arXiv, 2601.10355`, [arxiv](https://arxiv.org/abs/2601.10355v1), [pdf](https://arxiv.org/pdf/2601.10355v1.pdf), cication: [**-1**](None) 
 
 	 *Zhihao Xu, Rumei Li, Jiahuan Li, ..., Xunliang Cai, Xiting Wang*
@@ -143,6 +146,7 @@
 
 	 *Sean McLeish, Ang Li, John Kirchenbauer, ..., Tom Goldstein, Micah Goldblum* · ([𝕏](https://x.com/micahgoldblum/status/1988265009508655528))
 ## LLM Model
-- 🌟 **mHC: Manifold-Constrained Hyper-Connections**, `arXiv, 2512.24880`, [arxiv](https://arxiv.org/abs/2512.24880v2), [pdf](https://arxiv.org/pdf/2512.24880v2.pdf), cication: [**-1**](None) 
+
+- [Next Concept Prediction in Discrete Latent Space Leads to Stronger Language Models](https://arxiv.org/abs/2602.08984)- 🌟 **mHC: Manifold-Constrained Hyper-Connections**, `arXiv, 2512.24880`, [arxiv](https://arxiv.org/abs/2512.24880v2), [pdf](https://arxiv.org/pdf/2512.24880v2.pdf), cication: [**-1**](None)
 
 	 *Zhenda Xie, Yixuan Wei, Huanqi Cao, ..., Lean Wang, Wenfeng Liang*

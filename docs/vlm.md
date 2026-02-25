@@ -15,6 +15,9 @@
 
 ## VLM
 
+- **Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models**, `arXiv, 2602.07026`, [arxiv](https://arxiv.org/abs/2602.07026v1), [pdf](https://arxiv.org/pdf/2602.07026v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaomin Yu, Yi Xin, Wenjie Zhang, ..., Yu Qiao, Shuicheng Yan*
 - **DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**, `arXiv, 2601.10305`, [arxiv](https://arxiv.org/abs/2601.10305v2), [pdf](https://arxiv.org/pdf/2601.10305v2.pdf), cication: [**-1**](None) 
 
 	 *Hengyu Shen, Tiancheng Gu, Bin Qin, ..., Ziyong Feng, Kaicheng Yang*
