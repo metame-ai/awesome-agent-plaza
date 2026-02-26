@@ -14,7 +14,9 @@
 
 ## Long Context
 
-- [Paper page - When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](https://huggingface.co/papers/2602.10560)
+- **When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning**, `arXiv, 2602.10560`, [arxiv](https://arxiv.org/abs/2602.10560v1), [pdf](https://arxiv.org/pdf/2602.10560v1.pdf), cication: [**-1**](None) 
+
+	 *Leheng Sheng, Yongtao Zhang, Wenchang Ma, ..., Ke Shen, Tat-Seng Chua*
 - **Online Vector Quantized Attention**, `arXiv, 2602.03922`, [arxiv](https://arxiv.org/abs/2602.03922v2), [pdf](https://arxiv.org/pdf/2602.03922v2.pdf), cication: [**-1**](None) 
 
 	 *Nick Alonso, Tomas Figliolia, Beren Millidge*

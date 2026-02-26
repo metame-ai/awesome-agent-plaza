@@ -6,7 +6,7 @@
 
 ## Audio LM
 
-- [**moonshine**](https://github.com/moonshine-ai/moonshine) - moonshine-ai ![Star](https://img.shields.io/github/stars/moonshine-ai/moonshine.svg?style=social&label=Star)
+- [**moonshine**](https://github.com/moonshine-ai/moonshine) - moonshine-ai ![Star](https://img.shields.io/github/stars/moonshine-ai/moonshine.svg?style=social&label=Star) 
 - [**sam-audio**](https://github.com/facebookresearch/sam-audio) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/sam-audio.svg?style=social&label=Star) 
 
 ## Audio Encodec

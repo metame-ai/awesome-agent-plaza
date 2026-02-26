@@ -147,6 +147,8 @@
 	 *Sean McLeish, Ang Li, John Kirchenbauer, ..., Tom Goldstein, Micah Goldblum* · ([𝕏](https://x.com/micahgoldblum/status/1988265009508655528))
 ## LLM Model
 
-- [Next Concept Prediction in Discrete Latent Space Leads to Stronger Language Models](https://arxiv.org/abs/2602.08984)- 🌟 **mHC: Manifold-Constrained Hyper-Connections**, `arXiv, 2512.24880`, [arxiv](https://arxiv.org/abs/2512.24880v2), [pdf](https://arxiv.org/pdf/2512.24880v2.pdf), cication: [**-1**](None)
+- **mHC: Manifold-Constrained Hyper-Connections**, `arXiv, 2512.24880`, [arxiv](https://arxiv.org/abs/2512.24880v2), [pdf](https://arxiv.org/pdf/2512.24880v2.pdf), cication: [**-1**](None) 
+
+	 *Zhenda Xie, Yixuan Wei, Huanqi Cao, ..., Lean Wang, Wenfeng Liang*
 
 	 *Zhenda Xie, Yixuan Wei, Huanqi Cao, ..., Lean Wang, Wenfeng Liang*

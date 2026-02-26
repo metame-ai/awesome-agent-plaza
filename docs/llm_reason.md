@@ -17,9 +17,15 @@
 
 ## LLM Reasoning
 
-- [Learning to Self-Verify Makes Language Models Better Reasoners](https://arxiv.org/abs/2602.07594)
-- [Paper page - Weak-Driven Learning: How Weak Agents make Strong Agents Stronger](https://huggingface.co/papers/2602.08222)
-- [Paper page - Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation](https://huggingface.co/papers/2602.12125)
+- **Learning to Self-Verify Makes Language Models Better Reasoners**, `arXiv, 2602.07594`, [arxiv](https://arxiv.org/abs/2602.07594v1), [pdf](https://arxiv.org/pdf/2602.07594v1.pdf), cication: [**-1**](None) 
+
+	 *Yuxin Chen, Yu Wang, Yi Zhang, ..., An Zhang, Tat-Seng Chua*
+- **Weak-Driven Learning: How Weak Agents make Strong Agents Stronger**, `arXiv, 2602.08222`, [arxiv](https://arxiv.org/abs/2602.08222v1), [pdf](https://arxiv.org/pdf/2602.08222v1.pdf), cication: [**-1**](None) 
+
+	 *Zehao Chen, Gongxun Li, Tianxiang Ai, ..., Deqing Wang, Yikun Ban*
+- **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**, `arXiv, 2602.12125`, [arxiv](https://arxiv.org/abs/2602.12125v1), [pdf](https://arxiv.org/pdf/2602.12125v1.pdf), cication: [**-1**](None) 
+
+	 *Wenkai Yang, Weijie Liu, Ruobing Xie, ..., Saiyong Yang, Yankai Lin*
 - **Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits**, `arXiv, 2512.20578`, [arxiv](https://arxiv.org/abs/2512.20578v2), [pdf](https://arxiv.org/pdf/2512.20578v2.pdf), cication: [**-1**](None) 
 
 	 *Amirhosein Ghasemabadi, Di Niu*
@@ -60,8 +66,12 @@
 
 ## Reinforcement Learning
 
-- [Paper page - Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models](https://huggingface.co/papers/2602.12036)
-- [Paper page - iGRPO: Self-Feedback-Driven LLM Reasoning](https://huggingface.co/papers/2602.09000)
+- **Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models**, `arXiv, 2602.12036`, [arxiv](https://arxiv.org/abs/2602.12036v1), [pdf](https://arxiv.org/pdf/2602.12036v1.pdf), cication: [**-1**](None) 
+
+	 *Xin Xu, Clive Bai, Kai Yang, ..., Saiyong Yang, Can Yang*
+- **iGRPO: Self-Feedback-Driven LLM Reasoning**, `arXiv, 2602.09000`, [arxiv](https://arxiv.org/abs/2602.09000v1), [pdf](https://arxiv.org/pdf/2602.09000v1.pdf), cication: [**-1**](None) 
+
+	 *Ali Hatamizadeh, Shrimai Prabhumoye, Igor Gitman, ..., Yejin Choi, Jan Kautz*
 - **Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs**, `arXiv, 2601.08763`, [arxiv](https://arxiv.org/abs/2601.08763v2), [pdf](https://arxiv.org/pdf/2601.08763v2.pdf), cication: [**-1**](None) 
 
 	 *Zhiyuan Hu, Yucheng Wang, Yufei He, ..., Hae Won Park, Bryan Hooi*
@@ -124,7 +134,10 @@
 	 *Guochao Jiang, Wenfeng Feng, Guofeng Quan, ..., Guohua Liu, Hao Wang*
 
 ## RLVR
-- **SimKO: Simple Pass@K Policy Optimization**, `arXiv, 2510.14807`, [arxiv](http://arxiv.org/abs/2510.14807v2), [pdf](http://arxiv.org/pdf/2510.14807v2.pdf), cication: [**-1**](None) 
+
+- **SimKO: Simple Pass@K Policy Optimization**, `arXiv, 2510.14807`, [arxiv](https://arxiv.org/abs/2510.14807v2), [pdf](https://arxiv.org/pdf/2510.14807v2.pdf), cication: [**-1**](None) 
+
+	 *Ruotian Peng, Yi Ren, Zhouliang Yu, ..., Weiyang Liu, Yandong Wen*
 
 	 *Ruotian Peng, Yi Ren, Zhouliang Yu, ..., Weiyang Liu, Yandong Wen* · ([SimKO](https://github.com/CLR-Lab/SimKO) - CLR-Lab) ![Star](https://img.shields.io/github/stars/CLR-Lab/SimKO.svg?style=social&label=Star) · ([spherelab](https://spherelab.ai/simko/)))
 

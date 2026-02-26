@@ -24,7 +24,7 @@
 
 ## Mobile Use Agents
 
-- [**vePhone**](https://github.com/volcengine/vePhone) - volcengine ![Star](https://img.shields.io/github/stars/volcengine/vePhone.svg?style=social&label=Star)
+- [**vePhone**](https://github.com/volcengine/vePhone) - volcengine ![Star](https://img.shields.io/github/stars/volcengine/vePhone.svg?style=social&label=Star) 
 - **UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**, `arXiv, 2602.05832`, [arxiv](https://arxiv.org/abs/2602.05832v1), [pdf](https://arxiv.org/pdf/2602.05832v1.pdf), cication: [**-1**](None) 
 
 	 *Han Xiao, Guozhi Wang, Hao Wang, ..., Yafei Wen, Hongsheng Li*

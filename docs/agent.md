@@ -32,7 +32,7 @@
 - **ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training**, `arXiv, 2602.06820`, [arxiv](https://arxiv.org/abs/2602.06820v1), [pdf](https://arxiv.org/pdf/2602.06820v1.pdf), cication: [**-1**](None) 
 
 	 *Dunwei Tu, Hongyan Hao, Hansi Yang, ..., Hui Su, Xunliang Cai*
-- [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](https://huggingface.co/blog/openenv-turing)  🤗
+- [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](https://huggingface.co/blog/openenv-turing)  🤗 
 - **ToolGym: an Open-world Tool-using Environment for Scalable Agent Testing and Data Curation**, `arXiv, 2601.06328`, [arxiv](https://arxiv.org/abs/2601.06328v1), [pdf](https://arxiv.org/pdf/2601.06328v1.pdf), cication: [**-1**](None) 
 
 	 *Ziqiao Xi, Shuang Liang, Qi Liu, ..., Biwei Huang, Kun Zhou*
@@ -88,7 +88,7 @@
 - **SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning**, `arXiv, 2602.08234`, [arxiv](https://arxiv.org/abs/2602.08234v1), [pdf](https://arxiv.org/pdf/2602.08234v1.pdf), cication: [**-1**](None) 
 
 	 *Peng Xia, Jianwen Chen, Hanyang Wang, ..., Cihang Xie, Huaxiu Yao*
-- [**slime**](https://github.com/THUDM/slime) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/slime.svg?style=social&label=Star)
+- [**slime**](https://github.com/THUDM/slime) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/slime.svg?style=social&label=Star) 
 - **Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning**, `arXiv, 2511.14460`, [arxiv](https://arxiv.org/abs/2511.14460v1), [pdf](https://arxiv.org/pdf/2511.14460v1.pdf), cication: [**-1**](None) 
 
 	 *Mingyue Cheng, Jie Ouyang, Shuo Yu, ..., Qi Liu, Enhong Chen*
