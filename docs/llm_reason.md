@@ -135,6 +135,9 @@
 
 ## RLVR
 
+- **Rethinking the Trust Region in LLM Reinforcement Learning**, `arXiv, 2602.04879`, [arxiv](https://arxiv.org/abs/2602.04879v1), [pdf](https://arxiv.org/pdf/2602.04879v1.pdf), cication: [**-1**](None) 
+
+	 *Penghui Qi, Xiangxin Zhou, Zichen Liu, ..., Min Lin, Wee Sun Lee* · ([𝕏](https://x.com/TheTuringPost/status/2022326245745377562))
 - **SimKO: Simple Pass@K Policy Optimization**, `arXiv, 2510.14807`, [arxiv](https://arxiv.org/abs/2510.14807v2), [pdf](https://arxiv.org/pdf/2510.14807v2.pdf), cication: [**-1**](None) 
 
 	 *Ruotian Peng, Yi Ren, Zhouliang Yu, ..., Weiyang Liu, Yandong Wen*

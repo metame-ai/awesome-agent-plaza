@@ -81,6 +81,9 @@
 
 ## Web Agents
 
+- **WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis**, `arXiv, 2507.04370`, [arxiv](https://arxiv.org/abs/2507.04370v1), [pdf](https://arxiv.org/pdf/2507.04370v1.pdf), cication: [**-1**](None) 
+
+	 *Yifei Gao, Junhong Ye, Jiaqi Wang, ..., Jitao Sang*
 - **DynaWeb: Model-Based Reinforcement Learning of Web Agents**, `arXiv, 2601.22149`, [arxiv](https://arxiv.org/abs/2601.22149v1), [pdf](https://arxiv.org/pdf/2601.22149v1.pdf), cication: [**-1**](None) 
 
 	 *Hang Ding, Peidong Liu, Junqiao Wang, ..., Tianyu Shi, Lei Yu*
@@ -101,6 +104,7 @@
 
 ## GUI Agents
 
+- [The First Fully General Computer Action Model](https://si.inc/posts/fdm1/) 
 - **Code2World: A GUI World Model via Renderable Code Generation**, `arXiv, 2602.09856`, [arxiv](https://arxiv.org/abs/2602.09856v1), [pdf](https://arxiv.org/pdf/2602.09856v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhao Zheng, Li'an Zhong, Yi Wang, ..., Philip Torr, Kevin Qinghong Lin*

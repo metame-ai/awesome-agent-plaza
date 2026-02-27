@@ -11,6 +11,7 @@
 
 ## Survey
 
+- [**Awesome-Continual-Learning-in-Generative-Models**](https://github.com/Ghy0501/Awesome-Continual-Learning-in-Generative-Models) - Ghy0501 ![Star](https://img.shields.io/github/stars/Ghy0501/Awesome-Continual-Learning-in-Generative-Models.svg?style=social&label=Star)
 
 ## LLM Evolving
 

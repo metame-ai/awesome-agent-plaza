@@ -19,6 +19,9 @@
 
 ## World Model
 
+- **WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis**, `arXiv, 2507.04370`, [arxiv](https://arxiv.org/abs/2507.04370v1), [pdf](https://arxiv.org/pdf/2507.04370v1.pdf), cication: [**-1**](None) 
+
+	 *Yifei Gao, Junhong Ye, Jiaqi Wang, ..., Jitao Sang*
 - **Code2World: A GUI World Model via Renderable Code Generation**, `arXiv, 2602.09856`, [arxiv](https://arxiv.org/abs/2602.09856v1), [pdf](https://arxiv.org/pdf/2602.09856v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhao Zheng, Li'an Zhong, Yi Wang, ..., Philip Torr, Kevin Qinghong Lin*

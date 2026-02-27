@@ -16,7 +16,9 @@
 
 ## VLM Reasoning
 
-- [Paper page - Thinking with Drafting: Optical Decompression via Logical Reconstruction](https://huggingface.co/papers/2602.11731)
+- **Thinking with Drafting: Optical Decompression via Logical Reconstruction**, `arXiv, 2602.11731`, [arxiv](https://arxiv.org/abs/2602.11731v1), [pdf](https://arxiv.org/pdf/2602.11731v1.pdf), cication: [**-1**](None) 
+
+	 *Jingxuan Wei, Honghao He, Caijun Jia, ..., Xiangxiang Zhang, Cheng Tan*
 - **Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**, `arXiv, 2601.05432`, [arxiv](https://arxiv.org/abs/2601.05432v1), [pdf](https://arxiv.org/pdf/2601.05432v1.pdf), cication: [**-1**](None) 
 
 	 *Yuxiang Ji, Yong Wang, Ziyu Ma, ..., Liaoni Wu, Xiangxiang Chu*

@@ -17,7 +17,7 @@
 ## Code Agents
 
 - [采用RepoLaunch框架自动分析仓库安装和依赖设置](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870196&idx=1&sn=ca30f79058177a122f5ebd558529f506&chksm=e9113526c0aff08ba5fb1a4b28992786f9429ee4f6e710cb4c5f6311b0cfa300a87c27a2e751&scene=0&xtrack=1) 
-- [**RepoLaunch**](https://github.com/microsoft/RepoLaunch) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/RepoLaunch.svg?style=social&label=Star)
+- [**RepoLaunch**](https://github.com/microsoft/RepoLaunch) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/RepoLaunch.svg?style=social&label=Star) 
 - [Open Coding Agents](https://huggingface.co/collections/allenai/open-coding-agents)  🤗 
 - **Computer-Use Agents as Judges for Generative User Interface**, `arXiv, 2511.15567`, [arxiv](https://arxiv.org/abs/2511.15567v1), [pdf](https://arxiv.org/pdf/2511.15567v1.pdf), cication: [**-1**](None) 
 
