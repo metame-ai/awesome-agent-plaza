@@ -104,6 +104,15 @@
 
 ## GUI Agents
 
+- **GTA1: GUI Test-time Scaling Agent**, `arXiv, 2507.05791`, [arxiv](https://arxiv.org/abs/2507.05791v5), [pdf](https://arxiv.org/pdf/2507.05791v5.pdf), cication: [**-1**](None) 
+
+	 *Yan Yang, Dongxu Li, Yutong Dai, ..., Caiming Xiong, Junnan Li*
+- **AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation**, `arXiv, 2412.18116`, [arxiv](https://arxiv.org/abs/2412.18116v3), [pdf](https://arxiv.org/pdf/2412.18116v3.pdf), cication: [**-1**](None) 
+
+	 *Hao Wen, Shizuo Tian, Borislav Pavlov, ..., Ya-Qin Zhang, Yuanchun Li*
+- **GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration**, `arXiv, 2503.17709`, [arxiv](https://arxiv.org/abs/2503.17709v1), [pdf](https://arxiv.org/pdf/2503.17709v1.pdf), cication: [**-1**](None) 
+
+	 *Yuchen Sun, Shanhui Zhao, Tao Yu, ..., Yuanchun Li, Chongyang Zhang*
 - [The First Fully General Computer Action Model](https://si.inc/posts/fdm1/) 
 - **Code2World: A GUI World Model via Renderable Code Generation**, `arXiv, 2602.09856`, [arxiv](https://arxiv.org/abs/2602.09856v1), [pdf](https://arxiv.org/pdf/2602.09856v1.pdf), cication: [**-1**](None) 
 

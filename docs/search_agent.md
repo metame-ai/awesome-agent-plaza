@@ -18,6 +18,7 @@
 
 ## Search Agent
 
+- [**deer-flow**](https://github.com/bytedance/deer-flow) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/deer-flow.svg?style=social&label=Star)
 - [OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis](https://boiled-honeycup-4c7.notion.site/OpenResearcher-A-Fully-Open-Pipeline-for-Long-Horizon-Deep-Research-Trajectory-Synthesis-2f7e290627b5800cb3a0cd7e8d6ec0ea) 
 
 	 · ([𝕏](https://x.com/DongfuJiang/status/2020946549422031040))

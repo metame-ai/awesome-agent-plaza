@@ -40,7 +40,8 @@
 
 
 ## Toolkits
-- [**deepchat**](https://github.com/ThinkInAIXYZ/deepchat) - ThinkInAIXYZ ![Star](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat.svg?style=social&label=Star) 
+
+- [LangExtract](https://github.com/google/langextract)- [**deepchat**](https://github.com/ThinkInAIXYZ/deepchat) - ThinkInAIXYZ ![Star](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat.svg?style=social&label=Star) 
 
 
 ## LLM Misc
