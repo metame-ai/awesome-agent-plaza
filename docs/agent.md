@@ -26,7 +26,7 @@
 
 ## Environment
 
-- [**OpenSandbox**](https://github.com/alibaba/OpenSandbox) - alibaba ![Star](https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social&label=Star)
+- [**OpenSandbox**](https://github.com/alibaba/OpenSandbox) - alibaba ![Star](https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social&label=Star) 
 - **Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**, `arXiv, 2602.10090`, [arxiv](https://arxiv.org/abs/2602.10090v2), [pdf](https://arxiv.org/pdf/2602.10090v2.pdf), cication: [**-1**](None) 
 
 	 *Zhaoyang Wang, Canwen Xu, Boyi Liu, ..., Huaxiu Yao, Yuxiong He*
@@ -54,7 +54,7 @@
 
 ## Agent
 
-- [**deer-flow**](https://github.com/bytedance/deer-flow) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/deer-flow.svg?style=social&label=Star)
+- [**deer-flow**](https://github.com/bytedance/deer-flow) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/deer-flow.svg?style=social&label=Star) 
 - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) 
 - **Real-Time Reasoning Agents in Evolving Environments**, `arXiv, 2511.04898`, [arxiv](https://arxiv.org/abs/2511.04898v1), [pdf](https://arxiv.org/pdf/2511.04898v1.pdf), cication: [**-1**](None) 
 
