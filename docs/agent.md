@@ -54,6 +54,9 @@
 
 ## Agent
 
+- [**open-cowork**](https://github.com/OpenCoworkAI/open-cowork) - OpenCoworkAI ![Star](https://img.shields.io/github/stars/OpenCoworkAI/open-cowork.svg?style=social&label=Star)
+
+	 *Your Personal AI Agent Desktop App*
 - [**deer-flow**](https://github.com/bytedance/deer-flow) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/deer-flow.svg?style=social&label=Star) 
 - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) 
 - **Real-Time Reasoning Agents in Evolving Environments**, `arXiv, 2511.04898`, [arxiv](https://arxiv.org/abs/2511.04898v1), [pdf](https://arxiv.org/pdf/2511.04898v1.pdf), cication: [**-1**](None) 
@@ -140,3 +143,5 @@
 
 ## Product
 - [Unleash Real-Time Agentic AI with Streaming Agents on Confluent Cloud and Weaviate](https://weaviate.io/blog/confluent-streaming-agents-and-weaviate) 
+## Applications
+- [**CoPaw**](https://github.com/agentscope-ai/CoPaw) - agentscope-ai ![Star](https://img.shields.io/github/stars/agentscope-ai/CoPaw.svg?style=social&label=Star)

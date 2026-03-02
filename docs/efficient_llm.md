@@ -29,6 +29,12 @@
 
 ## LoRA
 
+- **Doc-to-LoRA: Learning to Instantly Internalize Contexts**, `arXiv, 2602.15902`, [arxiv](https://arxiv.org/abs/2602.15902v1), [pdf](https://arxiv.org/pdf/2602.15902v1.pdf), cication: [**-1**](None) 
+
+	 *Rujikorn Charakorn, Edoardo Cetin, Shinnosuke Uesaka, ..., Robert Tjarko Lange*
+- **Text-to-LoRA: Instant Transformer Adaption**, `arXiv, 2506.06105`, [arxiv](https://arxiv.org/abs/2506.06105v2), [pdf](https://arxiv.org/pdf/2506.06105v2.pdf), cication: [**-1**](None) 
+
+	 *Rujikorn Charakorn, Edoardo Cetin, Yujin Tang, ..., Robert Tjarko Lange*
 
 ## Quantization
 
