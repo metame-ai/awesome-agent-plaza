@@ -14,7 +14,10 @@
 
 ## RAG
 
-- [Diffusion-Pretrained Dense and Contextual Embeddings    Upvote 77   +67](https://huggingface.co/collections/perplexity-ai/pplx-embed)  🤗
+- [**sirchmunk**](https://github.com/modelscope/sirchmunk) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/sirchmunk.svg?style=social&label=Star)
+
+	 *Raw data to self-evolving intelligence, real-time.*
+- [Diffusion-Pretrained Dense and Contextual Embeddings    Upvote 77   +67](https://huggingface.co/collections/perplexity-ai/pplx-embed)  🤗 
 - [**memU**](https://github.com/NevaMind-AI/memU) - NevaMind-AI ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star) 
 - **Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling**, `arXiv, 2512.23959`, [arxiv](https://arxiv.org/abs/2512.23959v2), [pdf](https://arxiv.org/pdf/2512.23959v2.pdf), cication: [**-1**](None) 
 
