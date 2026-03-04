@@ -14,7 +14,7 @@
 
 ## RAG
 
-- [**sirchmunk**](https://github.com/modelscope/sirchmunk) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/sirchmunk.svg?style=social&label=Star)
+- [**sirchmunk**](https://github.com/modelscope/sirchmunk) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/sirchmunk.svg?style=social&label=Star) 
 
 	 *Raw data to self-evolving intelligence, real-time.*
 - [Diffusion-Pretrained Dense and Contextual Embeddings    Upvote 77   +67](https://huggingface.co/collections/perplexity-ai/pplx-embed)  🤗 
