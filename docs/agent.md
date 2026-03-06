@@ -54,6 +54,9 @@
 
 ## Agent
 
+- [**OpenViking**](https://github.com/volcengine/OpenViking) - volcengine ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social&label=Star)
+
+	 *The Context Database for AI Agents*
 - [**open-cowork**](https://github.com/OpenCoworkAI/open-cowork) - OpenCoworkAI ![Star](https://img.shields.io/github/stars/OpenCoworkAI/open-cowork.svg?style=social&label=Star) 
 
 	 *Your Personal AI Agent Desktop App*
