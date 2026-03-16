@@ -14,6 +14,9 @@
 
 ## Long Context
 
+- **Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking**, `arXiv, 2602.21196`, [arxiv](https://arxiv.org/abs/2602.21196v1), [pdf](https://arxiv.org/pdf/2602.21196v1.pdf), cication: [**-1**](None) 
+
+	 *Ravi Ghadia, Maksim Abraham, Sergei Vorobyov, ..., Max Ryabinin*
 - **When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning**, `arXiv, 2602.10560`, [arxiv](https://arxiv.org/abs/2602.10560v1), [pdf](https://arxiv.org/pdf/2602.10560v1.pdf), cication: [**-1**](None) 
 
 	 *Leheng Sheng, Yongtao Zhang, Wenchang Ma, ..., Ke Shen, Tat-Seng Chua*

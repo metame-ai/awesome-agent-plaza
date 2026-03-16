@@ -54,6 +54,7 @@
 
 ## Agent
 
+- [Repeated KV cache for long-running agents](https://www.baseten.co/research/repeated-kv-cache-for-long-running-agents/) 
 - [**OpenViking**](https://github.com/volcengine/OpenViking) - volcengine ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social&label=Star) 
 
 	 *The Context Database for AI Agents*
