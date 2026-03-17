@@ -18,6 +18,9 @@
 
 ## Search Agent
 
+- **AgentIR: Reasoning-Aware Retrieval for Deep Research Agents**, `arXiv, 2603.04384`, [arxiv](https://arxiv.org/abs/2603.04384v3), [pdf](https://arxiv.org/pdf/2603.04384v3.pdf), cication: [**-1**](None) 
+
+	 *Zijian Chen, Xueguang Ma, Shengyao Zhuang, ..., Akari Asai, Victor Zhong*
 - [**deer-flow**](https://github.com/bytedance/deer-flow) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/deer-flow.svg?style=social&label=Star) 
 - [OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis](https://boiled-honeycup-4c7.notion.site/OpenResearcher-A-Fully-Open-Pipeline-for-Long-Horizon-Deep-Research-Trajectory-Synthesis-2f7e290627b5800cb3a0cd7e8d6ec0ea) 
 

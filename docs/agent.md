@@ -54,6 +54,8 @@
 
 ## Agent
 
+- [**hermes-agent-self-evolution**](https://github.com/NousResearch/hermes-agent-self-evolution/tree/main) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/hermes-agent-self-evolution.svg?style=social&label=Star)
+- [**hermes-agent-self-evolution**](https://github.com/NousResearch/hermes-agent-self-evolution/tree/main?tab=readme-ov-file) - NousResearch ![Star](https://img.shields.io/github/stars/NousResearch/hermes-agent-self-evolution.svg?style=social&label=Star)
 - [Repeated KV cache for long-running agents](https://www.baseten.co/research/repeated-kv-cache-for-long-running-agents/) 
 - [**OpenViking**](https://github.com/volcengine/OpenViking) - volcengine ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social&label=Star) 
 
