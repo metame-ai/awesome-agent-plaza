@@ -154,6 +154,9 @@
 
 ## Evaluation
 
+- **ClawBench: Can AI Agents Complete Everyday Online Tasks?**, `arXiv, 2604.08523`, [arxiv](https://arxiv.org/abs/2604.08523), [code](https://github.com/reacher-z/ClawBench), [project](https://claw-bench.com/)
+
+  *Yuxuan Zhang, Yubo Wang, Yipeng Zhu, et al.*
 - **GEBench: Benchmarking Image Generation Models as GUI Environments**, `arXiv, 2602.09007`, [arxiv](https://arxiv.org/abs/2602.09007v2), [pdf](https://arxiv.org/pdf/2602.09007v2.pdf), cication: [**-1**](None) 
 
 	 *Haodong Li, Jingwei Wu, Quan Sun, ..., Xiangyu Zhang, Daxin Jiang*
